@@ -1,0 +1,7 @@
+1.data/1.LepMAP/maps/*
+1.data/1.LepMAP/orders/*
+1.data/2.pyrho/estimates/*
+1.data/3.windows/*.bed
+1.data/3.windows/GC_windows/*
+1.data/3.windows/Gene_windows/*
+x.scripts/plots/comparing_LM_pruning_*
