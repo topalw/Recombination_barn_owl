@@ -13,11 +13,11 @@ rename.ss <- function(column){
 }
 
 ### FUNCTION 3 - make cM and cM/Mb columns from thetaxN
-haldane <- function(thetaxN_col){
-  # this is cM / window
-  cM_h <- -.5 * log(1-2*thetaxN_col) * 100
-  return(cM_h)
+hald <- function(data){
+  hald <- -0.5 * log(1 - (2*(data$rho * (data$b - data$a))), base=exp(1)) * 100
+  return(hald)
 }
+
 
 ### FUNCTION 4 - make windowed from orders 
 window.ped <- function(windows, ped, sex.based = FALSE){
