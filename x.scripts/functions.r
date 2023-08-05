@@ -1,4 +1,4 @@
-### FUNCTION 1 - α 
+### FUNCTION 1 - modify color transparency
 add.alpha <- function(col, alpha=1){
   if(missing(col))
     stop("Please provide a vector of colours.")
@@ -12,14 +12,14 @@ rename.ss <- function(column){
   return(paste0('ss',unlist(strsplit(column,'_'))[seq(2,length(column)*2,2)]))
 }
 
-### FUNCTION 3 - make cM and cM/Mb columns from thetaxN
+### FUNCTION 3 - make cM column from rho using Haldane's function
 hald <- function(data){
   hald <- -0.5 * log(1 - (2*(data$rho * (data$b - data$a))), base=exp(1)) * 100
   return(hald)
 }
 
 
-### FUNCTION 4 - make windowed from orders 
+### FUNCTION 4 - make windowed results from lepmap results  
 window.ped <- function(windows, ped, sex.based = FALSE){
   if(sex.based){
     res <- data.frame('m'=rep(NA,nrow(windows)),
@@ -46,11 +46,6 @@ window.ped <- function(windows, ped, sex.based = FALSE){
   return(res)
 }
 
-check.ss3 <- function(ss, pos){
-  if(ss == 'ss3'){
-    return(as.numeric(pos)- min(as.numeric(pos),na.rm = T))
-  } else { return(as.numeric(pos))}
-}
 
 ### FUNCTION 5 -  remove outlier markers from LepMap3 orders 
 prune.ends <- function(cMcol, nloc=20, cm.cutoff=2){
@@ -73,4 +68,15 @@ prune.ends <- function(cMcol, nloc=20, cm.cutoff=2){
   outside <- true.indx[! true.indx %in% seq(a,b)]
   cMcol[outside] <- NA
   return(cMcol)
+}
+
+cmmb <- function(row){
+  return((row[3]/(row[2]-row[1])) * 1e6 )
+}
+
+# FUNCTION 6 - unknown ! 
+check.ss3 <- function(ss, pos){
+  if(ss == 'ss3'){
+    return(as.numeric(pos)- min(as.numeric(pos),na.rm = T))
+  } else { return(as.numeric(pos))}
 }

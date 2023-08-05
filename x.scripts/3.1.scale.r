@@ -55,14 +55,23 @@ d <- left_join(lm.s,py.all, by='ss')
 # scale pyrho
 scales <- data.frame('pop'=c('ch','pt','gb','ch13_1','ch13_2'),
                      'scaling_factor'=rep(0,5))
+# for each pop get scaling factor but make sure you dont use ss3 and 49 (cause its 2 ss in LM)
 for(i in 5:9){
-  scales$scaling_factor[i-4] <- sum(d$lm.cM) / sum(d[,i])
+  scales$scaling_factor[i-4] <- sum(d$lm.cM[d$lg!=20]) / sum(d[,i])
 }
 ch$cM.scaled <- ch$hald * scales$scaling_factor[1]
 pt$cM.scaled <- pt$hald * scales$scaling_factor[2]
 gb$cM.scaled <- gb$hald * scales$scaling_factor[3]
 ch13_1$cM.scaled <- ch13_1$hald * scales$scaling_factor[4]
 ch13_2$cM.scaled <- ch13_2$hald * scales$scaling_factor[5]
+
+### PLOT
+jpeg('plots/scaling_factor.jpeg',height=8,width=8,units = 'in',quality=800,res = 800)
+boxplot(cbind(d$lm.cM/d$ch.cM,d$lm.cM/d$pt.cM,d$lm.cM/d$gb.cM,d$lm.cM/d$ch13_1.cM,d$lm.cM/d$ch13_2.cM),
+        ylim=c(0,5), ylab='LepMAP3 cM / pyrho cM', main='Scaling factor per Super Scaffold',xaxt='n')
+points(y=scales$scaling_factor,x=1:5,pch=18,col='red')
+axis(1,at=1:5,labels=c('CH','PT','GB','CH13_1','CH13_2'))
+dev.off()
 
 ### WRITE 
 write_delim(ch,'../1.data/2.pyrho/scaled_datasets/ch_scaled_all.txt',quote = 'none',eol='\n')
