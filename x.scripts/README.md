@@ -56,7 +56,7 @@ File `4.8.rintra.r` calculates the ration of intrachromosomal shuffling ($\overl
 
 ## Plotting 
 
-File `5.0.manuscript_figures.r` makes the $v1/_figureX$ pdfs in `plots/` which are then modified in illustrator to produce the $v2/_$ final versions of figures. 
+File `5.0.manuscript_figures.r` makes the $v1$ pdfs in `plots/` which are then modified in illustrator to produce the $v2$ final versions of figures. 
 
 Filte `5.1.supplementary_tables_figures.r` makes the supplementary figure in `plots/SUPP*` and a couple of tables, in `../2.metadata`. 
 
