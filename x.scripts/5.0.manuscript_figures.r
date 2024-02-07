@@ -9,6 +9,8 @@
 
 
 { # TOOLS NEEDED 
+  # only works in Rstudio
+  setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 source('functions.r')
 library(tidyverse)
 library(corrplot)
@@ -165,8 +167,8 @@ overlaps <- read.table('overlaps.table')
 axis.size=1.4
 mtext.size=1.3
 # colours
-crp <- viridis::mako(nrow(lms),alpha=.8,direction=-1)
-lms$col <- crp[order(lms$len,decreasing = F)]
+crp <- viridis::mako(nrow(lms),alpha=1,direction=1)
+lms$col[order(lms$lenN,decreasing = T)] <- crp
 malecolor=viridis::mako(4)[3]
 femalecolor=viridis::mako(4)[2]
 # file 
@@ -181,16 +183,13 @@ layout(matrix(c(1,5,
        heights=c(.5,.5,1,1),
        widths=c(1,1))
 # PLOT 1 - cM~Mb
-{
+{ 
   # regression 
   lm1 <- lm(av~lenN,data=lms)
   # plot 
   plot(y=lms$av,x=lms$lenN, col=lms$col, xlab='', 
        ylab='', main='', axes =F,pch=20, 
        cex=6, xlim=c(0,70),ylim=c(0,100))
-  points(y=lms$av[lms$lg %in% lg.ex],x=lms$lenN[lms$lg %in% lg.ex],
-         col=add.alpha(lms$col[lms$lg %in% lg.ex],.7), pch=lms$pch[lms$lg %in% lg.ex],
-         cex = 6)
   # peripherals 
   axis(1, at = c(0,20,40,60,70), labels=c(0,20,40,60,70),cex.axis=axis.size)
   axis(2, at = c(0,20,41,60,80,100), labels= c(0,20,41,60,80,100),
@@ -204,6 +203,7 @@ layout(matrix(c(1,5,
   lines(y=p$fit+1.96*p$se.fit,x=lnew$len,lty=2,lwd=2,col='black')
   mtext('A',3,at=0,cex=2)
   # legend 
+  crp <- viridis::mako(nrow(lms),alpha=1,direction=-1)
   for(i in seq(1,39,3)){
     points(68,11+i/3,pch=20,cex=3,col=crp[i])
   }
@@ -237,7 +237,7 @@ layout(matrix(c(1,5,
 {
   maley <- density(co$distunf[co$maleCO!=0],from=0,to=.5)$y
   malex <- density(co$distunf[co$maleCO!=0],from=0,to=.5)$x
-  plot(x=malex,y=maled/sum(maled),col=malecolor,lwd=4,type='l',axes=F,xlab='',ylab='')
+  plot(x=malex,y=maley/sum(maley),col=malecolor,lwd=4,type='l',axes=F,xlab='',ylab='')
   axis(1,at=seq(0,0.5,0.1),labels = seq(0,50,10),cex.axis=1.2)
   axis(2,at=seq(0,.004,.001),labels=seq(0,4,1),cex.axis=1.2,las=2)
   femaley <- density(co$distunf[co$femaleCO!=0],from=0,to=.5)$y

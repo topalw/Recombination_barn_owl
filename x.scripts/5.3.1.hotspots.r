@@ -1,3 +1,4 @@
+# make hotspots include only 1 window / 3kb
 {# 
 i = 1 
 hot2 <- hot1 
@@ -44,7 +45,6 @@ while(i <= length(hot2)){
 }
 ch13_2hot2 <- hot2 
 }
-
 
 
 ### PLOTS 
@@ -181,37 +181,47 @@ dev.off()
 tmp <- matrix(NA,5,5)
 rownames(tmp) <- colnames(tmp) <- c('CH13_2','CH13','CH','PT','GB')
 
-# fill upper part with local hotspot overlap 
+# Jaccard similarity 
+sum(chhot2 %in% pthot2) / length(unique(chhot2,pthot2))
+sum(chhot2 %in% gbhot2) / length(unique(chhot2,gbhot2))
+sum(pthot2 %in% gbhot2) / length(unique(pthot2,gbhot2))
+sum(chhot2 %in% ch13hot2) / length(unique(chhot2,ch13hot2))
+sum(chhot2 %in% ch13_2hot2) / length(unique(chhot2,ch13_2hot2))
+sum(ch13hot2 %in% ch13_2hot2) / length(unique(ch13hot2,ch13_2hot2))
+
+# fill upper part with local hotspot Jaccard
 # ch 
-tmp[3,4] <- 100*sum(c(chhot2-1,chhot2,chhot2+1)%in% pthot2)/length(chhot2)
-tmp[3,5] <- 100*sum(c(chhot2-1,chhot2,chhot2+1)%in% gbhot2)/length(chhot2)
-tmp[2,3] <- 100*sum(c(chhot2-1,chhot2,chhot2+1)%in% ch13hot2)/length(chhot2)
-tmp[1,3] <- 100*sum(c(chhot2-1,chhot2,chhot2+1)%in% ch13_2hot2)/length(chhot2)
+# but make sure it also includes 2 windows around 
+tmp[3,4] <- 100*sum(chhot2 %in% pthot2) / length(unique(chhot2,pthot2))
+tmp[3,5] <- 100*sum(chhot2 %in% gbhot2) / length(unique(chhot2,gbhot2))
+tmp[2,3] <- 100*sum(chhot2 %in% ch13hot2) / length(unique(chhot2,ch13hot2))
+tmp[1,3] <- 100*sum(chhot2 %in% ch13_2hot2) / length(unique(chhot2,ch13_2hot2))
 # ch13
-tmp[2,4] <- 100*sum(c(ch13hot2-1,ch13hot2,ch13hot2+1) %in% pthot2)/length(ch13hot2)
-tmp[2,5] <- 100*sum(c(ch13hot2-1,ch13hot2,ch13hot2+1) %in% gbhot2)/length(ch13hot2)
-tmp[1,2] <- 100*sum(c(ch13hot2-1,ch13hot2,ch13hot2+1) %in% ch13_2hot2)/length(ch13hot2)
+tmp[2,4] <- 100*sum(ch13hot2 %in% pthot2)/length(unique(ch13hot2,pthot2))
+tmp[2,5] <- 100*sum(ch13hot2 %in% gbhot2)/length(unique(ch13hot2,gbhot2))
+tmp[1,2] <- 100*sum(ch13hot2 %in% ch13_2hot2)/length(unique(ch13hot2,ch13_2hot2))
 # ch13_2 
-tmp[1,4] <- 100*sum(c(ch13_2hot2-1,ch13_2hot2,ch13_2hot2+1) %in% pthot2)/length(ch13_2hot2)
-tmp[1,5] <- 100*sum(c(ch13_2hot2-1,ch13_2hot2,ch13_2hot2+1) %in% gbhot2)/length(ch13_2hot2)
+tmp[1,4] <- 100*sum(ch13_2hot2 %in% pthot2)/length(unique(ch13_2hot2,pthot2))
+tmp[1,5] <- 100*sum(ch13_2hot2 %in% gbhot2)/length(unique(ch13_2hot2,gbhot2))
 # pt - gb
-tmp[4,5] <- 100*sum(c(pthot2 - 1,pthot2,pthot2+1) %in% gbhot2)/length(pthot2)
+tmp[4,5] <- 100*sum(pthot2 %in% gbhot2)/length(unique(pthot2,gbhot2))
 # fill lower part with global hotspot overlaps 
-tmp[4,3] <- 100*sum(hot10 %in% pthot10)/length(hot10)
-tmp[5,3] <- 100*sum(hot10 %in% gbhot10)/length(hot10)
-tmp[3,2] <- 100*sum(hot10 %in% ch13hot10)/length(hot10)
-tmp[3,1] <- 100*sum(hot10 %in% ch13_2hot10)/length(hot10)
+tmp[4,3] <- 100*sum(hot10 %in% pthot10)/length(unique(hot10,pthot10))
+tmp[5,3] <- 100*sum(hot10 %in% gbhot10)/length(unique(hot10,gbhot10))
+tmp[3,2] <- 100*sum(hot10 %in% ch13hot10)/length(unique(hot10,ch13hot10))
+tmp[3,1] <- 100*sum(hot10 %in% ch13_2hot10)/length(unique(hot10,ch13_2hot10))
 # ch13
-tmp[4,2] <- 100*sum(ch13hot10 %in% pthot10)/length(ch13hot10)
-tmp[5,2] <- 100*sum(ch13hot10 %in% gbhot10)/length(ch13hot10)
-tmp[2,1] <- 100*sum(ch13hot10 %in% ch13_2hot10)/length(ch13hot10)
+tmp[4,2] <- 100*sum(ch13hot10 %in% pthot10)/length(unique(pthot10,ch13hot10))
+tmp[5,2] <- 100*sum(ch13hot10 %in% gbhot10)/length(unique(gbhot10,ch13hot10))
+tmp[2,1] <- 100*sum(ch13hot10 %in% ch13_2hot10)/length(unique(ch13_2hot10,ch13hot10))
 # ch13_2 
-tmp[4,1] <- 100*sum(ch13_2hot10 %in% pthot10)/length(ch13_2hot10)
-tmp[5,1] <- 100*sum(ch13_2hot10 %in% gbhot10)/length(ch13_2hot10)
+tmp[4,1] <- 100*sum(ch13_2hot10 %in% pthot10)/length(unique(ch13_2hot10,pthot10))
+tmp[5,1] <- 100*sum(ch13_2hot10 %in% gbhot10)/length(unique(ch13_2hot10,gbhot))
 # pt - gb
-tmp[5,4] <- 100*sum(pthot10 %in% gbhot10)/length(pthot10)
+tmp[5,4] <- 100*sum(pthot10 %in% gbhot10)/length(unique(pthot10,gbhot10))
+
 write.table(tmp,'../1.data/2.pyrho/scaled_datasets/hotspot_sharing.table')
 
-tmp1 <- matrix(NA, ncol=length(hot2), nrow=4)
+
 
 

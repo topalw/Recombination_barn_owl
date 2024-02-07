@@ -1,5 +1,7 @@
 
 {
+  # only works in Rstudio : 
+  setwd(dirname(rstudioapi::getSourceEditorContext()$path))
   source('functions.r')
   library(tidyverse)
   library(corrplot)
@@ -11,6 +13,7 @@
   library(recolorize)
   library(rworldxtra)
   library(tmap)
+  library(tools)
   library(sf)
   colp=c('#FF0000','orange','violet',
          '#006600','#012169')
