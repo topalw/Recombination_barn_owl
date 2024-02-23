@@ -619,10 +619,10 @@ for(i in 1:length(hot1)){
 {# MAP save to pdf and merge in illustrator
   metadata <- read.table('../2.metadata/metadata_Bioproject_v4.tsv',
                          h=T,sep='\t')
-  popcol = viridis::mako(5,direction=1)[c(4,2,3,1,5)]
+  popcol = viridis::mako(6,direction=1)[c(4,2,3,1,5)]
   metadata <- metadata[metadata$REF_Panel==1,]
   CH <- which(metadata$Population == 'CH')
-  PT <- which(metadata$Population == 'PT')
+  PT <- which(metadata$Population %in% c('PT','MA'))
   GB <- which(metadata$Population == 'GB')
   CH.d <- cbind.data.frame(metadata$lon[CH], metadata$lat[CH])
   CH.spdf <- SpatialPointsDataFrame(CH.d, metadata[CH,c(2,4,6,7,8,12,13,14,15)])
@@ -670,7 +670,7 @@ for(i in 1:length(hot1)){
   # global parameters 
   mtext.size=1.5
   axis.size=1.2
-  popcol = viridis::mako(5,direction=1)[c(4,2,3,1,5)]
+  popcol = viridis::mako(6,direction=1)[c(4,2,3,1,5)]
   plotit = T
   if(plotit){
     pdf('plots/v1_figure4.pdf',12,12)
