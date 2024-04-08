@@ -29,6 +29,10 @@ If thats not raw enought, fastq data can be found in NCBI under xxx.
 
 Files here detail sample information and data used for the a couple of supplementary tables (S1 & S2). 
 
+## synteny 
+
+Files to create the synteny plot of Chicken-Barnowl-Chicken. 
+
 ## x.scripts 
 
 The division is clear (for me - lol). 
