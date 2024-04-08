@@ -1,0 +1,54 @@
+#species	Common name	Nom commun	uniprotspeciescode
+Gallus gallus	Chicken	Poulet	CHICK
+Tyto alba	Barn owl	Chouette effraie	TYTAL
+Tyto alba	Barn owl hifiasm	Chouette effraie	TYTALha
+Acanthisitta chloris	rifleman	Xénique grimpeur	AcaChl
+Accipiter gentilis	northern goshawk	Autour des palombes	AccGen
+Alca torda	razorbill	Petit Pingouin	AlcTor
+Apus apus	Common swift	Martinet noir	ApuApu
+Aquila chrysaetos	European golden eagle	Aigle royal	AquChr
+Aythya fuligula	tufted duck	Fuligule morillon	AytFul
+Balearica regulorum	grey crowned-crane	Grue royale	BalReg
+Bucorvus abyssinicus	Abyssinian ground-hornbill	Bucorve d'Abyssinie	BucAby
+Calypte anna	Anna's hummingbird	Colibri d'Anna	CalAnn
+Caprimulgus europaeus	Eurasian nightjar	Engoulevent d'Europe	CapEur
+Cariama cristata	red-legged seriema	Cariama huppé	CarCri
+Catharus ustulatus	Swainson's thrush	Grive à dos olive	CatUst
+Chiroxiphia lanceolata	lance-tailed manakin	Manakin lancéolé	ChiLan
+Ciconia maguari	maguari stork	Cigogne maguari	CicMag
+Corvus hawaiiensis	hawaiian crow	Corneille d'Hawaï	CorHaw
+Corvus moneduloides	New Caledonian crow	Corbeau calédonien	CorMon
+Coloeus monedula	Jackdaw	Choucas des tours	CORMO
+Cuculus canorus	common cuckoo	Coucou gris	CucCan
+Cygnus olor	mute swan	Cygne tuberculé	CygOlo
+Dryobates pubescens	downy woodpecker	Pic mineur	DryPub
+Erithacus rubecula	European robin	Rouge-gorge familier	EriRub
+Falco biarmicus	lanner falcon	Faucon lanier	FalBia
+Falco cherrug	Saker falcon	Faucon sacre	FalChe
+Falco naumanni	lesser kestrel	Faucon crécerellette	FalNau
+Falco peregrinus	peregrine falcon	Faucon pèlerin	FalPer
+Falco rusticolus	gyrfalcon	Faucon gerfaut	FalRus
+Geothlypis trichas	common yellowthroat	Paruline masquée	GeoTri
+Gypaetus barbatus	lammergeier	Gypaète barbu	GypBar
+Haemorhous mexicanus	house finch	Roselin familier	HaeMex
+Hemiprocne comata	whiskered treeswift	Hémiprocné coiffé	HemCom
+Hirundo rustica	barn swallow	Hirondelle rustique	HirRus
+Melopsittacus undulatus	budgerigar	Perruche ondulée	MelUnd
+Merops nubicus	carmine bee-eater	Guêpier écarlate	MerNub
+Nyctibius grandis	great potoo	Grand Ibijau	NycGra
+Phoenicopterus ruber	American flamingo	Flamant des Caraïbes	PhoRub
+Pluvialis apricaria	European golden plover	Pluvier doré	PluApr
+Pogoniulus pusillus	Red-fronted tinkerbird	Barbion à front rouge	PogPus
+Porphyrio hochstetteri	South Island takahe	Takahé du Sud	PorHoc
+Pterocles gutturalis	yellow-throated sandgrouse	Ganga à gorge jaune	PteGut
+Sterna hirundo	common tern	Sterne pierregarin	SteHir
+Streptopelia turtur	turtle dove	Tourterelle des bois	StrTur
+Strigops habroptilus	kakapo	Strigops kakapo	StrHab
+Sylvia atricapilla	Eurasian blackcap	Fauvette à tête noire	SylAtr
+Sylvia borin	garden warbler	Fauvette des jardins	SylBor
+Taeniopygia guttata	zebra finch	Diamant mandarin	TaeGut
+Tauraco erythrolophus	red-crested turaco	Touraco de Pauline	TauEry
+Theristicus caerulescens	plumbeous ibis	Ibis plombé	TheCae
+Trogon surrucura	Suruca trogon	Trogon surucua	TroSur
+Vidua chalybeata	village indigobird	Combassou du Sénégal	VidCha
+Ficedula albicollis	Collared flycatcher	Gobemouche à collier	FicAlb

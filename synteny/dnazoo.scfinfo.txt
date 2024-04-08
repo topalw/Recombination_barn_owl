@@ -1,0 +1,2149 @@
+seqid	seqlength	chrtype	krank	speciescode	chrname	cname
+Super-Scaffold_2	91687297	macro	1	TYTAL	s2	Tyto alba
+Super-Scaffold_21	23061809	macro	2	TYTAL	s21	Tyto alba
+Super-Scaffold_14	60520781	macro	3	TYTAL	s14	Tyto alba
+Super-Scaffold_45	42642627	macro	4	TYTAL	s45	Tyto alba
+Super-Scaffold_38	42002052	macro	5	TYTAL	s38	Tyto alba
+Super-Scaffold_46	18736733	macro	6	TYTAL	s46	Tyto alba
+Super-Scaffold_48	28624032	macro	7	TYTAL	s48	Tyto alba
+Super-Scaffold_27	33925083	macro	8	TYTAL	s27	Tyto alba
+Super-Scaffold_9	43766637	macro	9	TYTAL	s9	Tyto alba
+Super-Scaffold_16	34944653	macro	10	TYTAL	s16	Tyto alba
+Super-Scaffold_22	41455493	macro	11	TYTAL	s22	Tyto alba
+Super-Scaffold_40	51327406	macro	12	TYTAL	s40	Tyto alba
+Super-Scaffold_5	24525012	macro	13	TYTAL	s5	Tyto alba
+Super-Scaffold_23	30848580	macro	14	TYTAL	s23	Tyto alba
+Super-Scaffold_6	56534680	macro	15	TYTAL	s6	Tyto alba
+Super-Scaffold_8	25136324	macro	16	TYTAL	s8	Tyto alba
+Super-Scaffold_18	35172814	macro	17	TYTAL	s18	Tyto alba
+Super-Scaffold_29	14846335	macro	18	TYTAL	s29	Tyto alba
+Super-Scaffold_1	41834277	macro	19	TYTAL	s1	Tyto alba
+Super-Scaffold_7	44054830	macro	20	TYTAL	s7	Tyto alba
+Super-Scaffold_1000006	36032128	macro	21	TYTAL	s106	Tyto alba
+Super-Scaffold_42	41426968	macro	22	TYTAL	s42	Tyto alba
+Super-Scaffold_13	48838493	macro	23	TYTAL	s13	Tyto alba
+Super-Scaffold_10	29985952	micro	24	TYTAL	s10	Tyto alba
+Super-Scaffold_41	24601080	micro	25	TYTAL	s41	Tyto alba
+Super-Scaffold_26	24009840	micro	26	TYTAL	s26	Tyto alba
+Super-Scaffold_49	4323735	micro	27	TYTAL	s49	Tyto alba
+Super-Scaffold_3	20937722	micro	28	TYTAL	s3	Tyto alba
+Super-Scaffold_4	808530	micro	29	TYTAL	s4	Tyto alba
+Super-Scaffold_17	23302321	micro	30	TYTAL	s17	Tyto alba
+Super-Scaffold_28	21137564	micro	31	TYTAL	s28	Tyto alba
+Super-Scaffold_44	17163611	micro	32	TYTAL	s44	Tyto alba
+Super-Scaffold_15	11383789	micro	33	TYTAL	s15	Tyto alba
+Super-Scaffold_11	13317354	micro	34	TYTAL	s11	Tyto alba
+Super-Scaffold_39	15349174	micro	35	TYTAL	s39	Tyto alba
+Super-Scaffold_19	13532077	micro	36	TYTAL	s19	Tyto alba
+Super-Scaffold_33	18160456	micro	37	TYTAL	s33	Tyto alba
+Super-Scaffold_20000042	16068779	micro	38	TYTAL	s2042	Tyto alba
+Super-Scaffold_34	6755002	micro	39	TYTAL	s34	Tyto alba
+Super-Scaffold_32	9466668	micro	40	TYTAL	s32	Tyto alba
+Super-Scaffold_30	7860098	micro	41	TYTAL	s30	Tyto alba
+Super-Scaffold_20	11375373	micro	42	TYTAL	s20	Tyto alba
+Super-Scaffold_12	7647940	micro	43	TYTAL	s12	Tyto alba
+Super-Scaffold_24	1144685	micro	44	TYTAL	s24	Tyto alba
+Super-Scaffold_25	481367	micro	45	TYTAL	s25	Tyto alba
+Super-Scaffold_31	2272216	micro	46	TYTAL	s31	Tyto alba
+Super-Scaffold_35	474022	micro	47	TYTAL	s35	Tyto alba
+Super-Scaffold_36	1233346	micro	48	TYTAL	s36	Tyto alba
+Super-Scaffold_37	266475	micro	49	TYTAL	s37	Tyto alba
+Super-Scaffold_43	1357705	micro	50	TYTAL	s43	Tyto alba
+Super-Scaffold_47	25923505	macro	51	TYTAL	s47	Tyto alba
+Super-Scaffold_2000008	138340	micro	52	TYTAL	s208	Tyto alba
+Super-Scaffold_20000014	120626	micro	53	TYTAL	s2014	Tyto alba
+Super-Scaffold_20000015	187072	micro	54	TYTAL	s2015	Tyto alba
+Super-Scaffold_100000168	257084	micro	55	TYTAL	s10168	Tyto alba
+Super-Scaffold_200000146	608948	micro	56	TYTAL	s20146	Tyto alba
+Super-Scaffold_200000175	1522954	micro	57	TYTAL	s20175	Tyto alba
+Super-Scaffold_200000178	492563	micro	58	TYTAL	s20178	Tyto alba
+Super-Scaffold_2000002059	205423	micro	59	TYTAL	s202059	Tyto alba
+Super-Scaffold_100000100046	108925	micro	60	TYTAL	s10100046	Tyto alba
+Super-Scaffold_100000100052	946266	micro	61	TYTAL	s10100052	Tyto alba
+Super-Scaffold_100000100064	370582	micro	62	TYTAL	s10100064	Tyto alba
+Super-Scaffold_100000100066	1207178	micro	63	TYTAL	s10100066	Tyto alba
+Super-Scaffold_100000100069	107406	micro	64	TYTAL	s10100069	Tyto alba
+Super-Scaffold_100000100078	101048	micro	65	TYTAL	s10100078	Tyto alba
+Super-Scaffold_100000100237	163276	micro	66	TYTAL	s10100237	Tyto alba
+Super-Scaffold_100000100381	43623	micro	67	TYTAL	s10100381	Tyto alba
+Super-Scaffold_200000100296	346890	micro	68	TYTAL	s20100296	Tyto alba
+Super-Scaffold_200000100656	512213	micro	69	TYTAL	s20100656	Tyto alba
+Super-Scaffold_200000105744	141685	micro	70	TYTAL	s20105744	Tyto alba
+scaffold_6_arrow_ctg1	50820884	macro	1	AcaChl	s6	rifleman
+scaffold_16_arrow_ctg1	22356894	macro	2	AcaChl	s16	rifleman
+scaffold_19_arrow_ctg1	20299852	macro	3	AcaChl	s19	rifleman
+scaffold_2_arrow_ctg1	96254934	macro	4	AcaChl	s2	rifleman
+scaffold_31_arrow_ctg1	8807844	macro	5	AcaChl	s31	rifleman
+super_scaffold_1	136573486	macro	6	AcaChl	ss1	rifleman
+scaffold_11_arrow_ctg1	34430530	macro	7	AcaChl	s11	rifleman
+scaffold_4_arrow_ctg1	62811803	macro	8	AcaChl	s4	rifleman
+scaffold_5_arrow_ctg1	51962070	macro	9	AcaChl	s5	rifleman
+scaffold_12_arrow_ctg1	27770453	macro	10	AcaChl	s12	rifleman
+scaffold_21_arrow_ctg1	19373796	macro	11	AcaChl	s21	rifleman
+scaffold_14_arrow_ctg1	24085422	macro	12	AcaChl	s14	rifleman
+scaffold_27_arrow_ctg1A	634749	macro	13	AcaChl	s27A	rifleman
+scaffold_39_arrow_ctg1	1144228	macro	14	AcaChl	s39	rifleman
+scaffold_41_arrow_ctg1	1098255	macro	15	AcaChl	s41	rifleman
+scaffold_47_arrow_ctg1	601784	macro	16	AcaChl	s47	rifleman
+scaffold_7_arrow_ctg1	46605043	macro	17	AcaChl	s7	rifleman
+scaffold_23_arrow_ctg1	16493567	macro	18	AcaChl	s23	rifleman
+scaffold_10_arrow_ctg1	37926730	macro	19	AcaChl	s10	rifleman
+scaffold_8_arrow_ctg1	40827287	macro	20	AcaChl	s8	rifleman
+scaffold_26_arrow_ctg1	3976272	macro	21	AcaChl	s26	rifleman
+scaffold_9_arrow_ctg1	28498029	macro	22	AcaChl	s9	rifleman
+scaffold_30_arrow_ctg1	8848550	macro	23	AcaChl	s30	rifleman
+scaffold_3_arrow_ctg1	79660652	macro	24	AcaChl	s3	rifleman
+scaffold_3_arrow_ctg1A	114073	micro	25	AcaChl	s3A	rifleman
+scaffold_13_arrow_ctg1	26041268	micro	26	AcaChl	s13	rifleman
+scaffold_18_arrow_ctg1	21013725	micro	27	AcaChl	s18	rifleman
+scaffold_17_arrow_ctg1	21842303	micro	28	AcaChl	s17	rifleman
+scaffold_15_arrow_ctg1	22518086	micro	29	AcaChl	s15	rifleman
+scaffold_20_arrow_ctg1	19698736	micro	30	AcaChl	s20	rifleman
+scaffold_22_arrow_ctg1	16789965	micro	31	AcaChl	s22	rifleman
+scaffold_25_arrow_ctg1	15238193	micro	32	AcaChl	s25	rifleman
+scaffold_29_arrow_ctg1	11886912	micro	33	AcaChl	s29	rifleman
+scaffold_28_arrow_ctg1	12051178	micro	34	AcaChl	s28	rifleman
+scaffold_27_arrow_ctg1	11802882	micro	35	AcaChl	s27	rifleman
+scaffold_24_arrow_ctg1	15427945	micro	36	AcaChl	s24	rifleman
+scaffold_32_arrow_ctg1	8212335	micro	37	AcaChl	s32	rifleman
+scaffold_36_arrow_ctg1	5885895	micro	38	AcaChl	s36	rifleman
+scaffold_38_arrow_ctg1	2814468	micro	39	AcaChl	s38	rifleman
+scaffold_40_arrow_ctg1	1171624	micro	40	AcaChl	s40	rifleman
+scaffold_33_arrow_ctg1	7934831	micro	41	AcaChl	s33	rifleman
+super_scaffold_35	7356127	micro	42	AcaChl	ss35	rifleman
+scaffold_34_arrow_ctg1	7599646	micro	43	AcaChl	s34	rifleman
+scaffold_37_arrow_ctg1	5172060	micro	44	AcaChl	s37	rifleman
+scaffold_43_arrow_ctg1	785491	micro	45	AcaChl	s43	rifleman
+scaffold_44_arrow_ctg1	717037	micro	46	AcaChl	s44	rifleman
+scaffold_45_arrow_ctg1	699975	micro	47	AcaChl	s45	rifleman
+scaffold_46_arrow_ctg1	696224	micro	48	AcaChl	s46	rifleman
+scaffold_48_arrow_ctg1	565730	micro	49	AcaChl	s48	rifleman
+scaffold_50_arrow_ctg1	501510	micro	50	AcaChl	s50	rifleman
+scaffold_51_arrow_ctg1	477788	micro	51	AcaChl	s51	rifleman
+scaffold_52_arrow_ctg1	362244	micro	52	AcaChl	s52	rifleman
+scaffold_53_arrow_ctg1	350973	micro	53	AcaChl	s53	rifleman
+scaffold_54_arrow_ctg1	349686	micro	54	AcaChl	s54	rifleman
+scaffold_55_arrow_ctg1	323453	micro	55	AcaChl	s55	rifleman
+scaffold_56_arrow_ctg1	260378	micro	56	AcaChl	s56	rifleman
+scaffold_57_arrow_ctg1	251863	micro	57	AcaChl	s57	rifleman
+scaffold_58_arrow_ctg1	228583	micro	58	AcaChl	s58	rifleman
+scaffold_59_arrow_ctg1	213853	micro	59	AcaChl	s59	rifleman
+scaffold_60_arrow_ctg1	210192	micro	60	AcaChl	s60	rifleman
+scaffold_61_arrow_ctg1	188460	micro	61	AcaChl	s61	rifleman
+scaffold_62_arrow_ctg1	160447	micro	62	AcaChl	s62	rifleman
+scaffold_63_arrow_ctg1	172031	micro	63	AcaChl	s63	rifleman
+scaffold_65_arrow_ctg1	168608	micro	64	AcaChl	s65	rifleman
+scaffold_66_arrow_ctg1	156466	micro	65	AcaChl	s66	rifleman
+scaffold_67_arrow_ctg1	149858	micro	66	AcaChl	s67	rifleman
+scaffold_68_arrow_ctg1	146484	micro	67	AcaChl	s68	rifleman
+scaffold_69_arrow_ctg1	134244	micro	68	AcaChl	s69	rifleman
+scaffold_70_arrow_ctg1	134983	micro	69	AcaChl	s70	rifleman
+scaffold_71_arrow_ctg1	134774	micro	70	AcaChl	s71	rifleman
+scaffold_72_arrow_ctg1	131917	micro	71	AcaChl	s72	rifleman
+scaffold_73_arrow_ctg1	130656	micro	72	AcaChl	s73	rifleman
+scaffold_74_arrow_ctg1	125623	micro	73	AcaChl	s74	rifleman
+scaffold_75_arrow_ctg1	119583	micro	74	AcaChl	s75	rifleman
+scaffold_76_arrow_ctg1	109799	micro	75	AcaChl	s76	rifleman
+scaffold_77_arrow_ctg1	107011	micro	76	AcaChl	s77	rifleman
+scaffold_78_arrow_ctg1	107186	micro	77	AcaChl	s78	rifleman
+scaffold_79_arrow_ctg1	106718	micro	78	AcaChl	s79	rifleman
+scaffold_80_arrow_ctg1	97151	micro	79	AcaChl	s80	rifleman
+scaffold_81_arrow_ctg1	93744	micro	80	AcaChl	s81	rifleman
+scaffold_82_arrow_ctg1	89513	micro	81	AcaChl	s82	rifleman
+scaffold_83_arrow_ctg1	89101	micro	82	AcaChl	s83	rifleman
+scaffold_84_arrow_ctg1	88034	micro	83	AcaChl	s84	rifleman
+scaffold_85_arrow_ctg1	88187	micro	84	AcaChl	s85	rifleman
+scaffold_86_arrow_ctg1	84637	micro	85	AcaChl	s86	rifleman
+scaffold_87_arrow_ctg1	83847	micro	86	AcaChl	s87	rifleman
+scaffold_88_arrow_ctg1	81947	micro	87	AcaChl	s88	rifleman
+scaffold_90_arrow_ctg1	80974	micro	88	AcaChl	s90	rifleman
+scaffold_91_arrow_ctg1	79937	micro	89	AcaChl	s91	rifleman
+scaffold_92_arrow_ctg1	79213	micro	90	AcaChl	s92	rifleman
+scaffold_93_arrow_ctg1	77265	micro	91	AcaChl	s93	rifleman
+scaffold_94_arrow_ctg1	75735	micro	92	AcaChl	s94	rifleman
+scaffold_95_arrow_ctg1	73638	micro	93	AcaChl	s95	rifleman
+scaffold_96_arrow_ctg1	72880	micro	94	AcaChl	s96	rifleman
+scaffold_97_arrow_ctg1	71604	micro	95	AcaChl	s97	rifleman
+scaffold_98_arrow_ctg1	72169	micro	96	AcaChl	s98	rifleman
+scaffold_99_arrow_ctg1	70818	micro	97	AcaChl	s99	rifleman
+scaffold_100_arrow_ctg1	69613	micro	98	AcaChl	s100	rifleman
+scaffold_101_arrow_ctg1	67971	micro	99	AcaChl	s101	rifleman
+scaffold_102_arrow_ctg1	68637	micro	100	AcaChl	s102	rifleman
+scaffold_103_arrow_ctg1	66893	micro	101	AcaChl	s103	rifleman
+scaffold_104_arrow_ctg1	67026	micro	102	AcaChl	s104	rifleman
+scaffold_105_arrow_ctg1	64795	micro	103	AcaChl	s105	rifleman
+scaffold_106_arrow_ctg1	65453	micro	104	AcaChl	s106	rifleman
+scaffold_107_arrow_ctg1	64392	micro	105	AcaChl	s107	rifleman
+scaffold_108_arrow_ctg1	64503	micro	106	AcaChl	s108	rifleman
+scaffold_109_arrow_ctg1	61855	micro	107	AcaChl	s109	rifleman
+scaffold_110_arrow_ctg1	60333	micro	108	AcaChl	s110	rifleman
+scaffold_111_arrow_ctg1	59245	micro	109	AcaChl	s111	rifleman
+scaffold_112_arrow_ctg1	58883	micro	110	AcaChl	s112	rifleman
+scaffold_113_arrow_ctg1	59234	micro	111	AcaChl	s113	rifleman
+scaffold_114_arrow_ctg1	58411	micro	112	AcaChl	s114	rifleman
+scaffold_115_arrow_ctg1	56291	micro	113	AcaChl	s115	rifleman
+scaffold_116_arrow_ctg1	55167	micro	114	AcaChl	s116	rifleman
+scaffold_117_arrow_ctg1	55049	micro	115	AcaChl	s117	rifleman
+scaffold_118_arrow_ctg1	55297	micro	116	AcaChl	s118	rifleman
+scaffold_119_arrow_ctg1	54538	micro	117	AcaChl	s119	rifleman
+scaffold_120_arrow_ctg1	53421	micro	118	AcaChl	s120	rifleman
+scaffold_121_arrow_ctg1	54089	micro	119	AcaChl	s121	rifleman
+scaffold_122_arrow_ctg1	51407	micro	120	AcaChl	s122	rifleman
+scaffold_123_arrow_ctg1	50196	micro	121	AcaChl	s123	rifleman
+scaffold_124_arrow_ctg1	48721	micro	122	AcaChl	s124	rifleman
+scaffold_125_arrow_ctg1	47198	micro	123	AcaChl	s125	rifleman
+scaffold_126_arrow_ctg1	46930	micro	124	AcaChl	s126	rifleman
+scaffold_127_arrow_ctg1	45824	micro	125	AcaChl	s127	rifleman
+scaffold_128_arrow_ctg1	45801	micro	126	AcaChl	s128	rifleman
+scaffold_129_arrow_ctg1	44970	micro	127	AcaChl	s129	rifleman
+scaffold_130_arrow_ctg1	43721	micro	128	AcaChl	s130	rifleman
+scaffold_131_arrow_ctg1	43413	micro	129	AcaChl	s131	rifleman
+scaffold_132_arrow_ctg1	42970	micro	130	AcaChl	s132	rifleman
+scaffold_133_arrow_ctg1	42847	micro	131	AcaChl	s133	rifleman
+scaffold_134_arrow_ctg1	41951	micro	132	AcaChl	s134	rifleman
+scaffold_135_arrow_ctg1	41631	micro	133	AcaChl	s135	rifleman
+scaffold_136_arrow_ctg1	40307	micro	134	AcaChl	s136	rifleman
+scaffold_137_arrow_ctg1	40013	micro	135	AcaChl	s137	rifleman
+scaffold_138_arrow_ctg1	39180	micro	136	AcaChl	s138	rifleman
+scaffold_139_arrow_ctg1	38192	micro	137	AcaChl	s139	rifleman
+scaffold_140_arrow_ctg1	38289	micro	138	AcaChl	s140	rifleman
+scaffold_141_arrow_ctg1	37828	micro	139	AcaChl	s141	rifleman
+scaffold_142_arrow_ctg1	36552	micro	140	AcaChl	s142	rifleman
+scaffold_143_arrow_ctg1	36629	micro	141	AcaChl	s143	rifleman
+scaffold_144_arrow_ctg1	35104	micro	142	AcaChl	s144	rifleman
+scaffold_145_arrow_ctg1	34175	micro	143	AcaChl	s145	rifleman
+scaffold_146_arrow_ctg1	33900	micro	144	AcaChl	s146	rifleman
+scaffold_147_arrow_ctg1	33392	micro	145	AcaChl	s147	rifleman
+scaffold_148_arrow_ctg1	32877	micro	146	AcaChl	s148	rifleman
+scaffold_149_arrow_ctg1	32630	micro	147	AcaChl	s149	rifleman
+scaffold_150_arrow_ctg1	32239	micro	148	AcaChl	s150	rifleman
+scaffold_151_arrow_ctg1	31048	micro	149	AcaChl	s151	rifleman
+scaffold_152_arrow_ctg1	29957	micro	150	AcaChl	s152	rifleman
+scaffold_153_arrow_ctg1	29164	micro	151	AcaChl	s153	rifleman
+scaffold_154_arrow_ctg1	29834	micro	152	AcaChl	s154	rifleman
+scaffold_155_arrow_ctg1	28582	micro	153	AcaChl	s155	rifleman
+scaffold_156_arrow_ctg1	28669	micro	154	AcaChl	s156	rifleman
+scaffold_157_arrow_ctg1	28473	micro	155	AcaChl	s157	rifleman
+scaffold_158_arrow_ctg1	28408	micro	156	AcaChl	s158	rifleman
+scaffold_159_arrow_ctg1	28179	micro	157	AcaChl	s159	rifleman
+scaffold_160_arrow_ctg1	27870	micro	158	AcaChl	s160	rifleman
+scaffold_161_arrow_ctg1	27824	micro	159	AcaChl	s161	rifleman
+scaffold_162_arrow_ctg1	27828	micro	160	AcaChl	s162	rifleman
+scaffold_163_arrow_ctg1	27542	micro	161	AcaChl	s163	rifleman
+scaffold_164_arrow_ctg1	27816	micro	162	AcaChl	s164	rifleman
+scaffold_165_arrow_ctg1	27282	micro	163	AcaChl	s165	rifleman
+scaffold_166_arrow_ctg1	27123	micro	164	AcaChl	s166	rifleman
+scaffold_167_arrow_ctg1	26997	micro	165	AcaChl	s167	rifleman
+scaffold_168_arrow_ctg1	26796	micro	166	AcaChl	s168	rifleman
+scaffold_169_arrow_ctg1	26872	micro	167	AcaChl	s169	rifleman
+scaffold_170_arrow_ctg1	26629	micro	168	AcaChl	s170	rifleman
+scaffold_171_arrow_ctg1	26550	micro	169	AcaChl	s171	rifleman
+scaffold_172_arrow_ctg1	26479	micro	170	AcaChl	s172	rifleman
+scaffold_173_arrow_ctg1	26060	micro	171	AcaChl	s173	rifleman
+scaffold_174_arrow_ctg1	25866	micro	172	AcaChl	s174	rifleman
+scaffold_175_arrow_ctg1	25263	micro	173	AcaChl	s175	rifleman
+scaffold_176_arrow_ctg1	26130	micro	174	AcaChl	s176	rifleman
+scaffold_177_arrow_ctg1	24961	micro	175	AcaChl	s177	rifleman
+scaffold_178_arrow_ctg1	25159	micro	176	AcaChl	s178	rifleman
+scaffold_179_arrow_ctg1	24617	micro	177	AcaChl	s179	rifleman
+scaffold_180_arrow_ctg1	24630	micro	178	AcaChl	s180	rifleman
+scaffold_181_arrow_ctg1	24594	micro	179	AcaChl	s181	rifleman
+scaffold_182_arrow_ctg1	24374	micro	180	AcaChl	s182	rifleman
+scaffold_183_arrow_ctg1	24516	micro	181	AcaChl	s183	rifleman
+scaffold_184_arrow_ctg1	24254	micro	182	AcaChl	s184	rifleman
+scaffold_185_arrow_ctg1	23862	micro	183	AcaChl	s185	rifleman
+scaffold_186_arrow_ctg1	23717	micro	184	AcaChl	s186	rifleman
+scaffold_187_arrow_ctg1	23739	micro	185	AcaChl	s187	rifleman
+scaffold_188_arrow_ctg1	23485	micro	186	AcaChl	s188	rifleman
+scaffold_189_arrow_ctg1	22795	micro	187	AcaChl	s189	rifleman
+scaffold_190_arrow_ctg1	22538	micro	188	AcaChl	s190	rifleman
+scaffold_191_arrow_ctg1	22512	micro	189	AcaChl	s191	rifleman
+scaffold_192_arrow_ctg1	22452	micro	190	AcaChl	s192	rifleman
+scaffold_193_arrow_ctg1	22449	micro	191	AcaChl	s193	rifleman
+scaffold_194_arrow_ctg1	22221	micro	192	AcaChl	s194	rifleman
+scaffold_195_arrow_ctg1	22125	micro	193	AcaChl	s195	rifleman
+scaffold_196_arrow_ctg1	21919	micro	194	AcaChl	s196	rifleman
+scaffold_197_arrow_ctg1	21722	micro	195	AcaChl	s197	rifleman
+scaffold_198_arrow_ctg1	21625	micro	196	AcaChl	s198	rifleman
+scaffold_199_arrow_ctg1	21405	micro	197	AcaChl	s199	rifleman
+scaffold_200_arrow_ctg1	21255	micro	198	AcaChl	s200	rifleman
+scaffold_201_arrow_ctg1	20875	micro	199	AcaChl	s201	rifleman
+scaffold_202_arrow_ctg1	20642	micro	200	AcaChl	s202	rifleman
+scaffold_203_arrow_ctg1	18398	micro	201	AcaChl	s203	rifleman
+scaffold_204_arrow_ctg1	15540	micro	202	AcaChl	s204	rifleman
+scaffold_205_arrow_ctg1	15033	micro	203	AcaChl	s205	rifleman
+scaffold_206_arrow_ctg1	9221	micro	204	AcaChl	s206	rifleman
+scaffold_207_arrow_ctg1	7106	micro	205	AcaChl	s207	rifleman
+CM001989	74947036	macro	1	FicAlb	c1A	Collared flycatcher
+CM001988	120002344	macro	2	FicAlb	c1	Collared flycatcher
+CM001990	157563209	macro	3	FicAlb	c2	Collared flycatcher
+CM001991	115844353	macro	4	FicAlb	c3	Collared flycatcher
+CM001993	21182716	macro	5	FicAlb	c4A	Collared flycatcher
+CM002020	2153636	macro	6	FicAlb	LGE22	Collared flycatcher
+CM001992	70439523	macro	7	FicAlb	c4	Collared flycatcher
+CM001994	64724594	macro	8	FicAlb	c5	Collared flycatcher
+CM001995	37227452	macro	9	FicAlb	c6	Collared flycatcher
+CM001996	39412007	macro	10	FicAlb	c7	Collared flycatcher
+CM001997	32100816	macro	11	FicAlb	c8	Collared flycatcher
+CM002017	59856998	macro	12	FicAlb	cZ	Collared flycatcher
+CM001998	26793321	micro	13	FicAlb	c9	Collared flycatcher
+CM001999	21346708	micro	14	FicAlb	c10	Collared flycatcher
+CM002000	21727166	micro	15	FicAlb	c11	Collared flycatcher
+CM002001	21938106	micro	16	FicAlb	c12	Collared flycatcher
+CM002002	18641552	micro	17	FicAlb	c13	Collared flycatcher
+CM002003	17374186	micro	18	FicAlb	c14	Collared flycatcher
+CM002004	14943019	micro	19	FicAlb	c15	Collared flycatcher
+CM002005	12378331	micro	20	FicAlb	c17	Collared flycatcher
+CM002006	13163162	micro	21	FicAlb	c18	Collared flycatcher
+CM002007	11933672	micro	22	FicAlb	c19	Collared flycatcher
+CM002008	15675940	micro	23	FicAlb	c20	Collared flycatcher
+CM002009	8073070	micro	24	FicAlb	c21	Collared flycatcher
+CM002016	6182350	micro	25	FicAlb	c28	Collared flycatcher
+CM002010	5733621	micro	26	FicAlb	c22	Collared flycatcher
+CM002012	8009359	micro	27	FicAlb	c24	Collared flycatcher
+CM002013	2802420	micro	28	FicAlb	c25	Collared flycatcher
+CM002014	7653694	micro	29	FicAlb	c26	Collared flycatcher
+CM002011	7944683	micro	30	FicAlb	c23	Collared flycatcher
+CM002015	5572044	micro	31	FicAlb	c27	Collared flycatcher
+CM002018	476164	micro	32	FicAlb	LG34	Collared flycatcher
+CM002019	248039	micro	33	FicAlb	LG35	Collared flycatcher
+KF293721	16787	micro	34	FicAlb	mt	Collared flycatcher
+SUPER_2	123266599	macro	1	FalNau	ss2	Lesser kestrel
+SUPER_5	92799756	macro	2	FalNau	ss5	Lesser kestrel
+SUPER_4	113493826	macro	3	FalNau	ss4	Lesser kestrel
+SUPER_3	121309295	macro	4	FalNau	ss3	Lesser kestrel
+SUPER_12	33982695	macro	5	FalNau	ss12	Lesser kestrel
+SUPER_3_unloc_1	293275	micro	6	FalNau	ss3.1	Lesser kestrel
+SUPER_3_unloc_3	77630	micro	7	FalNau	ss3.3	Lesser kestrel
+SUPER_3_unloc_2	139470	micro	8	FalNau	ss3.2	Lesser kestrel
+SUPER_6	91761059	macro	9	FalNau	ss6	Lesser kestrel
+SUPER_14	24024792	macro	10	FalNau	ss14	Lesser kestrel
+SUPER_20_unloc_1	1470811	macro	11	FalNau	ss20.1	Lesser kestrel
+SUPER_20_unloc_2	460948	macro	12	FalNau	ss20.2	Lesser kestrel
+SUPER_20_unloc_3	45069	macro	13	FalNau	ss20.3	Lesser kestrel
+SUPER_1	127440759	macro	14	FalNau	ss1	Lesser kestrel
+SUPER_10	37994407	macro	15	FalNau	ss10	Lesser kestrel
+SUPER_20	4296277	macro	16	FalNau	ss20	Lesser kestrel
+SUPER_4_unloc_1	75106	micro	17	FalNau	ss4.1	Lesser kestrel
+SUPER_4_unloc_2	51049	micro	18	FalNau	ss4.2	Lesser kestrel
+SUPER_7	72773804	macro	19	FalNau	ss7	Lesser kestrel
+SUPER_9	53797355	macro	20	FalNau	ss9	Lesser kestrel
+SUPER_8	65292525	macro	21	FalNau	ss8	Lesser kestrel
+SUPER_11	35657873	macro	22	FalNau	ss11	Lesser kestrel
+SUPER_W	29619203	macro	23	FalNau	ssW	Lesser kestrel
+SUPER_Z	86597978	macro	24	FalNau	ssZ	Lesser kestrel
+SUPER_6_unloc_2	105021	micro	25	FalNau	ss6.2	Lesser kestrel
+SUPER_6_unloc_1	157207	micro	26	FalNau	ss6.1	Lesser kestrel
+SUPER_6_unloc_3	61779	micro	27	FalNau	ss6.3	Lesser kestrel
+SUPER_6_unloc_4	61532	micro	28	FalNau	ss6.4	Lesser kestrel
+SUPER_6_unloc_5	53756	micro	29	FalNau	ss6.5	Lesser kestrel
+SUPER_6_unloc_10	29298	micro	30	FalNau	ss6.10	Lesser kestrel
+SUPER_6_unloc_9	42893	micro	31	FalNau	ss6.9	Lesser kestrel
+SUPER_6_unloc_6	49506	micro	32	FalNau	ss6.6	Lesser kestrel
+SUPER_6_unloc_7	47169	micro	33	FalNau	ss6.7	Lesser kestrel
+SUPER_6_unloc_8	46448	micro	34	FalNau	ss6.8	Lesser kestrel
+SUPER_7_unloc_1	156525	micro	35	FalNau	ss7.1	Lesser kestrel
+SUPER_7_unloc_2	106873	micro	36	FalNau	ss7.2	Lesser kestrel
+SUPER_7_unloc_3	92330	micro	37	FalNau	ss7.3	Lesser kestrel
+SUPER_7_unloc_4	59321	micro	38	FalNau	ss7.4	Lesser kestrel
+SUPER_7_unloc_5	40755	micro	39	FalNau	ss7.5	Lesser kestrel
+SUPER_13	30439962	micro	40	FalNau	ss13	Lesser kestrel
+SUPER_13_unloc_1	83198	micro	41	FalNau	ss13.1	Lesser kestrel
+SUPER_13_unloc_2	53552	micro	42	FalNau	ss13.2	Lesser kestrel
+SUPER_13_unloc_3	43417	micro	43	FalNau	ss13.3	Lesser kestrel
+SUPER_13_unloc_4	34363	micro	44	FalNau	ss13.4	Lesser kestrel
+SUPER_13_unloc_5	34190	micro	45	FalNau	ss13.5	Lesser kestrel
+SUPER_13_unloc_6	18287	micro	46	FalNau	ss13.6	Lesser kestrel
+SUPER_14_unloc_1	47584	micro	47	FalNau	ss14.1	Lesser kestrel
+SUPER_15	23244174	micro	48	FalNau	ss15	Lesser kestrel
+SUPER_21	1112751	micro	49	FalNau	ss21	Lesser kestrel
+SUPER_21_unloc_1	186136	micro	50	FalNau	ss21.1	Lesser kestrel
+SUPER_19	6356591	micro	51	FalNau	ss19	Lesser kestrel
+SUPER_16	8214878	micro	52	FalNau	ss16	Lesser kestrel
+SUPER_17	7799962	micro	53	FalNau	ss17	Lesser kestrel
+SUPER_18	6763153	micro	54	FalNau	ss18	Lesser kestrel
+scaffold_100_arrow_pat_ctg1	77895	micro	55	FalNau	s100	Lesser kestrel
+scaffold_101_arrow_pat_ctg1	78368	micro	56	FalNau	s101	Lesser kestrel
+scaffold_103_arrow_pat_ctg1	77301	micro	57	FalNau	s103	Lesser kestrel
+scaffold_106_arrow_pat_ctg1	74520	micro	58	FalNau	s106	Lesser kestrel
+scaffold_107_arrow_pat_ctg1	73742	micro	59	FalNau	s107	Lesser kestrel
+scaffold_112_arrow_pat_ctg1	71537	micro	60	FalNau	s112	Lesser kestrel
+scaffold_114_arrow_pat_ctg1	71171	micro	61	FalNau	s114	Lesser kestrel
+scaffold_115_arrow_pat_ctg1	70703	micro	62	FalNau	s115	Lesser kestrel
+scaffold_117_arrow_pat_ctg1	69353	micro	63	FalNau	s117	Lesser kestrel
+scaffold_120_arrow_pat_ctg1	68079	micro	64	FalNau	s120	Lesser kestrel
+SUPER_22_unloc_1	67234	micro	65	FalNau	ss22.1	Lesser kestrel
+scaffold_124_arrow_pat_ctg1	67136	micro	66	FalNau	s124	Lesser kestrel
+scaffold_126_arrow_pat_ctg1	66902	micro	67	FalNau	s126	Lesser kestrel
+scaffold_127_arrow_pat_ctg1	66630	micro	68	FalNau	s127	Lesser kestrel
+scaffold_129_arrow_pat_ctg1	65637	micro	69	FalNau	s129	Lesser kestrel
+scaffold_130_arrow_pat_ctg1	65051	micro	70	FalNau	s130	Lesser kestrel
+scaffold_134_arrow_pat_ctg1	64629	micro	71	FalNau	s134	Lesser kestrel
+scaffold_138_arrow_pat_ctg1	62702	micro	72	FalNau	s138	Lesser kestrel
+scaffold_140_arrow_pat_ctg1	61718	micro	73	FalNau	s140	Lesser kestrel
+scaffold_147_arrow_pat_ctg1	60386	micro	74	FalNau	s147	Lesser kestrel
+scaffold_148_arrow_pat_ctg1	60099	micro	75	FalNau	s148	Lesser kestrel
+scaffold_150_arrow_pat_ctg1	59690	micro	76	FalNau	s150	Lesser kestrel
+scaffold_152_arrow_pat_ctg1	59471	micro	77	FalNau	s152	Lesser kestrel
+scaffold_154_arrow_pat_ctg1	58963	micro	78	FalNau	s154	Lesser kestrel
+scaffold_155_arrow_pat_ctg1	58814	micro	79	FalNau	s155	Lesser kestrel
+scaffold_156_arrow_pat_ctg1	58243	micro	80	FalNau	s156	Lesser kestrel
+scaffold_162_arrow_pat_ctg1	56242	micro	81	FalNau	s162	Lesser kestrel
+scaffold_163_arrow_pat_ctg1	56564	micro	82	FalNau	s163	Lesser kestrel
+scaffold_164_arrow_pat_ctg1	56334	micro	83	FalNau	s164	Lesser kestrel
+scaffold_170_arrow_pat_ctg1	55411	micro	84	FalNau	s170	Lesser kestrel
+scaffold_172_arrow_pat_ctg1	55030	micro	85	FalNau	s172	Lesser kestrel
+scaffold_173_arrow_pat_ctg1	54810	micro	86	FalNau	s173	Lesser kestrel
+scaffold_174_arrow_pat_ctg1	54757	micro	87	FalNau	s174	Lesser kestrel
+scaffold_175_arrow_pat_ctg1	54392	micro	88	FalNau	s175	Lesser kestrel
+scaffold_179_arrow_pat_ctg1	54174	micro	89	FalNau	s179	Lesser kestrel
+scaffold_182_arrow_pat_ctg1	54009	micro	90	FalNau	s182	Lesser kestrel
+scaffold_189_arrow_pat_ctg1	52644	micro	91	FalNau	s189	Lesser kestrel
+scaffold_196_arrow_pat_ctg1	51316	micro	92	FalNau	s196	Lesser kestrel
+scaffold_202_arrow_pat_ctg1	50320	micro	93	FalNau	s202	Lesser kestrel
+scaffold_206_arrow_pat_ctg1	49731	micro	94	FalNau	s206	Lesser kestrel
+scaffold_208_arrow_pat_ctg1	49044	micro	95	FalNau	s208	Lesser kestrel
+scaffold_212_arrow_pat_ctg1	48771	micro	96	FalNau	s212	Lesser kestrel
+scaffold_215_arrow_pat_ctg1	48484	micro	97	FalNau	s215	Lesser kestrel
+scaffold_216_arrow_pat_ctg1	47973	micro	98	FalNau	s216	Lesser kestrel
+scaffold_218_arrow_pat_ctg1	47790	micro	99	FalNau	s218	Lesser kestrel
+scaffold_221_arrow_pat_ctg1	47376	micro	100	FalNau	s221	Lesser kestrel
+scaffold_222_arrow_pat_ctg1	47324	micro	101	FalNau	s222	Lesser kestrel
+scaffold_223_arrow_pat_ctg1	47469	micro	102	FalNau	s223	Lesser kestrel
+scaffold_231_arrow_pat_ctg1	46803	micro	103	FalNau	s231	Lesser kestrel
+scaffold_233_arrow_pat_ctg1	46185	micro	104	FalNau	s233	Lesser kestrel
+scaffold_235_arrow_pat_ctg1	46434	micro	105	FalNau	s235	Lesser kestrel
+scaffold_238_arrow_pat_ctg1	45864	micro	106	FalNau	s238	Lesser kestrel
+scaffold_239_arrow_pat_ctg1	45749	micro	107	FalNau	s239	Lesser kestrel
+scaffold_242_arrow_pat_ctg1	45108	micro	108	FalNau	s242	Lesser kestrel
+scaffold_251_arrow_pat_ctg1	44607	micro	109	FalNau	s251	Lesser kestrel
+scaffold_252_arrow_pat_ctg1	43941	micro	110	FalNau	s252	Lesser kestrel
+scaffold_253_arrow_pat_ctg1	43806	micro	111	FalNau	s253	Lesser kestrel
+scaffold_255_arrow_pat_ctg1	43476	micro	112	FalNau	s255	Lesser kestrel
+scaffold_257_arrow_pat_ctg1	42872	micro	113	FalNau	s257	Lesser kestrel
+scaffold_259_arrow_pat_ctg1	43020	micro	114	FalNau	s259	Lesser kestrel
+scaffold_261_arrow_pat_ctg1	42623	micro	115	FalNau	s261	Lesser kestrel
+scaffold_262_arrow_pat_ctg1	42107	micro	116	FalNau	s262	Lesser kestrel
+scaffold_264_arrow_pat_ctg1	41923	micro	117	FalNau	s264	Lesser kestrel
+scaffold_266_arrow_pat_ctg1	41132	micro	118	FalNau	s266	Lesser kestrel
+scaffold_267_arrow_pat_ctg1	41354	micro	119	FalNau	s267	Lesser kestrel
+scaffold_268_arrow_pat_ctg1	41193	micro	120	FalNau	s268	Lesser kestrel
+scaffold_272_arrow_pat_ctg1	40772	micro	121	FalNau	s272	Lesser kestrel
+scaffold_275_arrow_pat_ctg1	40572	micro	122	FalNau	s275	Lesser kestrel
+scaffold_276_arrow_pat_ctg1	40505	micro	123	FalNau	s276	Lesser kestrel
+scaffold_277_arrow_pat_ctg1	40487	micro	124	FalNau	s277	Lesser kestrel
+scaffold_279_arrow_pat_ctg1	39726	micro	125	FalNau	s279	Lesser kestrel
+scaffold_281_arrow_pat_ctg1	39719	micro	126	FalNau	s281	Lesser kestrel
+scaffold_282_arrow_pat_ctg1	39264	micro	127	FalNau	s282	Lesser kestrel
+scaffold_284_arrow_pat_ctg1	39140	micro	128	FalNau	s284	Lesser kestrel
+scaffold_285_arrow_pat_ctg1	39145	micro	129	FalNau	s285	Lesser kestrel
+scaffold_291_arrow_pat_ctg1	38357	micro	130	FalNau	s291	Lesser kestrel
+scaffold_293_arrow_pat_ctg1	37821	micro	131	FalNau	s293	Lesser kestrel
+scaffold_294_arrow_pat_ctg1	37805	micro	132	FalNau	s294	Lesser kestrel
+scaffold_295_arrow_pat_ctg1	37652	micro	133	FalNau	s295	Lesser kestrel
+scaffold_296_arrow_pat_ctg1	37723	micro	134	FalNau	s296	Lesser kestrel
+scaffold_297_arrow_pat_ctg1	37718	micro	135	FalNau	s297	Lesser kestrel
+scaffold_301_arrow_pat_ctg1	37004	micro	136	FalNau	s301	Lesser kestrel
+scaffold_302_arrow_pat_ctg1	36953	micro	137	FalNau	s302	Lesser kestrel
+scaffold_303_arrow_pat_ctg1	36504	micro	138	FalNau	s303	Lesser kestrel
+scaffold_305_arrow_pat_ctg1	36456	micro	139	FalNau	s305	Lesser kestrel
+scaffold_307_arrow_pat_ctg1	36074	micro	140	FalNau	s307	Lesser kestrel
+scaffold_310_arrow_pat_ctg1	35758	micro	141	FalNau	s310	Lesser kestrel
+scaffold_311_arrow_pat_ctg1	35689	micro	142	FalNau	s311	Lesser kestrel
+scaffold_313_arrow_pat_ctg1	35388	micro	143	FalNau	s313	Lesser kestrel
+scaffold_318_arrow_pat_ctg1	34756	micro	144	FalNau	s318	Lesser kestrel
+scaffold_319_arrow_pat_ctg1	34341	micro	145	FalNau	s319	Lesser kestrel
+scaffold_321_arrow_pat_ctg1	34557	micro	146	FalNau	s321	Lesser kestrel
+scaffold_327_arrow_pat_ctg1	34163	micro	147	FalNau	s327	Lesser kestrel
+scaffold_328_arrow_pat_ctg1	34214	micro	148	FalNau	s328	Lesser kestrel
+scaffold_329_arrow_pat_ctg1	33673	micro	149	FalNau	s329	Lesser kestrel
+scaffold_332_arrow_pat_ctg1	33289	micro	150	FalNau	s332	Lesser kestrel
+scaffold_334_arrow_pat_ctg1	33175	micro	151	FalNau	s334	Lesser kestrel
+scaffold_335_arrow_pat_ctg1	33123	micro	152	FalNau	s335	Lesser kestrel
+scaffold_336_arrow_pat_ctg1	32499	micro	153	FalNau	s336	Lesser kestrel
+scaffold_339_arrow_pat_ctg1	32027	micro	154	FalNau	s339	Lesser kestrel
+scaffold_340_arrow_pat_ctg1	31808	micro	155	FalNau	s340	Lesser kestrel
+scaffold_344_arrow_pat_ctg1	31044	micro	156	FalNau	s344	Lesser kestrel
+scaffold_347_arrow_pat_ctg1	31010	micro	157	FalNau	s347	Lesser kestrel
+scaffold_354_arrow_pat_ctg1	29426	micro	158	FalNau	s354	Lesser kestrel
+scaffold_355_arrow_pat_ctg1	29276	micro	159	FalNau	s355	Lesser kestrel
+scaffold_359_arrow_pat_ctg1	28687	micro	160	FalNau	s359	Lesser kestrel
+scaffold_360_arrow_pat_ctg1	29291	micro	161	FalNau	s360	Lesser kestrel
+scaffold_362_arrow_pat_ctg1	28777	micro	162	FalNau	s362	Lesser kestrel
+scaffold_363_arrow_pat_ctg1	28583	micro	163	FalNau	s363	Lesser kestrel
+scaffold_366_arrow_pat_ctg1	28021	micro	164	FalNau	s366	Lesser kestrel
+scaffold_367_arrow_pat_ctg1	27463	micro	165	FalNau	s367	Lesser kestrel
+scaffold_368_arrow_pat_ctg1	27232	micro	166	FalNau	s368	Lesser kestrel
+scaffold_36_arrow_pat_ctg1	784962	micro	167	FalNau	s36	Lesser kestrel
+scaffold_375_arrow_pat_ctg1	26883	micro	168	FalNau	s375	Lesser kestrel
+scaffold_377_arrow_pat_ctg1	26581	micro	169	FalNau	s377	Lesser kestrel
+scaffold_378_arrow_pat_ctg1	26584	micro	170	FalNau	s378	Lesser kestrel
+scaffold_382_arrow_pat_ctg1	25693	micro	171	FalNau	s382	Lesser kestrel
+scaffold_383_arrow_pat_ctg1	25771	micro	172	FalNau	s383	Lesser kestrel
+scaffold_384_arrow_pat_ctg1	25380	micro	173	FalNau	s384	Lesser kestrel
+scaffold_386_arrow_pat_ctg1	25239	micro	174	FalNau	s386	Lesser kestrel
+scaffold_388_arrow_pat_ctg1	25078	micro	175	FalNau	s388	Lesser kestrel
+scaffold_389_arrow_pat_ctg1	25008	micro	176	FalNau	s389	Lesser kestrel
+scaffold_390_arrow_pat_ctg1	24920	micro	177	FalNau	s390	Lesser kestrel
+scaffold_391_arrow_pat_ctg1	24799	micro	178	FalNau	s391	Lesser kestrel
+scaffold_392_arrow_pat_ctg1	24564	micro	179	FalNau	s392	Lesser kestrel
+scaffold_398_arrow_pat_ctg1	23200	micro	180	FalNau	s398	Lesser kestrel
+scaffold_400_arrow_pat_ctg1	22805	micro	181	FalNau	s400	Lesser kestrel
+scaffold_401_arrow_pat_ctg1	22898	micro	182	FalNau	s401	Lesser kestrel
+scaffold_403_arrow_pat_ctg1	22663	micro	183	FalNau	s403	Lesser kestrel
+scaffold_404_arrow_pat_ctg1	22598	micro	184	FalNau	s404	Lesser kestrel
+scaffold_406_arrow_pat_ctg1	22279	micro	185	FalNau	s406	Lesser kestrel
+scaffold_407_arrow_pat_ctg1	21835	micro	186	FalNau	s407	Lesser kestrel
+scaffold_408_arrow_pat_ctg1	21362	micro	187	FalNau	s408	Lesser kestrel
+scaffold_409_arrow_pat_ctg1	21191	micro	188	FalNau	s409	Lesser kestrel
+scaffold_40_arrow_pat_ctg1	425810	micro	189	FalNau	s40	Lesser kestrel
+scaffold_411_arrow_pat_ctg1	21035	micro	190	FalNau	s411	Lesser kestrel
+scaffold_412_arrow_pat_ctg1	20952	micro	191	FalNau	s412	Lesser kestrel
+scaffold_416_arrow_pat_ctg1	19817	micro	192	FalNau	s416	Lesser kestrel
+scaffold_417_arrow_pat_ctg1	19958	micro	193	FalNau	s417	Lesser kestrel
+scaffold_418_arrow_pat_ctg1	19582	micro	194	FalNau	s418	Lesser kestrel
+scaffold_419_arrow_pat_ctg1	19490	micro	195	FalNau	s419	Lesser kestrel
+scaffold_421_arrow_pat_ctg1	19308	micro	196	FalNau	s421	Lesser kestrel
+scaffold_426_arrow_pat_ctg1	18072	micro	197	FalNau	s426	Lesser kestrel
+scaffold_428_arrow_pat_ctg1	17572	micro	198	FalNau	s428	Lesser kestrel
+scaffold_429_arrow_pat_ctg1	17435	micro	199	FalNau	s429	Lesser kestrel
+scaffold_42_arrow_pat_ctg1	374590	micro	200	FalNau	s42	Lesser kestrel
+scaffold_430_arrow_pat_ctg1	17463	micro	201	FalNau	s430	Lesser kestrel
+scaffold_431_arrow_pat_ctg1	17388	micro	202	FalNau	s431	Lesser kestrel
+scaffold_432_arrow_pat_ctg1	17023	micro	203	FalNau	s432	Lesser kestrel
+scaffold_433_arrow_pat_ctg1	16771	micro	204	FalNau	s433	Lesser kestrel
+scaffold_435_arrow_pat_ctg1	16079	micro	205	FalNau	s435	Lesser kestrel
+scaffold_436_arrow_pat_ctg1	16131	micro	206	FalNau	s436	Lesser kestrel
+scaffold_440_arrow_pat_ctg1	14444	micro	207	FalNau	s440	Lesser kestrel
+scaffold_441_arrow_pat_ctg1	14298	micro	208	FalNau	s441	Lesser kestrel
+scaffold_443_arrow_pat_ctg1	13736	micro	209	FalNau	s443	Lesser kestrel
+scaffold_444_arrow_pat_ctg1	12510	micro	210	FalNau	s444	Lesser kestrel
+scaffold_445_arrow_pat_ctg1	12523	micro	211	FalNau	s445	Lesser kestrel
+scaffold_446_arrow_pat_ctg1	12477	micro	212	FalNau	s446	Lesser kestrel
+scaffold_449_arrow_pat_ctg1	11561	micro	213	FalNau	s449	Lesser kestrel
+SUPER_22	321293	micro	214	FalNau	ss22	Lesser kestrel
+scaffold_452_arrow_pat_ctg1	9801	micro	215	FalNau	s452	Lesser kestrel
+scaffold_453_arrow_pat_ctg1	9694	micro	216	FalNau	s453	Lesser kestrel
+scaffold_454_arrow_pat_ctg1	9562	micro	217	FalNau	s454	Lesser kestrel
+scaffold_455_arrow_pat_ctg1	9382	micro	218	FalNau	s455	Lesser kestrel
+scaffold_456_arrow_pat_ctg1	8313	micro	219	FalNau	s456	Lesser kestrel
+scaffold_458_arrow_pat_ctg1	7822	micro	220	FalNau	s458	Lesser kestrel
+scaffold_459_arrow_pat_ctg1	7849	micro	221	FalNau	s459	Lesser kestrel
+scaffold_45_arrow_pat_ctg1	304746	micro	222	FalNau	s45	Lesser kestrel
+scaffold_460_arrow_pat_ctg1	7781	micro	223	FalNau	s460	Lesser kestrel
+scaffold_461_arrow_pat_ctg1	7368	micro	224	FalNau	s461	Lesser kestrel
+scaffold_462_arrow_pat_ctg1	7270	micro	225	FalNau	s462	Lesser kestrel
+scaffold_464_arrow_pat_ctg1	7179	micro	226	FalNau	s464	Lesser kestrel
+scaffold_465_arrow_pat_ctg1	7014	micro	227	FalNau	s465	Lesser kestrel
+scaffold_466_arrow_pat_ctg1	6894	micro	228	FalNau	s466	Lesser kestrel
+scaffold_467_arrow_pat_ctg1	6527	micro	229	FalNau	s467	Lesser kestrel
+scaffold_468_arrow_pat_ctg1	6549	micro	230	FalNau	s468	Lesser kestrel
+scaffold_469_arrow_pat_ctg1	6458	micro	231	FalNau	s469	Lesser kestrel
+scaffold_46_arrow_pat_ctg1	304633	micro	232	FalNau	s46	Lesser kestrel
+scaffold_471_arrow_pat_ctg1	6317	micro	233	FalNau	s471	Lesser kestrel
+scaffold_472_arrow_pat_ctg1	5654	micro	234	FalNau	s472	Lesser kestrel
+scaffold_473_arrow_pat_ctg1	5364	micro	235	FalNau	s473	Lesser kestrel
+scaffold_474_arrow_pat_ctg1	5316	micro	236	FalNau	s474	Lesser kestrel
+scaffold_475_arrow_pat_ctg1	5130	micro	237	FalNau	s475	Lesser kestrel
+scaffold_476_arrow_pat_ctg1	4989	micro	238	FalNau	s476	Lesser kestrel
+scaffold_477_arrow_pat_ctg1	4881	micro	239	FalNau	s477	Lesser kestrel
+scaffold_478_arrow_pat_ctg1	4604	micro	240	FalNau	s478	Lesser kestrel
+scaffold_479_arrow_pat_ctg1	4390	micro	241	FalNau	s479	Lesser kestrel
+scaffold_47_arrow_pat_ctg1	298424	micro	242	FalNau	s47	Lesser kestrel
+scaffold_480_arrow_pat_ctg1	3991	micro	243	FalNau	s480	Lesser kestrel
+scaffold_481_arrow_pat_ctg1	3855	micro	244	FalNau	s481	Lesser kestrel
+scaffold_482_arrow_pat_ctg1	3774	micro	245	FalNau	s482	Lesser kestrel
+scaffold_483_arrow_pat_ctg1	3668	micro	246	FalNau	s483	Lesser kestrel
+scaffold_484_arrow_pat_ctg1	3569	micro	247	FalNau	s484	Lesser kestrel
+scaffold_485_arrow_pat_ctg1	3536	micro	248	FalNau	s485	Lesser kestrel
+scaffold_486_arrow_pat_ctg1	3485	micro	249	FalNau	s486	Lesser kestrel
+scaffold_487_arrow_pat_ctg1	3401	micro	250	FalNau	s487	Lesser kestrel
+scaffold_488_arrow_pat_ctg1	3000	micro	251	FalNau	s488	Lesser kestrel
+scaffold_489_arrow_pat_ctg1	2936	micro	252	FalNau	s489	Lesser kestrel
+scaffold_490_arrow_pat_ctg1	2812	micro	253	FalNau	s490	Lesser kestrel
+scaffold_491_arrow_pat_ctg1	2013	micro	254	FalNau	s491	Lesser kestrel
+scaffold_492_arrow_pat_ctg1	1723	micro	255	FalNau	s492	Lesser kestrel
+scaffold_493_arrow_pat_ctg1	1499	micro	256	FalNau	s493	Lesser kestrel
+scaffold_494_arrow_pat_ctg1	1233	micro	257	FalNau	s494	Lesser kestrel
+scaffold_495_arrow_pat_ctg1	1025	micro	258	FalNau	s495	Lesser kestrel
+scaffold_49_arrow_pat_ctg1	273475	micro	259	FalNau	s49	Lesser kestrel
+scaffold_50_arrow_pat_ctg1	262257	micro	260	FalNau	s50	Lesser kestrel
+scaffold_52_arrow_pat_ctg1	241750	micro	261	FalNau	s52	Lesser kestrel
+scaffold_53_arrow_pat_ctg1	228458	micro	262	FalNau	s53	Lesser kestrel
+scaffold_54_arrow_pat_ctg1	223641	micro	263	FalNau	s54	Lesser kestrel
+scaffold_56_arrow_pat_ctg1	172939	micro	264	FalNau	s56	Lesser kestrel
+scaffold_58_arrow_pat_ctg1	160369	micro	265	FalNau	s58	Lesser kestrel
+scaffold_62_arrow_pat_ctg1	142129	micro	266	FalNau	s62	Lesser kestrel
+scaffold_64_arrow_pat_ctg1	138651	micro	267	FalNau	s64	Lesser kestrel
+scaffold_65_arrow_pat_ctg1	138306	micro	268	FalNau	s65	Lesser kestrel
+scaffold_66_arrow_pat_ctg1	134842	micro	269	FalNau	s66	Lesser kestrel
+scaffold_67_arrow_pat_ctg1	134022	micro	270	FalNau	s67	Lesser kestrel
+scaffold_69_arrow_pat_ctg1	130810	micro	271	FalNau	s69	Lesser kestrel
+scaffold_70_arrow_pat_ctg1	127625	micro	272	FalNau	s70	Lesser kestrel
+scaffold_71_arrow_pat_ctg1	129530	micro	273	FalNau	s71	Lesser kestrel
+scaffold_72_arrow_pat_ctg1	122457	micro	274	FalNau	s72	Lesser kestrel
+scaffold_73_arrow_pat_ctg1	115875	micro	275	FalNau	s73	Lesser kestrel
+scaffold_74_arrow_pat_ctg1	112281	micro	276	FalNau	s74	Lesser kestrel
+scaffold_75_arrow_pat_ctg1	109237	micro	277	FalNau	s75	Lesser kestrel
+scaffold_80_arrow_pat_ctg1	100530	micro	278	FalNau	s80	Lesser kestrel
+scaffold_81_arrow_pat_ctg1	98585	micro	279	FalNau	s81	Lesser kestrel
+scaffold_82_arrow_pat_ctg1	97549	micro	280	FalNau	s82	Lesser kestrel
+scaffold_84_arrow_pat_ctg1	95926	micro	281	FalNau	s84	Lesser kestrel
+scaffold_87_arrow_pat_ctg1	92221	micro	282	FalNau	s87	Lesser kestrel
+scaffold_88_arrow_pat_ctg1	88824	micro	283	FalNau	s88	Lesser kestrel
+scaffold_89_arrow_pat_ctg1	86836	micro	284	FalNau	s89	Lesser kestrel
+scaffold_92_arrow_pat_ctg1	85500	micro	285	FalNau	s92	Lesser kestrel
+scaffold_93_arrow_pat_ctg1	84611	micro	286	FalNau	s93	Lesser kestrel
+scaffold_95_arrow_pat_ctg1	82757	micro	287	FalNau	s95	Lesser kestrel
+scaffold_96_arrow_pat_ctg1	81985	micro	288	FalNau	s96	Lesser kestrel
+scaffold_98_arrow_pat_ctg1	79226	micro	289	FalNau	s98	Lesser kestrel
+scaffold_99_arrow_pat_ctg1	78788	micro	290	FalNau	s99	Lesser kestrel
+NC_044211.2	114020016	macro	1	TaeGut	c1	Zebra finch
+NC_044212.2	71569005	macro	2	TaeGut	c1A	Zebra finch
+NC_044213.2	151653088	macro	3	TaeGut	c2	Zebra finch
+NC_044214.2	112598992	macro	4	TaeGut	c3	Zebra finch
+NC_044216.2	19491698	macro	5	TaeGut	c4A	Zebra finch
+NC_044215.2	70982421	macro	6	TaeGut	c4	Zebra finch
+NC_044242.2	2636872	macro	7	TaeGut	c29	Zebra finch
+NC_044217.2	61663524	macro	8	TaeGut	c5	Zebra finch
+NC_044237.2	2880192	macro	9	TaeGut	c25	Zebra finch
+NC_044218.2	35592820	macro	10	TaeGut	c6	Zebra finch
+NC_044219.2	37979234	macro	11	TaeGut	c7	Zebra finch
+NC_044220.2	31251066	macro	12	TaeGut	c8	Zebra finch
+NC_044241.2	75396176	macro	13	TaeGut	cZ	Zebra finch
+NC_045028.1	20846394	macro	14	TaeGut	cW	Zebra finch
+NC_044221.2	25529500	micro	15	TaeGut	c9	Zebra finch
+NC_044222.2	20543327	micro	16	TaeGut	c10	Zebra finch
+NC_044223.2	21108237	micro	17	TaeGut	c11	Zebra finch
+NC_044224.2	20384687	micro	18	TaeGut	c12	Zebra finch
+NC_044225.2	18052104	micro	19	TaeGut	c13	Zebra finch
+NC_044226.2	16340488	micro	20	TaeGut	c14	Zebra finch
+NC_044227.2	13771869	micro	21	TaeGut	c15	Zebra finch
+NC_044228.2	1095113	micro	22	TaeGut	c16	Zebra finch
+NC_044229.2	11257394	micro	23	TaeGut	c17	Zebra finch
+NC_044230.2	11152170	micro	24	TaeGut	c18	Zebra finch
+NC_044231.2	8335140	micro	25	TaeGut	c19	Zebra finch
+NC_044232.2	14749488	micro	26	TaeGut	c20	Zebra finch
+NC_044233.2	7924511	micro	27	TaeGut	c21	Zebra finch
+NC_044240.2	5866305	micro	28	TaeGut	c28	Zebra finch
+NC_044234.2	4608043	micro	29	TaeGut	c22	Zebra finch
+NC_044236.2	7620594	micro	30	TaeGut	c24	Zebra finch
+NC_044238.2	6804938	micro	31	TaeGut	c26	Zebra finch
+NC_044235.2	6804446	micro	32	TaeGut	c23	Zebra finch
+NC_044239.2	5378928	micro	33	TaeGut	c27	Zebra finch
+NC_044243.2	2225416	micro	34	TaeGut	c30	Zebra finch
+NC_054763.1	1821854	micro	35	TaeGut	c31	Zebra finch
+NC_054764.1	2089234	micro	36	TaeGut	c32	Zebra finch
+NC_054765.1	1248372	micro	37	TaeGut	c33	Zebra finch
+NC_054766.1	1299319	micro	38	TaeGut	c34	Zebra finch
+NC_054767.1	2564177	micro	39	TaeGut	c35	Zebra finch
+NC_054768.1	1020380	micro	40	TaeGut	c36	Zebra finch
+NC_054769.1	1798728	micro	41	TaeGut	c37	Zebra finch
+NW_024545304.1	131164	micro	42	TaeGut	s104	Zebra finch
+NW_024545305.1	113567	micro	43	TaeGut	s108	Zebra finch
+NW_024545306.1	107847	micro	44	TaeGut	s109	Zebra finch
+NW_024545307.1	87792	micro	45	TaeGut	s110	Zebra finch
+NW_024545308.1	82267	micro	46	TaeGut	s112	Zebra finch
+NW_024545309.1	81838	micro	47	TaeGut	s113	Zebra finch
+NW_024545310.1	82220	micro	48	TaeGut	s114	Zebra finch
+NW_024545311.1	79095	micro	49	TaeGut	s117	Zebra finch
+NW_024545312.1	76514	micro	50	TaeGut	s118	Zebra finch
+NW_024545313.1	76406	micro	51	TaeGut	s119	Zebra finch
+NW_024545314.1	75183	micro	52	TaeGut	s120	Zebra finch
+NW_024545315.1	60601	micro	53	TaeGut	s125	Zebra finch
+NW_024545316.1	60041	micro	54	TaeGut	s126	Zebra finch
+NW_024545317.1	58697	micro	55	TaeGut	s128	Zebra finch
+NW_024545318.1	57937	micro	56	TaeGut	s129	Zebra finch
+NW_024545319.1	57566	micro	57	TaeGut	s130	Zebra finch
+NW_024545320.1	57234	micro	58	TaeGut	s131	Zebra finch
+NW_024545321.1	56330	micro	59	TaeGut	s132	Zebra finch
+NW_024545322.1	56008	micro	60	TaeGut	s133	Zebra finch
+NW_024545323.1	55776	micro	61	TaeGut	s134	Zebra finch
+NW_024545324.1	55302	micro	62	TaeGut	s135	Zebra finch
+NW_024545325.1	54229	micro	63	TaeGut	s136	Zebra finch
+NW_024545326.1	53259	micro	64	TaeGut	s137	Zebra finch
+NW_024545327.1	54002	micro	65	TaeGut	s138	Zebra finch
+NW_024545328.1	52021	micro	66	TaeGut	s140	Zebra finch
+NW_024545329.1	51738	micro	67	TaeGut	s141	Zebra finch
+NW_024545330.1	51632	micro	68	TaeGut	s142	Zebra finch
+NW_024545331.1	49930	micro	69	TaeGut	s143	Zebra finch
+NW_024545332.1	49976	micro	70	TaeGut	s144	Zebra finch
+NW_024545333.1	49196	micro	71	TaeGut	s146	Zebra finch
+NW_024545334.1	47697	micro	72	TaeGut	s148	Zebra finch
+NW_024545335.1	46546	micro	73	TaeGut	s150	Zebra finch
+NW_024545336.1	46368	micro	74	TaeGut	s152	Zebra finch
+NW_024545337.1	43723	micro	75	TaeGut	s154	Zebra finch
+NW_024545338.1	44206	micro	76	TaeGut	s155	Zebra finch
+NW_024545339.1	43848	micro	77	TaeGut	s156	Zebra finch
+NW_024545340.1	42742	micro	78	TaeGut	s157	Zebra finch
+NW_024545341.1	41880	micro	79	TaeGut	s158	Zebra finch
+NW_024545342.1	40936	micro	80	TaeGut	s159	Zebra finch
+NW_024545343.1	40660	micro	81	TaeGut	s160	Zebra finch
+NW_024545344.1	40419	micro	82	TaeGut	s161	Zebra finch
+NW_024545345.1	40409	micro	83	TaeGut	s162	Zebra finch
+NW_024545346.1	40105	micro	84	TaeGut	s163	Zebra finch
+NW_024545347.1	39885	micro	85	TaeGut	s164	Zebra finch
+NW_024545348.1	39665	micro	86	TaeGut	s165	Zebra finch
+NW_024545349.1	39130	micro	87	TaeGut	s166	Zebra finch
+NW_024545350.1	39067	micro	88	TaeGut	s167	Zebra finch
+NW_024545351.1	38525	micro	89	TaeGut	s168	Zebra finch
+NW_024545352.1	38544	micro	90	TaeGut	s169	Zebra finch
+NW_024545353.1	38160	micro	91	TaeGut	s170	Zebra finch
+NW_024545354.1	38130	micro	92	TaeGut	s171	Zebra finch
+NW_024545355.1	37436	micro	93	TaeGut	s172	Zebra finch
+NW_024545356.1	37238	micro	94	TaeGut	s173	Zebra finch
+NW_024545357.1	36655	micro	95	TaeGut	s174	Zebra finch
+NW_024545358.1	36519	micro	96	TaeGut	s175	Zebra finch
+NW_024545359.1	36410	micro	97	TaeGut	s176	Zebra finch
+NW_024545360.1	35716	micro	98	TaeGut	s177	Zebra finch
+NW_024545361.1	35669	micro	99	TaeGut	s178	Zebra finch
+NW_024545362.1	34825	micro	100	TaeGut	s179	Zebra finch
+NW_024545363.1	34104	micro	101	TaeGut	s180	Zebra finch
+NW_024545364.1	33875	micro	102	TaeGut	s181	Zebra finch
+NW_024545365.1	33438	micro	103	TaeGut	s182	Zebra finch
+NW_024545366.1	33446	micro	104	TaeGut	s183	Zebra finch
+NW_024545367.1	33016	micro	105	TaeGut	s184	Zebra finch
+NW_024545368.1	32864	micro	106	TaeGut	s185	Zebra finch
+NW_024545369.1	32548	micro	107	TaeGut	s186	Zebra finch
+NW_024545370.1	32436	micro	108	TaeGut	s187	Zebra finch
+NW_024545371.1	32406	micro	109	TaeGut	s188	Zebra finch
+NW_024545372.1	32113	micro	110	TaeGut	s189	Zebra finch
+NW_024545373.1	32025	micro	111	TaeGut	s190	Zebra finch
+NW_024545374.1	31893	micro	112	TaeGut	s191	Zebra finch
+NW_024545375.1	31287	micro	113	TaeGut	s192	Zebra finch
+NW_024545376.1	31086	micro	114	TaeGut	s193	Zebra finch
+NW_024545377.1	31027	micro	115	TaeGut	s194	Zebra finch
+NW_024545378.1	30627	micro	116	TaeGut	s195	Zebra finch
+NW_024545379.1	30406	micro	117	TaeGut	s196	Zebra finch
+NW_024545380.1	30377	micro	118	TaeGut	s197	Zebra finch
+NW_024545381.1	29779	micro	119	TaeGut	s198	Zebra finch
+NW_024545382.1	29796	micro	120	TaeGut	s199	Zebra finch
+NW_024545383.1	29549	micro	121	TaeGut	s200	Zebra finch
+NW_024545384.1	28987	micro	122	TaeGut	s201	Zebra finch
+NW_024545385.1	29457	micro	123	TaeGut	s202	Zebra finch
+NW_024545386.1	28806	micro	124	TaeGut	s203	Zebra finch
+NW_024545387.1	28640	micro	125	TaeGut	s204	Zebra finch
+NW_024545388.1	28576	micro	126	TaeGut	s205	Zebra finch
+NW_024545389.1	28385	micro	127	TaeGut	s206	Zebra finch
+NW_024545390.1	28258	micro	128	TaeGut	s207	Zebra finch
+NW_024545391.1	28197	micro	129	TaeGut	s208	Zebra finch
+NW_024545392.1	28505	micro	130	TaeGut	s209	Zebra finch
+NW_024545393.1	27831	micro	131	TaeGut	s210	Zebra finch
+NW_024545394.1	27641	micro	132	TaeGut	s211	Zebra finch
+NW_024545395.1	27649	micro	133	TaeGut	s212	Zebra finch
+NW_024545396.1	27407	micro	134	TaeGut	s213	Zebra finch
+NW_024545397.1	27333	micro	135	TaeGut	s214	Zebra finch
+NW_024545398.1	27702	micro	136	TaeGut	s215	Zebra finch
+NW_024545399.1	27084	micro	137	TaeGut	s216	Zebra finch
+NW_024545400.1	26934	micro	138	TaeGut	s217	Zebra finch
+NW_024545401.1	26849	micro	139	TaeGut	s218	Zebra finch
+NW_024545402.1	26672	micro	140	TaeGut	s219	Zebra finch
+NW_024545403.1	25671	micro	141	TaeGut	s220	Zebra finch
+NW_024545404.1	25510	micro	142	TaeGut	s221	Zebra finch
+NW_024545405.1	25509	micro	143	TaeGut	s222	Zebra finch
+NW_024545406.1	25298	micro	144	TaeGut	s223	Zebra finch
+NW_024545407.1	25040	micro	145	TaeGut	s224	Zebra finch
+NW_024545408.1	24926	micro	146	TaeGut	s225	Zebra finch
+NW_024545409.1	25055	micro	147	TaeGut	s226	Zebra finch
+NW_024545410.1	24653	micro	148	TaeGut	s227	Zebra finch
+NW_024545411.1	24437	micro	149	TaeGut	s228	Zebra finch
+NW_024545412.1	24381	micro	150	TaeGut	s229	Zebra finch
+NW_024545413.1	24020	micro	151	TaeGut	s230	Zebra finch
+NW_024545414.1	24009	micro	152	TaeGut	s231	Zebra finch
+NW_024545415.1	23939	micro	153	TaeGut	s232	Zebra finch
+NW_024545416.1	24122	micro	154	TaeGut	s233	Zebra finch
+NW_024545417.1	23937	micro	155	TaeGut	s234	Zebra finch
+NW_024545418.1	23680	micro	156	TaeGut	s235	Zebra finch
+NW_024545419.1	23275	micro	157	TaeGut	s236	Zebra finch
+NW_024545420.1	22907	micro	158	TaeGut	s237	Zebra finch
+NW_024545421.1	22823	micro	159	TaeGut	s238	Zebra finch
+NW_024545422.1	22825	micro	160	TaeGut	s239	Zebra finch
+NW_024545423.1	22758	micro	161	TaeGut	s240	Zebra finch
+NW_024545424.1	22361	micro	162	TaeGut	s241	Zebra finch
+NW_024545425.1	22029	micro	163	TaeGut	s242	Zebra finch
+NW_024545426.1	21656	micro	164	TaeGut	s243	Zebra finch
+NW_024545427.1	21376	micro	165	TaeGut	s244	Zebra finch
+NW_024545428.1	21416	micro	166	TaeGut	s245	Zebra finch
+NW_024545429.1	21241	micro	167	TaeGut	s246	Zebra finch
+NW_024545430.1	21158	micro	168	TaeGut	s247	Zebra finch
+NW_024545431.1	20891	micro	169	TaeGut	s248	Zebra finch
+NW_024545432.1	20902	micro	170	TaeGut	s249	Zebra finch
+NW_024545433.1	20678	micro	171	TaeGut	s250	Zebra finch
+NW_024545434.1	20396	micro	172	TaeGut	s251	Zebra finch
+NW_024545435.1	20292	micro	173	TaeGut	s252	Zebra finch
+NW_024545436.1	20309	micro	174	TaeGut	s253	Zebra finch
+NW_024545437.1	20155	micro	175	TaeGut	s254	Zebra finch
+NW_024545438.1	20146	micro	176	TaeGut	s255	Zebra finch
+NW_024545439.1	19156	micro	177	TaeGut	s256	Zebra finch
+NW_024545440.1	18190	micro	178	TaeGut	s257	Zebra finch
+NW_024545441.1	16873	micro	179	TaeGut	s258	Zebra finch
+NW_024545442.1	14789	micro	180	TaeGut	s259	Zebra finch
+NW_024545443.1	12278	micro	181	TaeGut	s260	Zebra finch
+NW_024545444.1	11229	micro	182	TaeGut	s261	Zebra finch
+NW_024545445.1	7423	micro	183	TaeGut	s262	Zebra finch
+NW_024545446.1	5626	micro	184	TaeGut	s263	Zebra finch
+NW_024545447.1	4523	micro	185	TaeGut	s264	Zebra finch
+NW_024545448.1	3655	micro	186	TaeGut	s265	Zebra finch
+NW_024545449.1	3579	micro	187	TaeGut	s266	Zebra finch
+NW_024545450.1	3096	micro	188	TaeGut	s267	Zebra finch
+NW_024545451.1	2405	micro	189	TaeGut	s268	Zebra finch
+NW_024545452.1	2069	micro	190	TaeGut	s269	Zebra finch
+NW_024545453.1	1452	micro	191	TaeGut	s270	Zebra finch
+NW_024545454.1	747	micro	192	TaeGut	s271	Zebra finch
+NW_024545455.1	472	micro	193	TaeGut	s272	Zebra finch
+NW_024545456.1	220453	micro	194	TaeGut	s88	Zebra finch
+NW_024545457.1	197294	micro	195	TaeGut	s92	Zebra finch
+NW_024545458.1	188899	micro	196	TaeGut	s94	Zebra finch
+NW_024545459.1	173969	micro	197	TaeGut	s96	Zebra finch
+NW_024545460.1	170699	micro	198	TaeGut	s99	Zebra finch
+NC_007897.1	16853	micro	199	TaeGut	mt	Zebra finch
+CM020024.1	136452362	macro	1	BucAby	c1	Abyssinian ground-hornbill
+CM020025.1	81184632	macro	2	BucAby	c2	Abyssinian ground-hornbill
+CM020053.1	13142313	macro	3	BucAby	c30	Abyssinian ground-hornbill
+CM020030.1	41247383	macro	4	BucAby	c7	Abyssinian ground-hornbill
+CM020028.1	45440818	macro	5	BucAby	c5	Abyssinian ground-hornbill
+CM020054.1	13116243	macro	6	BucAby	c31	Abyssinian ground-hornbill
+CM020027.1	46835259	macro	7	BucAby	c4	Abyssinian ground-hornbill
+CM020052.1	13216842	macro	8	BucAby	c29	Abyssinian ground-hornbill
+CM020033.1	35074608	macro	9	BucAby	c10	Abyssinian ground-hornbill
+CM020045.1	17599546	macro	10	BucAby	c22	Abyssinian ground-hornbill
+CM020031.1	40274051	macro	11	BucAby	c8	Abyssinian ground-hornbill
+CM020060.1	3539624	macro	12	BucAby	c37	Abyssinian ground-hornbill
+CM020039.1	22493967	macro	13	BucAby	c16	Abyssinian ground-hornbill
+CM020046.1	17575511	macro	14	BucAby	c23	Abyssinian ground-hornbill
+CM020026.1	62186786	macro	15	BucAby	c3	Abyssinian ground-hornbill
+CM020043.1	19022054	macro	16	BucAby	c20	Abyssinian ground-hornbill
+CM020061.1	2976411	macro	17	BucAby	c38	Abyssinian ground-hornbill
+CM020036.1	25328146	macro	18	BucAby	c13	Abyssinian ground-hornbill
+CM020042.1	20321109	macro	19	BucAby	c19	Abyssinian ground-hornbill
+CM020032.1	39094385	macro	20	BucAby	c9	Abyssinian ground-hornbill
+CM020029.1	41866552	macro	21	BucAby	c6	Abyssinian ground-hornbill
+CM020034.1	34097363	macro	22	BucAby	c11	Abyssinian ground-hornbill
+CM020064.1	16450271	macro	23	BucAby	cW	Abyssinian ground-hornbill
+CM020063.1	82367667	macro	24	BucAby	cZ	Abyssinian ground-hornbill
+CM020035.1	27197564	micro	25	BucAby	c12	Abyssinian ground-hornbill
+CM020038.1	22535586	micro	26	BucAby	c15	Abyssinian ground-hornbill
+CM020040.1	22365827	micro	27	BucAby	c17	Abyssinian ground-hornbill
+CM020037.1	22999164	micro	28	BucAby	c14	Abyssinian ground-hornbill
+CM020062.1	1271767	micro	29	BucAby	c39	Abyssinian ground-hornbill
+CM020041.1	20536565	micro	30	BucAby	c18	Abyssinian ground-hornbill
+CM020044.1	18028713	micro	31	BucAby	c21	Abyssinian ground-hornbill
+CM020048.1	15599372	micro	32	BucAby	c25	Abyssinian ground-hornbill
+CM020056.1	12224544	micro	33	BucAby	c33	Abyssinian ground-hornbill
+CM020051.1	13341052	micro	34	BucAby	c28	Abyssinian ground-hornbill
+CM020050.1	14657043	micro	35	BucAby	c27	Abyssinian ground-hornbill
+CM020047.1	16590994	micro	36	BucAby	c24	Abyssinian ground-hornbill
+CM020049.1	15563623	micro	37	BucAby	c26	Abyssinian ground-hornbill
+CM020059.1	5208711	micro	38	BucAby	c36	Abyssinian ground-hornbill
+CM020058.1	7153002	micro	39	BucAby	c35	Abyssinian ground-hornbill
+CM020055.1	12593932	micro	40	BucAby	c32	Abyssinian ground-hornbill
+CM020057.1	7491012	micro	41	BucAby	c34	Abyssinian ground-hornbill
+WNMG01000042.1	45779	micro	42	BucAby	s100	Abyssinian ground-hornbill
+WNMG01000043.1	44680	micro	43	BucAby	s101	Abyssinian ground-hornbill
+WNMG01000044.1	43104	micro	44	BucAby	s102	Abyssinian ground-hornbill
+WNMG01000045.1	43273	micro	45	BucAby	s103	Abyssinian ground-hornbill
+WNMG01000046.1	40793	micro	46	BucAby	s104	Abyssinian ground-hornbill
+WNMG01000047.1	40718	micro	47	BucAby	s105	Abyssinian ground-hornbill
+WNMG01000048.1	40042	micro	48	BucAby	s106	Abyssinian ground-hornbill
+WNMG01000049.1	38674	micro	49	BucAby	s107	Abyssinian ground-hornbill
+WNMG01000050.1	38694	micro	50	BucAby	s108	Abyssinian ground-hornbill
+WNMG01000051.1	35717	micro	51	BucAby	s109	Abyssinian ground-hornbill
+WNMG01000052.1	35180	micro	52	BucAby	s110	Abyssinian ground-hornbill
+WNMG01000053.1	35090	micro	53	BucAby	s111	Abyssinian ground-hornbill
+WNMG01000054.1	34876	micro	54	BucAby	s112	Abyssinian ground-hornbill
+WNMG01000055.1	33742	micro	55	BucAby	s113	Abyssinian ground-hornbill
+WNMG01000056.1	33378	micro	56	BucAby	s114	Abyssinian ground-hornbill
+WNMG01000057.1	32923	micro	57	BucAby	s115	Abyssinian ground-hornbill
+WNMG01000058.1	32197	micro	58	BucAby	s116	Abyssinian ground-hornbill
+WNMG01000059.1	31159	micro	59	BucAby	s117	Abyssinian ground-hornbill
+WNMG01000060.1	28444	micro	60	BucAby	s118	Abyssinian ground-hornbill
+WNMG01000061.1	28278	micro	61	BucAby	s119	Abyssinian ground-hornbill
+WNMG01000062.1	26085	micro	62	BucAby	s120	Abyssinian ground-hornbill
+WNMG01000063.1	25182	micro	63	BucAby	s121	Abyssinian ground-hornbill
+WNMG01000064.1	25534	micro	64	BucAby	s122	Abyssinian ground-hornbill
+WNMG01000065.1	21544	micro	65	BucAby	s123	Abyssinian ground-hornbill
+WNMG01000066.1	21284	micro	66	BucAby	s124	Abyssinian ground-hornbill
+WNMG01000067.1	20707	micro	67	BucAby	s125	Abyssinian ground-hornbill
+WNMG01000068.1	20667	micro	68	BucAby	s126	Abyssinian ground-hornbill
+WNMG01000069.1	20702	micro	69	BucAby	s127	Abyssinian ground-hornbill
+WNMG01000070.1	19992	micro	70	BucAby	s128	Abyssinian ground-hornbill
+WNMG01000071.1	16932	micro	71	BucAby	s129	Abyssinian ground-hornbill
+WNMG01000072.1	10643	micro	72	BucAby	s130	Abyssinian ground-hornbill
+WNMG01000073.1	10111	micro	73	BucAby	s131	Abyssinian ground-hornbill
+WNMG01000074.1	5931	micro	74	BucAby	s132	Abyssinian ground-hornbill
+WNMG01000075.1	3657	micro	75	BucAby	s133	Abyssinian ground-hornbill
+WNMG01000076.1	2790	micro	76	BucAby	s134	Abyssinian ground-hornbill
+WNMG01000077.1	411038	micro	77	BucAby	s58	Abyssinian ground-hornbill
+WNMG01000078.1	316057	micro	78	BucAby	s59	Abyssinian ground-hornbill
+WNMG01000079.1	311289	micro	79	BucAby	s60	Abyssinian ground-hornbill
+WNMG01000080.1	270293	micro	80	BucAby	s62	Abyssinian ground-hornbill
+WNMG01000081.1	246817	micro	81	BucAby	s63	Abyssinian ground-hornbill
+WNMG01000082.1	225283	micro	82	BucAby	s64	Abyssinian ground-hornbill
+WNMG01000083.1	219267	micro	83	BucAby	s65	Abyssinian ground-hornbill
+WNMG01000084.1	213273	micro	84	BucAby	s67	Abyssinian ground-hornbill
+WNMG01000085.1	202165	micro	85	BucAby	s68	Abyssinian ground-hornbill
+WNMG01000086.1	190346	micro	86	BucAby	s69	Abyssinian ground-hornbill
+WNMG01000087.1	185072	micro	87	BucAby	s71	Abyssinian ground-hornbill
+WNMG01000088.1	176774	micro	88	BucAby	s72	Abyssinian ground-hornbill
+WNMG01000089.1	173650	micro	89	BucAby	s73	Abyssinian ground-hornbill
+WNMG01000090.1	165189	micro	90	BucAby	s75	Abyssinian ground-hornbill
+WNMG01000091.1	158306	micro	91	BucAby	s76	Abyssinian ground-hornbill
+WNMG01000092.1	146035	micro	92	BucAby	s77	Abyssinian ground-hornbill
+WNMG01000093.1	142209	micro	93	BucAby	s78	Abyssinian ground-hornbill
+WNMG01000094.1	137720	micro	94	BucAby	s79	Abyssinian ground-hornbill
+WNMG01000095.1	136961	micro	95	BucAby	s80	Abyssinian ground-hornbill
+WNMG01000096.1	136935	micro	96	BucAby	s81	Abyssinian ground-hornbill
+WNMG01000097.1	118161	micro	97	BucAby	s82	Abyssinian ground-hornbill
+WNMG01000098.1	112145	micro	98	BucAby	s83	Abyssinian ground-hornbill
+WNMG01000099.1	95977	micro	99	BucAby	s84	Abyssinian ground-hornbill
+WNMG01000100.1	94639	micro	100	BucAby	s85	Abyssinian ground-hornbill
+WNMG01000101.1	83089	micro	101	BucAby	s86	Abyssinian ground-hornbill
+WNMG01000102.1	79319	micro	102	BucAby	s87	Abyssinian ground-hornbill
+WNMG01000103.1	78226	micro	103	BucAby	s88	Abyssinian ground-hornbill
+WNMG01000104.1	78808	micro	104	BucAby	s89	Abyssinian ground-hornbill
+WNMG01000105.1	72386	micro	105	BucAby	s90	Abyssinian ground-hornbill
+WNMG01000106.1	62955	micro	106	BucAby	s92	Abyssinian ground-hornbill
+WNMG01000107.1	57748	micro	107	BucAby	s93	Abyssinian ground-hornbill
+WNMG01000108.1	54580	micro	108	BucAby	s94	Abyssinian ground-hornbill
+WNMG01000109.1	52401	micro	109	BucAby	s95	Abyssinian ground-hornbill
+WNMG01000110.1	47807	micro	110	BucAby	s97	Abyssinian ground-hornbill
+WNMG01000111.1	47058	micro	111	BucAby	s98	Abyssinian ground-hornbill
+WNMG01000112.1	46707	micro	112	BucAby	s99	Abyssinian ground-hornbill
+CM036617.1	222214447	macro	1	TroSur	c1	Suruca trogon
+CM036622.1	60617194	macro	2	TroSur	c6	Suruca trogon
+CM036619.1	100503030	macro	3	TroSur	c3	Suruca trogon
+CM036618.1	127113889	macro	4	TroSur	c2	Suruca trogon
+JAJGST010000005.1	252622	macro	5	TroSur	c2.1	Suruca trogon
+JAJGST010000004.1	235440	macro	6	TroSur	c2.2	Suruca trogon
+JAJGST010000003.1	209262	macro	7	TroSur	c2.3	Suruca trogon
+CM036628.1	21966273	macro	8	TroSur	c12	Suruca trogon
+CM036646.1	2236425	macro	9	TroSur	c30	Suruca trogon
+CM036620.1	82617956	macro	10	TroSur	c4	Suruca trogon
+CM036631.1	17610008	macro	11	TroSur	c15	Suruca trogon
+CM036645.1	3179059	macro	12	TroSur	c29	Suruca trogon
+CM036623.1	47452786	macro	13	TroSur	c7	Suruca trogon
+CM036621.1	82433517	macro	14	TroSur	c5	Suruca trogon
+CM036624.1	34180213	macro	15	TroSur	c8	Suruca trogon
+CM036657.1	9310055	macro	16	TroSur	cW	Suruca trogon
+JAJGST010000022.1	3870694	macro	17	TroSur	cW.1	Suruca trogon
+JAJGST010000019.1	2891825	macro	18	TroSur	cW.2	Suruca trogon
+JAJGST010000020.1	2761549	macro	19	TroSur	cW.3	Suruca trogon
+JAJGST010000018.1	293992	macro	20	TroSur	cW.4	Suruca trogon
+JAJGST010000017.1	289646	macro	21	TroSur	cW.5	Suruca trogon
+JAJGST010000016.1	250483	macro	22	TroSur	cW.6	Suruca trogon
+CM036658.1	87900276	macro	23	TroSur	cZ	Suruca trogon
+JAJGST010000014.1	151308	macro	24	TroSur	cZ.1	Suruca trogon
+JAJGST010000013.1	132629	macro	25	TroSur	cZ.2	Suruca trogon
+JAJGST010000012.1	87051	macro	26	TroSur	cZ.3	Suruca trogon
+JAJGST010000011.1	44047	macro	27	TroSur	cZ.4	Suruca trogon
+CM036625.1	27349769	micro	28	TroSur	c9	Suruca trogon
+CM036627.1	22245804	micro	29	TroSur	c11	Suruca trogon
+CM036629.1	21697095	micro	30	TroSur	c13	Suruca trogon
+CM036626.1	22532472	micro	31	TroSur	c10	Suruca trogon
+CM036630.1	20014507	micro	32	TroSur	c14	Suruca trogon
+CM036632.1	17577491	micro	33	TroSur	c16	Suruca trogon
+CM036634.1	15599291	micro	34	TroSur	c18	Suruca trogon
+CM036636.1	12064406	micro	35	TroSur	c20	Suruca trogon
+CM036635.1	12955084	micro	36	TroSur	c19	Suruca trogon
+CM036637.1	11711654	micro	37	TroSur	c21	Suruca trogon
+CM036633.1	16237294	micro	38	TroSur	c17	Suruca trogon
+CM036638.1	7852303	micro	39	TroSur	c22	Suruca trogon
+CM036643.1	5785836	micro	40	TroSur	c27	Suruca trogon
+CM036644.1	5094946	micro	41	TroSur	c28	Suruca trogon
+CM036642.1	6384310	micro	42	TroSur	c26	Suruca trogon
+CM036641.1	6757782	micro	43	TroSur	c25	Suruca trogon
+CM036640.1	7424572	micro	44	TroSur	c24	Suruca trogon
+CM036639.1	7701535	micro	45	TroSur	c23	Suruca trogon
+CM036647.1	192418	micro	46	TroSur	c31	Suruca trogon
+JAJGST010000055.1	143213	micro	47	TroSur	c31.1	Suruca trogon
+JAJGST010000050.1	142433	micro	48	TroSur	c31.2	Suruca trogon
+JAJGST010000053.1	75886	micro	49	TroSur	c31.3	Suruca trogon
+JAJGST010000056.1	52973	micro	50	TroSur	c31.4	Suruca trogon
+JAJGST010000057.1	43791	micro	51	TroSur	c31.5	Suruca trogon
+JAJGST010000054.1	37351	micro	52	TroSur	c31.6	Suruca trogon
+JAJGST010000051.1	13564	micro	53	TroSur	c31.7	Suruca trogon
+JAJGST010000058.1	12083	micro	54	TroSur	c31.8	Suruca trogon
+CM036648.1	425252	micro	55	TroSur	c32	Suruca trogon
+JAJGST010000059.1	215325	micro	56	TroSur	c32.1	Suruca trogon
+CM036649.1	155072	micro	57	TroSur	c33	Suruca trogon
+JAJGST010000065.1	155015	micro	58	TroSur	c33.1	Suruca trogon
+JAJGST010000066.1	132537	micro	59	TroSur	c33.2	Suruca trogon
+CM036650.1	322756	micro	60	TroSur	c34	Suruca trogon
+JAJGST010000062.1	20022	micro	61	TroSur	c34.1	Suruca trogon
+JAJGST010000063.1	14126	micro	62	TroSur	c34.2	Suruca trogon
+CM036651.1	163099	micro	63	TroSur	c35	Suruca trogon
+JAJGST010000048.1	34112	micro	64	TroSur	c35.1	Suruca trogon
+CM036652.1	83204	micro	65	TroSur	c36	Suruca trogon
+JAJGST010000068.1	60390	micro	66	TroSur	c36.1	Suruca trogon
+JAJGST010000069.1	52144	micro	67	TroSur	c36.2	Suruca trogon
+CM036653.1	194935	micro	68	TroSur	c37	Suruca trogon
+CM036654.1	81129	micro	69	TroSur	c38	Suruca trogon
+CM036655.1	65809	micro	70	TroSur	c39	Suruca trogon
+CM036656.1	52311	micro	71	TroSur	c40	Suruca trogon
+JAJGST010000089.1	91875	micro	72	TroSur	s101	Suruca trogon
+JAJGST010000090.1	82454	micro	73	TroSur	s106	Suruca trogon
+JAJGST010000091.1	81617	micro	74	TroSur	s107	Suruca trogon
+JAJGST010000092.1	76726	micro	75	TroSur	s109	Suruca trogon
+JAJGST010000093.1	72808	micro	76	TroSur	s111	Suruca trogon
+JAJGST010000094.1	71787	micro	77	TroSur	s112	Suruca trogon
+JAJGST010000095.1	65607	micro	78	TroSur	s115	Suruca trogon
+JAJGST010000096.1	64207	micro	79	TroSur	s117	Suruca trogon
+JAJGST010000097.1	63508	micro	80	TroSur	s118	Suruca trogon
+JAJGST010000098.1	63301	micro	81	TroSur	s119	Suruca trogon
+JAJGST010000099.1	59596	micro	82	TroSur	s122	Suruca trogon
+JAJGST010000100.1	57387	micro	83	TroSur	s123	Suruca trogon
+JAJGST010000101.1	54669	micro	84	TroSur	s124	Suruca trogon
+JAJGST010000102.1	54667	micro	85	TroSur	s125	Suruca trogon
+JAJGST010000103.1	54951	micro	86	TroSur	s126	Suruca trogon
+JAJGST010000104.1	54257	micro	87	TroSur	s127	Suruca trogon
+JAJGST010000105.1	53401	micro	88	TroSur	s128	Suruca trogon
+JAJGST010000106.1	50887	micro	89	TroSur	s132	Suruca trogon
+JAJGST010000107.1	45138	micro	90	TroSur	s134	Suruca trogon
+JAJGST010000108.1	43678	micro	91	TroSur	s137	Suruca trogon
+JAJGST010000109.1	43506	micro	92	TroSur	s138	Suruca trogon
+JAJGST010000110.1	43151	micro	93	TroSur	s139	Suruca trogon
+JAJGST010000111.1	42645	micro	94	TroSur	s140	Suruca trogon
+JAJGST010000112.1	39789	micro	95	TroSur	s141	Suruca trogon
+JAJGST010000113.1	39654	micro	96	TroSur	s142	Suruca trogon
+JAJGST010000114.1	35540	micro	97	TroSur	s145	Suruca trogon
+JAJGST010000115.1	36143	micro	98	TroSur	s146	Suruca trogon
+JAJGST010000116.1	34575	micro	99	TroSur	s147	Suruca trogon
+JAJGST010000117.1	34506	micro	100	TroSur	s148	Suruca trogon
+JAJGST010000118.1	34002	micro	101	TroSur	s149	Suruca trogon
+JAJGST010000119.1	32980	micro	102	TroSur	s151	Suruca trogon
+JAJGST010000120.1	32376	micro	103	TroSur	s152	Suruca trogon
+JAJGST010000121.1	32083	micro	104	TroSur	s153	Suruca trogon
+JAJGST010000122.1	31666	micro	105	TroSur	s154	Suruca trogon
+JAJGST010000123.1	31608	micro	106	TroSur	s155	Suruca trogon
+JAJGST010000124.1	31009	micro	107	TroSur	s156	Suruca trogon
+JAJGST010000125.1	29898	micro	108	TroSur	s157	Suruca trogon
+JAJGST010000126.1	27910	micro	109	TroSur	s158	Suruca trogon
+JAJGST010000127.1	26949	micro	110	TroSur	s159	Suruca trogon
+JAJGST010000128.1	26686	micro	111	TroSur	s160	Suruca trogon
+JAJGST010000129.1	26706	micro	112	TroSur	s161	Suruca trogon
+JAJGST010000130.1	26508	micro	113	TroSur	s162	Suruca trogon
+JAJGST010000131.1	26508	micro	114	TroSur	s163	Suruca trogon
+JAJGST010000132.1	26384	micro	115	TroSur	s164	Suruca trogon
+JAJGST010000155.1	25748	micro	116	TroSur	s165	Suruca trogon
+JAJGST010000133.1	24464	micro	117	TroSur	s166	Suruca trogon
+JAJGST010000134.1	23798	micro	118	TroSur	s167	Suruca trogon
+JAJGST010000135.1	23355	micro	119	TroSur	s168	Suruca trogon
+JAJGST010000136.1	22756	micro	120	TroSur	s169	Suruca trogon
+JAJGST010000137.1	22790	micro	121	TroSur	s170	Suruca trogon
+JAJGST010000138.1	22282	micro	122	TroSur	s171	Suruca trogon
+JAJGST010000139.1	21633	micro	123	TroSur	s172	Suruca trogon
+JAJGST010000140.1	21683	micro	124	TroSur	s173	Suruca trogon
+JAJGST010000141.1	21349	micro	125	TroSur	s174	Suruca trogon
+JAJGST010000142.1	21113	micro	126	TroSur	s175	Suruca trogon
+JAJGST010000143.1	20735	micro	127	TroSur	s176	Suruca trogon
+JAJGST010000144.1	20037	micro	128	TroSur	s177	Suruca trogon
+JAJGST010000145.1	19364	micro	129	TroSur	s179	Suruca trogon
+JAJGST010000146.1	18884	micro	130	TroSur	s180	Suruca trogon
+JAJGST010000147.1	18823	micro	131	TroSur	s181	Suruca trogon
+JAJGST010000148.1	18660	micro	132	TroSur	s182	Suruca trogon
+JAJGST010000149.1	18525	micro	133	TroSur	s183	Suruca trogon
+JAJGST010000150.1	18413	micro	134	TroSur	s184	Suruca trogon
+JAJGST010000151.1	18139	micro	135	TroSur	s185	Suruca trogon
+JAJGST010000152.1	17851	micro	136	TroSur	s186	Suruca trogon
+JAJGST010000153.1	17837	micro	137	TroSur	s187	Suruca trogon
+JAJGST010000154.1	17645	micro	138	TroSur	s188	Suruca trogon
+JAJGST010000156.1	16741	micro	139	TroSur	s189	Suruca trogon
+JAJGST010000157.1	15838	micro	140	TroSur	s190	Suruca trogon
+JAJGST010000158.1	15323	micro	141	TroSur	s191	Suruca trogon
+JAJGST010000159.1	14884	micro	142	TroSur	s192	Suruca trogon
+JAJGST010000160.1	13756	micro	143	TroSur	s194	Suruca trogon
+JAJGST010000161.1	13295	micro	144	TroSur	s196	Suruca trogon
+JAJGST010000162.1	13098	micro	145	TroSur	s197	Suruca trogon
+JAJGST010000163.1	13040	micro	146	TroSur	s198	Suruca trogon
+JAJGST010000164.1	12745	micro	147	TroSur	s199	Suruca trogon
+JAJGST010000165.1	12415	micro	148	TroSur	s200	Suruca trogon
+JAJGST010000166.1	11651	micro	149	TroSur	s202	Suruca trogon
+JAJGST010000167.1	8837	micro	150	TroSur	s203	Suruca trogon
+JAJGST010000168.1	8530	micro	151	TroSur	s204	Suruca trogon
+JAJGST010000169.1	6966	micro	152	TroSur	s205	Suruca trogon
+JAJGST010000170.1	6174	micro	153	TroSur	s206	Suruca trogon
+JAJGST010000171.1	5657	micro	154	TroSur	s207	Suruca trogon
+JAJGST010000172.1	5541	micro	155	TroSur	s208	Suruca trogon
+JAJGST010000173.1	5346	micro	156	TroSur	s209	Suruca trogon
+JAJGST010000174.1	4784	micro	157	TroSur	s210	Suruca trogon
+JAJGST010000175.1	4730	micro	158	TroSur	s211	Suruca trogon
+JAJGST010000176.1	4669	micro	159	TroSur	s212	Suruca trogon
+JAJGST010000177.1	4670	micro	160	TroSur	s213	Suruca trogon
+JAJGST010000178.1	4407	micro	161	TroSur	s214	Suruca trogon
+JAJGST010000179.1	4424	micro	162	TroSur	s215	Suruca trogon
+JAJGST010000180.1	3512	micro	163	TroSur	s216	Suruca trogon
+JAJGST010000181.1	2178	micro	164	TroSur	s217	Suruca trogon
+JAJGST010000182.1	1349	micro	165	TroSur	s218	Suruca trogon
+JAJGST010000073.1	382545	micro	166	TroSur	s58	Suruca trogon
+JAJGST010000074.1	192934	micro	167	TroSur	s71	Suruca trogon
+JAJGST010000075.1	186682	micro	168	TroSur	s73	Suruca trogon
+JAJGST010000076.1	129269	micro	169	TroSur	s84	Suruca trogon
+JAJGST010000077.1	122009	micro	170	TroSur	s85	Suruca trogon
+JAJGST010000078.1	121110	micro	171	TroSur	s86	Suruca trogon
+JAJGST010000079.1	121026	micro	172	TroSur	s87	Suruca trogon
+JAJGST010000080.1	118184	micro	173	TroSur	s88	Suruca trogon
+JAJGST010000081.1	115587	micro	174	TroSur	s89	Suruca trogon
+JAJGST010000082.1	113561	micro	175	TroSur	s90	Suruca trogon
+JAJGST010000083.1	111293	micro	176	TroSur	s91	Suruca trogon
+JAJGST010000084.1	108945	micro	177	TroSur	s92	Suruca trogon
+JAJGST010000085.1	108518	micro	178	TroSur	s93	Suruca trogon
+JAJGST010000086.1	100277	micro	179	TroSur	s96	Suruca trogon
+JAJGST010000087.1	99713	micro	180	TroSur	s97	Suruca trogon
+JAJGST010000088.1	97212	micro	181	TroSur	s98	Suruca trogon
+CM036751.1	22126	micro	182	TroSur	mt	Suruca trogon
+CM020384.1	63096317	macro	1	MerNub	c5	carmine bee-eater
+CM020381.1	75343401	macro	2	MerNub	c2	carmine bee-eater
+CM020382.1	71733751	macro	3	MerNub	c3	carmine bee-eater
+CM020385.1	60843516	macro	4	MerNub	c6	carmine bee-eater
+CM020388.1	48979692	macro	5	MerNub	c9	carmine bee-eater
+CM020387.1	49132790	macro	6	MerNub	c8	carmine bee-eater
+CM020391.1	43611853	macro	7	MerNub	c12	carmine bee-eater
+CM020380.1	80186833	macro	8	MerNub	c1	carmine bee-eater
+CM020397.1	23612523	macro	9	MerNub	c18	carmine bee-eater
+CM020395.1	37598585	macro	10	MerNub	c16	carmine bee-eater
+CM020411.1	2423476	macro	11	MerNub	c32	carmine bee-eater
+CM020392.1	43371974	macro	12	MerNub	c13	carmine bee-eater
+CM020398.1	19777913	macro	13	MerNub	c19	carmine bee-eater
+CM020409.1	6288221	macro	14	MerNub	c30	carmine bee-eater
+CM020383.1	63715286	macro	15	MerNub	c4	carmine bee-eater
+CM020396.1	28670679	macro	16	MerNub	c17	carmine bee-eater
+CM020393.1	42743831	macro	17	MerNub	c14	carmine bee-eater
+CM020389.1	47935011	macro	18	MerNub	c10	carmine bee-eater
+CM020415.1	5150650	macro	19	MerNub	cW	carmine bee-eater
+CM020414.1	81488222	macro	20	MerNub	cZ	carmine bee-eater
+CM020386.1	50894559	micro	21	MerNub	c7	carmine bee-eater
+CM020390.1	43998339	micro	22	MerNub	c11	carmine bee-eater
+CM020413.1	492839	micro	23	MerNub	c34	carmine bee-eater
+CM020399.1	18641447	micro	24	MerNub	c20	carmine bee-eater
+CM020394.1	38038150	micro	25	MerNub	c15	carmine bee-eater
+CM020412.1	1025373	micro	26	MerNub	c33	carmine bee-eater
+CM020401.1	12982148	micro	27	MerNub	c22	carmine bee-eater
+CM020402.1	12650627	micro	28	MerNub	c23	carmine bee-eater
+CM020400.1	17189439	micro	29	MerNub	c21	carmine bee-eater
+CM020403.1	8879749	micro	30	MerNub	c24	carmine bee-eater
+CM020408.1	6573002	micro	31	MerNub	c29	carmine bee-eater
+CM020410.1	6268309	micro	32	MerNub	c31	carmine bee-eater
+CM020405.1	7411940	micro	33	MerNub	c26	carmine bee-eater
+CM020406.1	7338921	micro	34	MerNub	c27	carmine bee-eater
+CM020404.1	8336564	micro	35	MerNub	c25	carmine bee-eater
+CM020407.1	7188891	micro	36	MerNub	c28	carmine bee-eater
+WNMU01000037.1	46866	micro	37	MerNub	s100	carmine bee-eater
+WNMU01000038.1	44604	micro	38	MerNub	s101	carmine bee-eater
+WNMU01000039.1	44787	micro	39	MerNub	s102	carmine bee-eater
+WNMU01000040.1	43336	micro	40	MerNub	s103	carmine bee-eater
+WNMU01000041.1	43579	micro	41	MerNub	s104	carmine bee-eater
+WNMU01000042.1	43033	micro	42	MerNub	s106	carmine bee-eater
+WNMU01000043.1	38828	micro	43	MerNub	s107	carmine bee-eater
+WNMU01000044.1	36613	micro	44	MerNub	s108	carmine bee-eater
+WNMU01000045.1	34199	micro	45	MerNub	s109	carmine bee-eater
+WNMU01000046.1	33300	micro	46	MerNub	s110	carmine bee-eater
+WNMU01000047.1	33154	micro	47	MerNub	s111	carmine bee-eater
+WNMU01000048.1	32334	micro	48	MerNub	s112	carmine bee-eater
+WNMU01000049.1	31389	micro	49	MerNub	s113	carmine bee-eater
+WNMU01000050.1	30931	micro	50	MerNub	s114	carmine bee-eater
+WNMU01000051.1	30208	micro	51	MerNub	s115	carmine bee-eater
+WNMU01000052.1	29896	micro	52	MerNub	s116	carmine bee-eater
+WNMU01000053.1	29543	micro	53	MerNub	s117	carmine bee-eater
+WNMU01000054.1	26777	micro	54	MerNub	s118	carmine bee-eater
+WNMU01000055.1	26617	micro	55	MerNub	s119	carmine bee-eater
+WNMU01000056.1	26130	micro	56	MerNub	s120	carmine bee-eater
+WNMU01000057.1	26013	micro	57	MerNub	s121	carmine bee-eater
+WNMU01000058.1	25562	micro	58	MerNub	s122	carmine bee-eater
+WNMU01000059.1	25382	micro	59	MerNub	s123	carmine bee-eater
+WNMU01000060.1	24989	micro	60	MerNub	s124	carmine bee-eater
+WNMU01000061.1	24162	micro	61	MerNub	s125	carmine bee-eater
+WNMU01000062.1	22662	micro	62	MerNub	s126	carmine bee-eater
+WNMU01000063.1	22548	micro	63	MerNub	s127	carmine bee-eater
+WNMU01000064.1	22166	micro	64	MerNub	s128	carmine bee-eater
+WNMU01000065.1	21518	micro	65	MerNub	s129	carmine bee-eater
+WNMU01000066.1	21117	micro	66	MerNub	s130	carmine bee-eater
+WNMU01000067.1	20771	micro	67	MerNub	s131	carmine bee-eater
+WNMU01000068.1	20772	micro	68	MerNub	s132	carmine bee-eater
+WNMU01000069.1	20691	micro	69	MerNub	s133	carmine bee-eater
+WNMU01000070.1	16943	micro	70	MerNub	s134	carmine bee-eater
+WNMU01000071.1	10742	micro	71	MerNub	s135	carmine bee-eater
+WNMU01000072.1	7822	micro	72	MerNub	s136	carmine bee-eater
+WNMU01000073.1	6502	micro	73	MerNub	s137	carmine bee-eater
+WNMU01000074.1	414493	micro	74	MerNub	s48	carmine bee-eater
+WNMU01000075.1	316177	micro	75	MerNub	s50	carmine bee-eater
+WNMU01000076.1	278707	micro	76	MerNub	s52	carmine bee-eater
+WNMU01000077.1	273670	micro	77	MerNub	s55	carmine bee-eater
+WNMU01000078.1	207894	micro	78	MerNub	s59	carmine bee-eater
+WNMU01000079.1	185320	micro	79	MerNub	s61	carmine bee-eater
+WNMU01000080.1	181078	micro	80	MerNub	s62	carmine bee-eater
+WNMU01000081.1	173121	micro	81	MerNub	s63	carmine bee-eater
+WNMU01000082.1	166958	micro	82	MerNub	s64	carmine bee-eater
+WNMU01000083.1	159178	micro	83	MerNub	s66	carmine bee-eater
+WNMU01000084.1	156259	micro	84	MerNub	s67	carmine bee-eater
+WNMU01000085.1	156000	micro	85	MerNub	s68	carmine bee-eater
+WNMU01000086.1	138474	micro	86	MerNub	s69	carmine bee-eater
+WNMU01000087.1	133369	micro	87	MerNub	s70	carmine bee-eater
+WNMU01000088.1	128070	micro	88	MerNub	s71	carmine bee-eater
+WNMU01000089.1	128565	micro	89	MerNub	s72	carmine bee-eater
+WNMU01000090.1	119896	micro	90	MerNub	s73	carmine bee-eater
+WNMU01000091.1	112400	micro	91	MerNub	s74	carmine bee-eater
+WNMU01000092.1	108768	micro	92	MerNub	s75	carmine bee-eater
+WNMU01000093.1	103184	micro	93	MerNub	s78	carmine bee-eater
+WNMU01000094.1	95234	micro	94	MerNub	s79	carmine bee-eater
+WNMU01000095.1	94404	micro	95	MerNub	s81	carmine bee-eater
+WNMU01000096.1	92819	micro	96	MerNub	s83	carmine bee-eater
+WNMU01000097.1	80034	micro	97	MerNub	s86	carmine bee-eater
+WNMU01000098.1	77849	micro	98	MerNub	s87	carmine bee-eater
+WNMU01000099.1	74353	micro	99	MerNub	s88	carmine bee-eater
+WNMU01000100.1	67985	micro	100	MerNub	s89	carmine bee-eater
+WNMU01000101.1	65458	micro	101	MerNub	s90	carmine bee-eater
+WNMU01000102.1	63419	micro	102	MerNub	s91	carmine bee-eater
+WNMU01000103.1	56879	micro	103	MerNub	s92	carmine bee-eater
+WNMU01000104.1	56379	micro	104	MerNub	s94	carmine bee-eater
+WNMU01000105.1	54680	micro	105	MerNub	s96	carmine bee-eater
+WNMU01000106.1	52079	micro	106	MerNub	s97	carmine bee-eater
+WNMU01000107.1	51837	micro	107	MerNub	s98	carmine bee-eater
+WNMU01000108.1	51218	micro	108	MerNub	s99	carmine bee-eater
+CM020464.1	18687	micro	109	MerNub	mt	carmine bee-eater
+CM026778.1	50298882	macro	1	PogPus	c3	Red-fronted tinkerbird
+CM026790.1	28214577	macro	2	PogPus	c15	Red-fronted tinkerbird
+CM026779.1	49017438	macro	3	PogPus	c4	Red-fronted tinkerbird
+CM026787.1	33994490	macro	4	PogPus	c12	Red-fronted tinkerbird
+CM026780.1	48247665	macro	5	PogPus	c5	Red-fronted tinkerbird
+CM026803.1	19153003	macro	6	PogPus	c28	Red-fronted tinkerbird
+CM026798.1	22851124	macro	7	PogPus	c23	Red-fronted tinkerbird
+CM026807.1	15966843	macro	8	PogPus	c32	Red-fronted tinkerbird
+CM026796.1	23513585	macro	9	PogPus	c21	Red-fronted tinkerbird
+CM026809.1	15266759	macro	10	PogPus	c34	Red-fronted tinkerbird
+CM026785.1	40508505	macro	11	PogPus	c10	Red-fronted tinkerbird
+CM026782.1	43006194	macro	12	PogPus	c7	Red-fronted tinkerbird
+CM026789.1	32529539	macro	13	PogPus	c14	Red-fronted tinkerbird
+CM026800.1	21533785	macro	14	PogPus	c25	Red-fronted tinkerbird
+CM026793.1	25065023	macro	15	PogPus	c18	Red-fronted tinkerbird
+CM026806.1	16394476	macro	16	PogPus	c31	Red-fronted tinkerbird
+CM026808.1	15711250	macro	17	PogPus	c33	Red-fronted tinkerbird
+CM026794.1	24900927	macro	18	PogPus	c19	Red-fronted tinkerbird
+JADCQK010000230.1	570517	macro	19	PogPus	s76	Red-fronted tinkerbird
+CM026784.1	40811032	macro	20	PogPus	c9	Red-fronted tinkerbird
+CM026786.1	34651362	macro	21	PogPus	c11	Red-fronted tinkerbird
+CM026799.1	21812031	macro	22	PogPus	c24	Red-fronted tinkerbird
+CM026818.1	2885915	macro	23	PogPus	c43	Red-fronted tinkerbird
+CM026776.1	54480933	macro	24	PogPus	c1	Red-fronted tinkerbird
+CM026781.1	48033050	macro	25	PogPus	c6	Red-fronted tinkerbird
+CM026777.1	50464041	macro	26	PogPus	c2	Red-fronted tinkerbird
+CM026783.1	41511246	macro	27	PogPus	c8	Red-fronted tinkerbird
+CM026820.1	11365671	macro	28	PogPus	cW	Red-fronted tinkerbird
+JADCQK010000206.1	4693390	macro	29	PogPus	cW.1	Red-fronted tinkerbird
+JADCQK010000214.1	1374852	macro	30	PogPus	cW.2	Red-fronted tinkerbird
+JADCQK010000222.1	605034	macro	31	PogPus	cW.3	Red-fronted tinkerbird
+CM026821.1	117909544	macro	32	PogPus	cZ	Red-fronted tinkerbird
+CM026801.1	20826426	micro	33	PogPus	c26	Red-fronted tinkerbird
+CM026792.1	25338303	micro	34	PogPus	c17	Red-fronted tinkerbird
+CM026795.1	23640322	micro	35	PogPus	c20	Red-fronted tinkerbird
+CM026791.1	26323978	micro	36	PogPus	c16	Red-fronted tinkerbird
+CM026797.1	23066567	micro	37	PogPus	c22	Red-fronted tinkerbird
+CM026788.1	32556731	micro	38	PogPus	c13	Red-fronted tinkerbird
+CM026805.1	18322766	micro	39	PogPus	c30	Red-fronted tinkerbird
+CM026819.1	1561713	micro	40	PogPus	c44	Red-fronted tinkerbird
+CM026810.1	14595720	micro	41	PogPus	c35	Red-fronted tinkerbird
+CM026802.1	19906323	micro	42	PogPus	c27	Red-fronted tinkerbird
+CM026804.1	19022098	micro	43	PogPus	c29	Red-fronted tinkerbird
+CM026811.1	11026815	micro	44	PogPus	c36	Red-fronted tinkerbird
+CM026816.1	7385623	micro	45	PogPus	c41	Red-fronted tinkerbird
+CM026817.1	6275331	micro	46	PogPus	c42	Red-fronted tinkerbird
+CM026813.1	9638246	micro	47	PogPus	c38	Red-fronted tinkerbird
+CM026814.1	9171150	micro	48	PogPus	c39	Red-fronted tinkerbird
+CM026812.1	10066423	micro	49	PogPus	c37	Red-fronted tinkerbird
+CM026815.1	8734467	micro	50	PogPus	c40	Red-fronted tinkerbird
+JADCQK010000001.1	160068	micro	51	PogPus	s100	Red-fronted tinkerbird
+JADCQK010000002.1	152361	micro	52	PogPus	s101	Red-fronted tinkerbird
+JADCQK010000003.1	152216	micro	53	PogPus	s102	Red-fronted tinkerbird
+JADCQK010000004.1	149076	micro	54	PogPus	s103	Red-fronted tinkerbird
+JADCQK010000005.1	148728	micro	55	PogPus	s104	Red-fronted tinkerbird
+JADCQK010000006.1	144878	micro	56	PogPus	s105	Red-fronted tinkerbird
+JADCQK010000007.1	143850	micro	57	PogPus	s106	Red-fronted tinkerbird
+JADCQK010000008.1	139936	micro	58	PogPus	s107	Red-fronted tinkerbird
+JADCQK010000009.1	140174	micro	59	PogPus	s108	Red-fronted tinkerbird
+JADCQK010000010.1	140093	micro	60	PogPus	s109	Red-fronted tinkerbird
+JADCQK010000012.1	137901	micro	61	PogPus	s110	Red-fronted tinkerbird
+JADCQK010000013.1	137508	micro	62	PogPus	s111	Red-fronted tinkerbird
+JADCQK010000014.1	136446	micro	63	PogPus	s112	Red-fronted tinkerbird
+JADCQK010000015.1	131448	micro	64	PogPus	s113	Red-fronted tinkerbird
+JADCQK010000016.1	129327	micro	65	PogPus	s114	Red-fronted tinkerbird
+JADCQK010000017.1	121258	micro	66	PogPus	s116	Red-fronted tinkerbird
+JADCQK010000018.1	117416	micro	67	PogPus	s117	Red-fronted tinkerbird
+JADCQK010000019.1	112686	micro	68	PogPus	s118	Red-fronted tinkerbird
+JADCQK010000020.1	112770	micro	69	PogPus	s119	Red-fronted tinkerbird
+JADCQK010000022.1	111430	micro	70	PogPus	s120	Red-fronted tinkerbird
+JADCQK010000023.1	110939	micro	71	PogPus	s121	Red-fronted tinkerbird
+JADCQK010000024.1	108748	micro	72	PogPus	s123	Red-fronted tinkerbird
+JADCQK010000025.1	104231	micro	73	PogPus	s124	Red-fronted tinkerbird
+JADCQK010000026.1	103067	micro	74	PogPus	s125	Red-fronted tinkerbird
+JADCQK010000027.1	102608	micro	75	PogPus	s126	Red-fronted tinkerbird
+JADCQK010000028.1	100721	micro	76	PogPus	s127	Red-fronted tinkerbird
+JADCQK010000029.1	99132	micro	77	PogPus	s128	Red-fronted tinkerbird
+JADCQK010000031.1	87747	micro	78	PogPus	s130	Red-fronted tinkerbird
+JADCQK010000032.1	87027	micro	79	PogPus	s131	Red-fronted tinkerbird
+JADCQK010000033.1	86733	micro	80	PogPus	s132	Red-fronted tinkerbird
+JADCQK010000034.1	85891	micro	81	PogPus	s133	Red-fronted tinkerbird
+JADCQK010000035.1	79929	micro	82	PogPus	s135	Red-fronted tinkerbird
+JADCQK010000036.1	79545	micro	83	PogPus	s136	Red-fronted tinkerbird
+JADCQK010000037.1	79723	micro	84	PogPus	s137	Red-fronted tinkerbird
+JADCQK010000038.1	77438	micro	85	PogPus	s138	Red-fronted tinkerbird
+JADCQK010000039.1	77188	micro	86	PogPus	s139	Red-fronted tinkerbird
+JADCQK010000041.1	76686	micro	87	PogPus	s140	Red-fronted tinkerbird
+JADCQK010000042.1	76423	micro	88	PogPus	s141	Red-fronted tinkerbird
+JADCQK010000043.1	75275	micro	89	PogPus	s142	Red-fronted tinkerbird
+JADCQK010000044.1	74943	micro	90	PogPus	s143	Red-fronted tinkerbird
+JADCQK010000045.1	74301	micro	91	PogPus	s144	Red-fronted tinkerbird
+JADCQK010000046.1	73539	micro	92	PogPus	s145	Red-fronted tinkerbird
+JADCQK010000047.1	69304	micro	93	PogPus	s148	Red-fronted tinkerbird
+JADCQK010000048.1	69253	micro	94	PogPus	s149	Red-fronted tinkerbird
+JADCQK010000050.1	68230	micro	95	PogPus	s150	Red-fronted tinkerbird
+JADCQK010000051.1	67101	micro	96	PogPus	s151	Red-fronted tinkerbird
+JADCQK010000052.1	67096	micro	97	PogPus	s152	Red-fronted tinkerbird
+JADCQK010000053.1	65701	micro	98	PogPus	s153	Red-fronted tinkerbird
+JADCQK010000054.1	65274	micro	99	PogPus	s154	Red-fronted tinkerbird
+JADCQK010000055.1	65037	micro	100	PogPus	s155	Red-fronted tinkerbird
+JADCQK010000056.1	64126	micro	101	PogPus	s156	Red-fronted tinkerbird
+JADCQK010000057.1	63758	micro	102	PogPus	s157	Red-fronted tinkerbird
+JADCQK010000058.1	63223	micro	103	PogPus	s158	Red-fronted tinkerbird
+JADCQK010000059.1	62603	micro	104	PogPus	s159	Red-fronted tinkerbird
+JADCQK010000061.1	60127	micro	105	PogPus	s160	Red-fronted tinkerbird
+JADCQK010000062.1	60287	micro	106	PogPus	s161	Red-fronted tinkerbird
+JADCQK010000063.1	59660	micro	107	PogPus	s162	Red-fronted tinkerbird
+JADCQK010000064.1	59125	micro	108	PogPus	s164	Red-fronted tinkerbird
+JADCQK010000065.1	58983	micro	109	PogPus	s165	Red-fronted tinkerbird
+JADCQK010000066.1	57434	micro	110	PogPus	s166	Red-fronted tinkerbird
+JADCQK010000067.1	56921	micro	111	PogPus	s167	Red-fronted tinkerbird
+JADCQK010000068.1	56552	micro	112	PogPus	s168	Red-fronted tinkerbird
+JADCQK010000069.1	55243	micro	113	PogPus	s169	Red-fronted tinkerbird
+JADCQK010000071.1	54035	micro	114	PogPus	s170	Red-fronted tinkerbird
+JADCQK010000072.1	53799	micro	115	PogPus	s171	Red-fronted tinkerbird
+JADCQK010000073.1	53279	micro	116	PogPus	s172	Red-fronted tinkerbird
+JADCQK010000074.1	52661	micro	117	PogPus	s173	Red-fronted tinkerbird
+JADCQK010000075.1	51856	micro	118	PogPus	s174	Red-fronted tinkerbird
+JADCQK010000076.1	51694	micro	119	PogPus	s175	Red-fronted tinkerbird
+JADCQK010000077.1	51156	micro	120	PogPus	s176	Red-fronted tinkerbird
+JADCQK010000078.1	51027	micro	121	PogPus	s177	Red-fronted tinkerbird
+JADCQK010000079.1	50521	micro	122	PogPus	s178	Red-fronted tinkerbird
+JADCQK010000080.1	50258	micro	123	PogPus	s179	Red-fronted tinkerbird
+JADCQK010000082.1	50053	micro	124	PogPus	s180	Red-fronted tinkerbird
+JADCQK010000083.1	49644	micro	125	PogPus	s181	Red-fronted tinkerbird
+JADCQK010000084.1	49505	micro	126	PogPus	s183	Red-fronted tinkerbird
+JADCQK010000085.1	49319	micro	127	PogPus	s184	Red-fronted tinkerbird
+JADCQK010000086.1	48873	micro	128	PogPus	s185	Red-fronted tinkerbird
+JADCQK010000087.1	49531	micro	129	PogPus	s186	Red-fronted tinkerbird
+JADCQK010000088.1	48039	micro	130	PogPus	s188	Red-fronted tinkerbird
+JADCQK010000090.1	47770	micro	131	PogPus	s190	Red-fronted tinkerbird
+JADCQK010000091.1	46617	micro	132	PogPus	s191	Red-fronted tinkerbird
+JADCQK010000092.1	46586	micro	133	PogPus	s192	Red-fronted tinkerbird
+JADCQK010000093.1	46358	micro	134	PogPus	s193	Red-fronted tinkerbird
+JADCQK010000094.1	46388	micro	135	PogPus	s194	Red-fronted tinkerbird
+JADCQK010000095.1	45988	micro	136	PogPus	s195	Red-fronted tinkerbird
+JADCQK010000096.1	45964	micro	137	PogPus	s196	Red-fronted tinkerbird
+JADCQK010000097.1	45625	micro	138	PogPus	s198	Red-fronted tinkerbird
+JADCQK010000098.1	45701	micro	139	PogPus	s199	Red-fronted tinkerbird
+JADCQK010000101.1	45360	micro	140	PogPus	s200	Red-fronted tinkerbird
+JADCQK010000102.1	45076	micro	141	PogPus	s202	Red-fronted tinkerbird
+JADCQK010000103.1	44888	micro	142	PogPus	s203	Red-fronted tinkerbird
+JADCQK010000104.1	44602	micro	143	PogPus	s204	Red-fronted tinkerbird
+JADCQK010000105.1	44179	micro	144	PogPus	s205	Red-fronted tinkerbird
+JADCQK010000106.1	43679	micro	145	PogPus	s206	Red-fronted tinkerbird
+JADCQK010000107.1	43495	micro	146	PogPus	s207	Red-fronted tinkerbird
+JADCQK010000108.1	43357	micro	147	PogPus	s208	Red-fronted tinkerbird
+JADCQK010000109.1	43066	micro	148	PogPus	s209	Red-fronted tinkerbird
+JADCQK010000111.1	42748	micro	149	PogPus	s210	Red-fronted tinkerbird
+JADCQK010000112.1	42459	micro	150	PogPus	s211	Red-fronted tinkerbird
+JADCQK010000113.1	42059	micro	151	PogPus	s212	Red-fronted tinkerbird
+JADCQK010000114.1	42004	micro	152	PogPus	s213	Red-fronted tinkerbird
+JADCQK010000115.1	41876	micro	153	PogPus	s214	Red-fronted tinkerbird
+JADCQK010000116.1	41753	micro	154	PogPus	s215	Red-fronted tinkerbird
+JADCQK010000117.1	41419	micro	155	PogPus	s216	Red-fronted tinkerbird
+JADCQK010000118.1	40689	micro	156	PogPus	s218	Red-fronted tinkerbird
+JADCQK010000119.1	40029	micro	157	PogPus	s219	Red-fronted tinkerbird
+JADCQK010000121.1	39230	micro	158	PogPus	s220	Red-fronted tinkerbird
+JADCQK010000122.1	39384	micro	159	PogPus	s221	Red-fronted tinkerbird
+JADCQK010000123.1	39062	micro	160	PogPus	s222	Red-fronted tinkerbird
+JADCQK010000124.1	38658	micro	161	PogPus	s223	Red-fronted tinkerbird
+JADCQK010000125.1	38593	micro	162	PogPus	s224	Red-fronted tinkerbird
+JADCQK010000126.1	38081	micro	163	PogPus	s225	Red-fronted tinkerbird
+JADCQK010000127.1	37678	micro	164	PogPus	s226	Red-fronted tinkerbird
+JADCQK010000128.1	36372	micro	165	PogPus	s227	Red-fronted tinkerbird
+JADCQK010000129.1	36308	micro	166	PogPus	s228	Red-fronted tinkerbird
+JADCQK010000130.1	36152	micro	167	PogPus	s229	Red-fronted tinkerbird
+JADCQK010000132.1	35675	micro	168	PogPus	s230	Red-fronted tinkerbird
+JADCQK010000133.1	34977	micro	169	PogPus	s231	Red-fronted tinkerbird
+JADCQK010000134.1	33910	micro	170	PogPus	s233	Red-fronted tinkerbird
+JADCQK010000135.1	34058	micro	171	PogPus	s234	Red-fronted tinkerbird
+JADCQK010000136.1	32546	micro	172	PogPus	s235	Red-fronted tinkerbird
+JADCQK010000137.1	32425	micro	173	PogPus	s236	Red-fronted tinkerbird
+JADCQK010000138.1	31952	micro	174	PogPus	s237	Red-fronted tinkerbird
+JADCQK010000139.1	31700	micro	175	PogPus	s238	Red-fronted tinkerbird
+JADCQK010000140.1	30919	micro	176	PogPus	s239	Red-fronted tinkerbird
+JADCQK010000142.1	30873	micro	177	PogPus	s240	Red-fronted tinkerbird
+JADCQK010000143.1	30392	micro	178	PogPus	s241	Red-fronted tinkerbird
+JADCQK010000144.1	29749	micro	179	PogPus	s243	Red-fronted tinkerbird
+JADCQK010000145.1	29284	micro	180	PogPus	s244	Red-fronted tinkerbird
+JADCQK010000146.1	29096	micro	181	PogPus	s245	Red-fronted tinkerbird
+JADCQK010000147.1	28093	micro	182	PogPus	s246	Red-fronted tinkerbird
+JADCQK010000148.1	27714	micro	183	PogPus	s247	Red-fronted tinkerbird
+JADCQK010000149.1	27412	micro	184	PogPus	s248	Red-fronted tinkerbird
+JADCQK010000150.1	27231	micro	185	PogPus	s249	Red-fronted tinkerbird
+JADCQK010000152.1	26992	micro	186	PogPus	s250	Red-fronted tinkerbird
+JADCQK010000153.1	26943	micro	187	PogPus	s251	Red-fronted tinkerbird
+JADCQK010000154.1	26138	micro	188	PogPus	s252	Red-fronted tinkerbird
+JADCQK010000155.1	25780	micro	189	PogPus	s253	Red-fronted tinkerbird
+JADCQK010000156.1	25275	micro	190	PogPus	s254	Red-fronted tinkerbird
+JADCQK010000157.1	25275	micro	191	PogPus	s255	Red-fronted tinkerbird
+JADCQK010000158.1	24077	micro	192	PogPus	s256	Red-fronted tinkerbird
+JADCQK010000159.1	23677	micro	193	PogPus	s257	Red-fronted tinkerbird
+JADCQK010000160.1	23474	micro	194	PogPus	s258	Red-fronted tinkerbird
+JADCQK010000161.1	23320	micro	195	PogPus	s259	Red-fronted tinkerbird
+JADCQK010000163.1	23258	micro	196	PogPus	s260	Red-fronted tinkerbird
+JADCQK010000164.1	22853	micro	197	PogPus	s261	Red-fronted tinkerbird
+JADCQK010000165.1	22759	micro	198	PogPus	s262	Red-fronted tinkerbird
+JADCQK010000166.1	22755	micro	199	PogPus	s263	Red-fronted tinkerbird
+JADCQK010000167.1	22204	micro	200	PogPus	s264	Red-fronted tinkerbird
+JADCQK010000168.1	22120	micro	201	PogPus	s265	Red-fronted tinkerbird
+JADCQK010000169.1	21591	micro	202	PogPus	s266	Red-fronted tinkerbird
+JADCQK010000170.1	21295	micro	203	PogPus	s267	Red-fronted tinkerbird
+JADCQK010000171.1	21102	micro	204	PogPus	s268	Red-fronted tinkerbird
+JADCQK010000172.1	20908	micro	205	PogPus	s269	Red-fronted tinkerbird
+JADCQK010000174.1	20769	micro	206	PogPus	s270	Red-fronted tinkerbird
+JADCQK010000175.1	20613	micro	207	PogPus	s271	Red-fronted tinkerbird
+JADCQK010000176.1	20566	micro	208	PogPus	s272	Red-fronted tinkerbird
+JADCQK010000177.1	20556	micro	209	PogPus	s273	Red-fronted tinkerbird
+JADCQK010000178.1	20383	micro	210	PogPus	s274	Red-fronted tinkerbird
+JADCQK010000179.1	20184	micro	211	PogPus	s275	Red-fronted tinkerbird
+JADCQK010000180.1	17836	micro	212	PogPus	s277	Red-fronted tinkerbird
+JADCQK010000181.1	14316	micro	213	PogPus	s278	Red-fronted tinkerbird
+JADCQK010000182.1	11451	micro	214	PogPus	s279	Red-fronted tinkerbird
+JADCQK010000184.1	107679	micro	215	PogPus	s27	Red-fronted tinkerbird
+JADCQK010000185.1	9826	micro	216	PogPus	s280	Red-fronted tinkerbird
+JADCQK010000186.1	8631	micro	217	PogPus	s281	Red-fronted tinkerbird
+JADCQK010000187.1	5358	micro	218	PogPus	s282	Red-fronted tinkerbird
+JADCQK010000208.1	3528858	micro	219	PogPus	s47	Red-fronted tinkerbird
+JADCQK010000211.1	1352431	micro	220	PogPus	s50	Red-fronted tinkerbird
+JADCQK010000210.1	824723	micro	221	PogPus	s50A	Red-fronted tinkerbird
+JADCQK010000212.1	646635	micro	222	PogPus	s51	Red-fronted tinkerbird
+JADCQK010000215.1	1158222	micro	223	PogPus	s58	Red-fronted tinkerbird
+JADCQK010000218.1	905876	micro	224	PogPus	s62	Red-fronted tinkerbird
+JADCQK010000219.1	884922	micro	225	PogPus	s63	Red-fronted tinkerbird
+JADCQK010000220.1	883898	micro	226	PogPus	s64	Red-fronted tinkerbird
+JADCQK010000221.1	755996	micro	227	PogPus	s66	Red-fronted tinkerbird
+JADCQK010000223.1	515582	micro	228	PogPus	s69	Red-fronted tinkerbird
+JADCQK010000225.1	496450	micro	229	PogPus	s70	Red-fronted tinkerbird
+JADCQK010000226.1	466225	micro	230	PogPus	s71	Red-fronted tinkerbird
+JADCQK010000227.1	422730	micro	231	PogPus	s72	Red-fronted tinkerbird
+JADCQK010000228.1	395672	micro	232	PogPus	s73	Red-fronted tinkerbird
+JADCQK010000229.1	376070	micro	233	PogPus	s74	Red-fronted tinkerbird
+JADCQK010000231.1	326834	micro	234	PogPus	s77	Red-fronted tinkerbird
+JADCQK010000232.1	325765	micro	235	PogPus	s78	Red-fronted tinkerbird
+JADCQK010000234.1	304843	micro	236	PogPus	s80	Red-fronted tinkerbird
+JADCQK010000235.1	284022	micro	237	PogPus	s81	Red-fronted tinkerbird
+JADCQK010000236.1	254776	micro	238	PogPus	s83	Red-fronted tinkerbird
+JADCQK010000237.1	248262	micro	239	PogPus	s84	Red-fronted tinkerbird
+JADCQK010000238.1	237660	micro	240	PogPus	s85	Red-fronted tinkerbird
+JADCQK010000239.1	214504	micro	241	PogPus	s88	Red-fronted tinkerbird
+JADCQK010000240.1	199028	micro	242	PogPus	s89	Red-fronted tinkerbird
+JADCQK010000242.1	197575	micro	243	PogPus	s90	Red-fronted tinkerbird
+JADCQK010000243.1	194447	micro	244	PogPus	s91	Red-fronted tinkerbird
+JADCQK010000244.1	194525	micro	245	PogPus	s92	Red-fronted tinkerbird
+JADCQK010000245.1	183778	micro	246	PogPus	s93	Red-fronted tinkerbird
+JADCQK010000246.1	181793	micro	247	PogPus	s94	Red-fronted tinkerbird
+JADCQK010000247.1	180503	micro	248	PogPus	s95	Red-fronted tinkerbird
+JADCQK010000248.1	176263	micro	249	PogPus	s96	Red-fronted tinkerbird
+JADCQK010000249.1	169633	micro	250	PogPus	s97	Red-fronted tinkerbird
+JADCQK010000250.1	166639	micro	251	PogPus	s98	Red-fronted tinkerbird
+JADCQK010000251.1	163228	micro	252	PogPus	s99	Red-fronted tinkerbird
+CM026823.1	19935	micro	253	PogPus	mt	Red-fronted tinkerbird
+NC_044022.1	27976474	macro	1	AquChr	c19	European golden eagle
+NC_044029.1	17717355	macro	2	AquChr	c26	European golden eagle
+NC_044008.1	76621501	macro	3	AquChr	c5	European golden eagle
+NC_044020.1	29699254	macro	4	AquChr	c17	European golden eagle
+NC_044026.1	21012167	macro	5	AquChr	c23	European golden eagle
+NC_044010.1	47779391	macro	6	AquChr	c7	European golden eagle
+NC_044017.1	34337559	macro	7	AquChr	c14	European golden eagle
+NC_044006.1	79382107	macro	8	AquChr	c3	European golden eagle
+NC_044021.1	28555659	macro	9	AquChr	c18	European golden eagle
+NC_044007.1	77266225	macro	10	AquChr	c4	European golden eagle
+NC_044016.1	41790845	macro	11	AquChr	c13	European golden eagle
+NC_044011.1	46934974	macro	12	AquChr	c8	European golden eagle
+NC_044018.1	30976502	macro	13	AquChr	c15	European golden eagle
+NC_044024.1	24756580	macro	14	AquChr	c21	European golden eagle
+NC_044004.1	85456622	macro	15	AquChr	c1	European golden eagle
+NC_044019.1	30610376	macro	16	AquChr	c16	European golden eagle
+NC_044005.1	83001952	macro	17	AquChr	c2	European golden eagle
+NC_044014.1	43755789	macro	18	AquChr	c11	European golden eagle
+NC_044009.1	54402963	macro	19	AquChr	c6	European golden eagle
+NC_044015.1	43481500	macro	20	AquChr	c12	European golden eagle
+NC_054457.1	11729522	macro	21	AquChr	cW	European golden eagle
+NW_024470321.1	6364479	macro	22	AquChr	cW.1	European golden eagle
+NW_024470322.1	5935341	macro	23	AquChr	cW.2	European golden eagle
+NW_024470323.1	4230054	macro	24	AquChr	cW.3	European golden eagle
+NW_024470324.1	1990763	macro	25	AquChr	cW.4	European golden eagle
+NW_024470325.1	1231163	macro	26	AquChr	cW.5	European golden eagle
+NW_024470326.1	894992	macro	27	AquChr	cW.6	European golden eagle
+NW_024470327.1	494854	macro	28	AquChr	cW.7	European golden eagle
+NW_024470328.1	345514	macro	29	AquChr	cW.8	European golden eagle
+NW_024470329.1	257684	macro	30	AquChr	cW.9	European golden eagle
+NC_044030.1	88216475	macro	31	AquChr	cZ	European golden eagle
+NC_044013.1	43949808	micro	32	AquChr	c10	European golden eagle
+NC_044012.1	45241448	micro	33	AquChr	c9	European golden eagle
+NC_044023.1	25309643	micro	34	AquChr	c20	European golden eagle
+NC_044025.1	22514005	micro	35	AquChr	c22	European golden eagle
+NC_044028.1	19844373	micro	36	AquChr	c25	European golden eagle
+NC_044027.1	20993271	micro	37	AquChr	c24	European golden eagle
+NW_024470330.1	31655	micro	38	AquChr	s330	European golden eagle
+NW_024470331.1	31324	micro	39	AquChr	s331	European golden eagle
+NW_024470332.1	30885	micro	40	AquChr	s332	European golden eagle
+NW_024470333.1	30397	micro	41	AquChr	s333	European golden eagle
+NW_024470334.1	28447	micro	42	AquChr	s334	European golden eagle
+NW_024470335.1	27694	micro	43	AquChr	s335	European golden eagle
+NW_024470336.1	27470	micro	44	AquChr	s336	European golden eagle
+NW_024470337.1	27199	micro	45	AquChr	s337	European golden eagle
+NW_024470338.1	26604	micro	46	AquChr	s338	European golden eagle
+NW_024470339.1	26023	micro	47	AquChr	s339	European golden eagle
+NW_024470340.1	25657	micro	48	AquChr	s340	European golden eagle
+NW_024470341.1	25587	micro	49	AquChr	s341	European golden eagle
+NW_024470342.1	25309	micro	50	AquChr	s342	European golden eagle
+NW_024470343.1	24476	micro	51	AquChr	s343	European golden eagle
+NW_024470344.1	24466	micro	52	AquChr	s344	European golden eagle
+NW_024470345.1	24207	micro	53	AquChr	s345	European golden eagle
+NW_024470346.1	24175	micro	54	AquChr	s346	European golden eagle
+NW_024470347.1	24026	micro	55	AquChr	s347	European golden eagle
+NW_024470348.1	23915	micro	56	AquChr	s348	European golden eagle
+NW_024470349.1	23847	micro	57	AquChr	s349	European golden eagle
+NW_024470350.1	23261	micro	58	AquChr	s350	European golden eagle
+NW_024470351.1	22873	micro	59	AquChr	s351	European golden eagle
+NW_024470352.1	20727	micro	60	AquChr	s352	European golden eagle
+NW_024470353.1	20727	micro	61	AquChr	s353	European golden eagle
+NW_024470354.1	20200	micro	62	AquChr	s354	European golden eagle
+NW_024470355.1	19528	micro	63	AquChr	s355	European golden eagle
+NW_024470356.1	19109	micro	64	AquChr	s356	European golden eagle
+NW_024470357.1	18287	micro	65	AquChr	s357	European golden eagle
+NW_024470358.1	17725	micro	66	AquChr	s358	European golden eagle
+NW_024470359.1	18107	micro	67	AquChr	s359	European golden eagle
+NW_024470360.1	17347	micro	68	AquChr	s360	European golden eagle
+NW_024470361.1	17025	micro	69	AquChr	s361	European golden eagle
+NW_024470362.1	16592	micro	70	AquChr	s362	European golden eagle
+NW_024470363.1	16576	micro	71	AquChr	s363	European golden eagle
+NW_024470364.1	15685	micro	72	AquChr	s364	European golden eagle
+NW_024470365.1	15603	micro	73	AquChr	s365	European golden eagle
+NW_024470366.1	14736	micro	74	AquChr	s366	European golden eagle
+NW_024470367.1	14543	micro	75	AquChr	s367	European golden eagle
+NW_024470368.1	14312	micro	76	AquChr	s368	European golden eagle
+NW_024470369.1	13980	micro	77	AquChr	s369	European golden eagle
+NW_024470370.1	13873	micro	78	AquChr	s370	European golden eagle
+NW_024470371.1	13653	micro	79	AquChr	s371	European golden eagle
+NW_024470372.1	13557	micro	80	AquChr	s372	European golden eagle
+NW_024470373.1	13279	micro	81	AquChr	s373	European golden eagle
+NW_024470374.1	12501	micro	82	AquChr	s374	European golden eagle
+NW_024470375.1	11975	micro	83	AquChr	s375	European golden eagle
+NW_024470376.1	8683	micro	84	AquChr	s376	European golden eagle
+NW_024470377.1	7019	micro	85	AquChr	s377	European golden eagle
+NW_024470378.1	4298	micro	86	AquChr	s378	European golden eagle
+NW_024470379.1	1203	micro	87	AquChr	s379	European golden eagle
+NW_024470380.1	83858	micro	88	AquChr	s380	European golden eagle
+NW_024470381.1	937100	micro	89	AquChr	s381	European golden eagle
+NW_024470382.1	812246	micro	90	AquChr	s382	European golden eagle
+NW_024470383.1	459769	micro	91	AquChr	s383	European golden eagle
+NW_024470384.1	367739	micro	92	AquChr	s384	European golden eagle
+NW_024470385.1	261802	micro	93	AquChr	s385	European golden eagle
+NW_024470386.1	253840	micro	94	AquChr	s386	European golden eagle
+NW_024470387.1	246161	micro	95	AquChr	s387	European golden eagle
+NW_024470388.1	228822	micro	96	AquChr	s388	European golden eagle
+NW_024470389.1	207482	micro	97	AquChr	s389	European golden eagle
+NW_024470390.1	191605	micro	98	AquChr	s390	European golden eagle
+NW_024470391.1	186009	micro	99	AquChr	s391	European golden eagle
+NW_024470392.1	181667	micro	100	AquChr	s392	European golden eagle
+NW_024470393.1	176708	micro	101	AquChr	s393	European golden eagle
+NW_024470394.1	167981	micro	102	AquChr	s394	European golden eagle
+NW_024470395.1	147833	micro	103	AquChr	s395	European golden eagle
+NW_024470396.1	145414	micro	104	AquChr	s396	European golden eagle
+NW_024470397.1	144070	micro	105	AquChr	s397	European golden eagle
+NW_024470398.1	132443	micro	106	AquChr	s398	European golden eagle
+NW_024470399.1	111885	micro	107	AquChr	s399	European golden eagle
+NW_024470400.1	109468	micro	108	AquChr	s400	European golden eagle
+NW_024470401.1	108955	micro	109	AquChr	s401	European golden eagle
+NW_024470402.1	98209	micro	110	AquChr	s402	European golden eagle
+NW_024470403.1	94598	micro	111	AquChr	s403	European golden eagle
+NW_024470404.1	83011	micro	112	AquChr	s404	European golden eagle
+NW_024470405.1	80853	micro	113	AquChr	s405	European golden eagle
+NW_024470406.1	79413	micro	114	AquChr	s406	European golden eagle
+NW_024470407.1	76660	micro	115	AquChr	s407	European golden eagle
+NW_024470408.1	75507	micro	116	AquChr	s408	European golden eagle
+NW_024470409.1	73854	micro	117	AquChr	s409	European golden eagle
+NW_024470410.1	67356	micro	118	AquChr	s410	European golden eagle
+NW_024470411.1	67337	micro	119	AquChr	s411	European golden eagle
+NW_024470412.1	67073	micro	120	AquChr	s412	European golden eagle
+NW_024470413.1	65656	micro	121	AquChr	s413	European golden eagle
+NW_024470414.1	62359	micro	122	AquChr	s414	European golden eagle
+NW_024470415.1	60640	micro	123	AquChr	s415	European golden eagle
+NW_024470416.1	59655	micro	124	AquChr	s416	European golden eagle
+NW_024470417.1	58328	micro	125	AquChr	s417	European golden eagle
+NW_024470418.1	56215	micro	126	AquChr	s418	European golden eagle
+NW_024470419.1	55537	micro	127	AquChr	s419	European golden eagle
+NW_024470420.1	54050	micro	128	AquChr	s420	European golden eagle
+NW_024470421.1	50172	micro	129	AquChr	s421	European golden eagle
+NW_024470422.1	44971	micro	130	AquChr	s422	European golden eagle
+NW_024470423.1	44761	micro	131	AquChr	s423	European golden eagle
+NW_024470424.1	43930	micro	132	AquChr	s424	European golden eagle
+NW_024470425.1	43551	micro	133	AquChr	s425	European golden eagle
+NW_024470426.1	42150	micro	134	AquChr	s426	European golden eagle
+NW_024470427.1	41196	micro	135	AquChr	s427	European golden eagle
+NW_024470428.1	41063	micro	136	AquChr	s428	European golden eagle
+NW_024470429.1	40949	micro	137	AquChr	s429	European golden eagle
+NW_024470430.1	41785	micro	138	AquChr	s430	European golden eagle
+NW_024470431.1	40068	micro	139	AquChr	s431	European golden eagle
+NW_024470432.1	39720	micro	140	AquChr	s432	European golden eagle
+NW_024470433.1	37854	micro	141	AquChr	s433	European golden eagle
+NW_024470434.1	36123	micro	142	AquChr	s434	European golden eagle
+NW_024470435.1	35040	micro	143	AquChr	s435	European golden eagle
+NW_024470436.1	32798	micro	144	AquChr	s436	European golden eagle
+OV839380.1	28745018	macro	1	AccGen	c19	northern goshawk
+OV839395.1	17587634	macro	2	AccGen	c34	northern goshawk
+OV839372.1	37569235	macro	3	AccGen	c11	northern goshawk
+OV839379.1	29659553	macro	4	AccGen	c18	northern goshawk
+OV839392.1	21271502	macro	5	AccGen	c31	northern goshawk
+OV839393.1	21169547	macro	6	AccGen	c32	northern goshawk
+OV839382.1	27960081	macro	7	AccGen	c21	northern goshawk
+OV839374.1	35025567	macro	8	AccGen	c13	northern goshawk
+OV839364.1	48363854	macro	9	AccGen	c4	northern goshawk
+OV839375.1	34431249	macro	10	AccGen	c14	northern goshawk
+OV839381.1	28026665	macro	11	AccGen	c20	northern goshawk
+OV839388.1	22464520	macro	12	AccGen	c27	northern goshawk
+OV839362.1	55413727	macro	13	AccGen	c2	northern goshawk
+OV839391.1	21432086	macro	14	AccGen	c30	northern goshawk
+OV839389.1	21930428	macro	15	AccGen	c28	northern goshawk
+OV839365.1	47463143	macro	16	AccGen	c5	northern goshawk
+OV839376.1	31970334	macro	17	AccGen	c15	northern goshawk
+OV839377.1	31417546	macro	18	AccGen	c16	northern goshawk
+OV839385.1	25380689	macro	19	AccGen	c24	northern goshawk
+OV839373.1	37312042	macro	20	AccGen	c12	northern goshawk
+OV839363.1	49239837	macro	21	AccGen	c3	northern goshawk
+OV839378.1	31036983	macro	22	AccGen	c17	northern goshawk
+OV839383.1	27196166	macro	23	AccGen	c22	northern goshawk
+OV839386.1	23930680	macro	24	AccGen	c25	northern goshawk
+OV839369.1	44706199	macro	25	AccGen	c9	northern goshawk
+OV839361.1	55805604	macro	26	AccGen	c1	northern goshawk
+OV839368.1	44730017	macro	27	AccGen	c8	northern goshawk
+OV839371.1	39876367	macro	28	AccGen	cW	northern goshawk
+OV839360.1	89764762	macro	29	AccGen	cZ	northern goshawk
+OV839366.1	45224516	micro	30	AccGen	c6	northern goshawk
+OV839370.1	41278614	micro	31	AccGen	c10	northern goshawk
+OV839367.1	44895232	micro	32	AccGen	c7	northern goshawk
+OV839384.1	25482632	micro	33	AccGen	c23	northern goshawk
+OV839387.1	23474178	micro	34	AccGen	c26	northern goshawk
+OV839394.1	21076603	micro	35	AccGen	c33	northern goshawk
+OV839390.1	21757624	micro	36	AccGen	c29	northern goshawk
+OV839396.1	10404007	micro	37	AccGen	c35	northern goshawk
+OV839397.1	2110544	micro	38	AccGen	c36	northern goshawk
+OV839398.1	653593	micro	39	AccGen	c37	northern goshawk
+OV839399.1	428882	micro	40	AccGen	c38	northern goshawk
+CAKNBG010000001.1	514000	micro	41	AccGen	s125	northern goshawk
+CAKNBG010000002.1	386000	micro	42	AccGen	s144	northern goshawk
+CAKNBG010000003.1	64071	micro	43	AccGen	s292	northern goshawk
+CAKNBG010000004.1	2612000	micro	44	AccGen	s54	northern goshawk
+CAKNBG010000005.1	4236000	micro	45	AccGen	s46	northern goshawk
+CAKNBG010000006.1	622000	micro	46	AccGen	s114	northern goshawk
+CAKNBG010000007.1	789000	micro	47	AccGen	s105	northern goshawk
+CAKNBG010000008.1	47434	micro	48	AccGen	s342	northern goshawk
+CAKNBG010000009.1	31765	micro	49	AccGen	s427	northern goshawk
+CAKNBG010000010.1	642273	micro	50	AccGen	s112	northern goshawk
+CAKNBG010000011.1	112000	micro	51	AccGen	s219	northern goshawk
+CAKNBG010000012.1	666000	micro	52	AccGen	s111	northern goshawk
+CAKNBG010000013.1	85352	micro	53	AccGen	s248	northern goshawk
+CAKNBG010000014.1	67000	micro	54	AccGen	s284	northern goshawk
+CAKNBG010000015.1	1068000	micro	55	AccGen	s84	northern goshawk
+CAKNBG010000016.1	291481	micro	56	AccGen	s163	northern goshawk
+CAKNBG010000017.1	22651	micro	57	AccGen	s488	northern goshawk
+CAKNBG010000018.1	28795	micro	58	AccGen	s452	northern goshawk
+CAKNBG010000019.1	92770	micro	59	AccGen	s238	northern goshawk
+CAKNBG010000020.1	287000	micro	60	AccGen	s165	northern goshawk
+CAKNBG010000021.1	89256	micro	61	AccGen	s243	northern goshawk
+CAKNBG010000022.1	83711	micro	62	AccGen	s254	northern goshawk
+CAKNBG010000023.1	1041124	micro	63	AccGen	s87	northern goshawk
+CAKNBG010000024.1	157292	micro	64	AccGen	s198	northern goshawk
+CAKNBG010000025.1	77000	micro	65	AccGen	s267	northern goshawk
+CAKNBG010000026.1	49532	micro	66	AccGen	s331	northern goshawk
+CAKNBG010000027.1	52734	micro	67	AccGen	s316	northern goshawk
+CAKNBG010000028.1	49457	micro	68	AccGen	s332	northern goshawk
+CAKNBG010000029.1	48366	micro	69	AccGen	s335	northern goshawk
+CAKNBG010000030.1	103347	micro	70	AccGen	s226	northern goshawk
+CAKNBG010000031.1	38670	micro	71	AccGen	s390	northern goshawk
+CAKNBG010000032.1	21498	micro	72	AccGen	s498	northern goshawk
+CAKNBG010000033.1	52500	micro	73	AccGen	s318	northern goshawk
+CAKNBG010000034.1	33430	micro	74	AccGen	s414	northern goshawk
+CAKNBG010000035.1	39133	micro	75	AccGen	s384	northern goshawk
+CAKNBG010000036.1	23176	micro	76	AccGen	s486	northern goshawk
+CAKNBG010000037.1	94818	micro	77	AccGen	s234	northern goshawk
+CAKNBG010000038.1	64874	micro	78	AccGen	s291	northern goshawk
+CAKNBG010000039.1	1013046	micro	79	AccGen	s90	northern goshawk
+CAKNBG010000040.1	14263	micro	80	AccGen	s531	northern goshawk
+CAKNBG010000041.1	45974	micro	81	AccGen	s352	northern goshawk
+CAKNBG010000042.1	95227	micro	82	AccGen	s232	northern goshawk
+CAKNBG010000043.1	465658	micro	83	AccGen	s130	northern goshawk
+CAKNBG010000044.1	10128	micro	84	AccGen	s541	northern goshawk
+CAKNBG010000045.1	28768	micro	85	AccGen	s454	northern goshawk
+CAKNBG010000046.1	1838000	micro	86	AccGen	s59	northern goshawk
+CAKNBG010000047.1	13807	micro	87	AccGen	s533	northern goshawk
+CAKNBG010000048.1	23128	micro	88	AccGen	s487	northern goshawk
+CAKNBG010000049.1	1987000	micro	89	AccGen	s56	northern goshawk
+CAKNBG010000050.1	2853227	micro	90	AccGen	s52	northern goshawk
+CAKNBG010000051.1	36968	micro	91	AccGen	s396	northern goshawk
+CAKNBG010000052.1	469109	micro	92	AccGen	s129	northern goshawk
+CAKNBG010000053.1	43658	micro	93	AccGen	s363	northern goshawk
+CAKNBG010000054.1	357000	micro	94	AccGen	s152	northern goshawk
+CAKNBG010000055.1	86000	micro	95	AccGen	s247	northern goshawk
+CAKNBG010000056.1	88414	micro	96	AccGen	s246	northern goshawk
+CAKNBG010000057.1	20548	micro	97	AccGen	s507	northern goshawk
+CAKNBG010000058.1	32279	micro	98	AccGen	s422	northern goshawk
+CAKNBG010000059.1	34086	micro	99	AccGen	s412	northern goshawk
+CAKNBG010000060.1	41297	micro	100	AccGen	s371	northern goshawk
+CAKNBG010000061.1	14944	micro	101	AccGen	s529	northern goshawk
+CAKNBG010000062.1	38993	micro	102	AccGen	s386	northern goshawk
+CAKNBG010000063.1	46000	micro	103	AccGen	s351	northern goshawk
+CAKNBG010000064.1	36284	micro	104	AccGen	s398	northern goshawk
+CAKNBG010000065.1	88420	micro	105	AccGen	s245	northern goshawk
+CAKNBG010000066.1	29000	micro	106	AccGen	s449	northern goshawk
+CAKNBG010000067.1	73268	micro	107	AccGen	s273	northern goshawk
+CAKNBG010000068.1	32864	micro	108	AccGen	s415	northern goshawk
+CAKNBG010000069.1	1000	micro	109	AccGen	s548	northern goshawk
+CAKNBG010000070.1	81774	micro	110	AccGen	s259	northern goshawk
+CAKNBG010000071.1	534209	micro	111	AccGen	s118	northern goshawk
+CAKNBG010000072.1	235665	micro	112	AccGen	s177	northern goshawk
+CAKNBG010000073.1	1394665	micro	113	AccGen	s70	northern goshawk
+CAKNBG010000074.1	53886	micro	114	AccGen	s314	northern goshawk
+CAKNBG010000075.1	25000	micro	115	AccGen	s476	northern goshawk
+CAKNBG010000076.1	45502	micro	116	AccGen	s354	northern goshawk
+CAKNBG010000077.1	167873	micro	117	AccGen	s194	northern goshawk
+CAKNBG010000078.1	121801	micro	118	AccGen	s214	northern goshawk
+CAKNBG010000079.1	27935	micro	119	AccGen	s458	northern goshawk
+CAKNBG010000080.1	22074	micro	120	AccGen	s491	northern goshawk
+CAKNBG010000081.1	243472	micro	121	AccGen	s174	northern goshawk
+CAKNBG010000082.1	67000	micro	122	AccGen	s283	northern goshawk
+CAKNBG010000083.1	823000	micro	123	AccGen	s103	northern goshawk
+CAKNBG010000084.1	4290000	micro	124	AccGen	s45	northern goshawk
+CAKNBG010000085.1	231000	micro	125	AccGen	s179	northern goshawk
+CAKNBG010000086.1	28894	micro	126	AccGen	s450	northern goshawk
+CAKNBG010000087.1	35520	micro	127	AccGen	s403	northern goshawk
+CAKNBG010000088.1	29058	micro	128	AccGen	s447	northern goshawk
+CAKNBG010000089.1	145000	micro	129	AccGen	s202	northern goshawk
+CAKNBG010000090.1	42018	micro	130	AccGen	s369	northern goshawk
+CAKNBG010000091.1	30844	micro	131	AccGen	s436	northern goshawk
+CAKNBG010000092.1	377000	micro	132	AccGen	s148	northern goshawk
+CAKNBG010000093.1	44529	micro	133	AccGen	s358	northern goshawk
+CAKNBG010000094.1	7272000	micro	134	AccGen	s42	northern goshawk
+CAKNBG010000095.1	51991	micro	135	AccGen	s326	northern goshawk
+CAKNBG010000096.1	75903	micro	136	AccGen	s269	northern goshawk
+CAKNBG010000097.1	31879	micro	137	AccGen	s425	northern goshawk
+CAKNBG010000098.1	291072	micro	138	AccGen	s164	northern goshawk
+CAKNBG010000099.1	28504	micro	139	AccGen	s455	northern goshawk
+CAKNBG010000100.1	34827	micro	140	AccGen	s407	northern goshawk
+CAKNBG010000101.1	27845	micro	141	AccGen	s459	northern goshawk
+CAKNBG010000102.1	116000	micro	142	AccGen	s216	northern goshawk
+CAKNBG010000103.1	1074000	micro	143	AccGen	s83	northern goshawk
+CAKNBG010000104.1	37406	micro	144	AccGen	s395	northern goshawk
+CAKNBG010000105.1	121086	micro	145	AccGen	s215	northern goshawk
+CAKNBG010000106.1	16695	micro	146	AccGen	s518	northern goshawk
+CAKNBG010000107.1	231000	micro	147	AccGen	s178	northern goshawk
+CAKNBG010000108.1	4000	micro	148	AccGen	s544	northern goshawk
+CAKNBG010000109.1	113000	micro	149	AccGen	s217	northern goshawk
+CAKNBG010000110.1	780000	micro	150	AccGen	s107	northern goshawk
+CAKNBG010000111.1	60030	micro	151	AccGen	s300	northern goshawk
+CAKNBG010000112.1	32619	micro	152	AccGen	s420	northern goshawk
+CAKNBG010000113.1	44046	micro	153	AccGen	s360	northern goshawk
+CAKNBG010000114.1	32569	micro	154	AccGen	s421	northern goshawk
+CAKNBG010000115.1	46938	micro	155	AccGen	s346	northern goshawk
+CAKNBG010000116.1	16413	micro	156	AccGen	s520	northern goshawk
+CAKNBG010000117.1	129000	micro	157	AccGen	s211	northern goshawk
+CAKNBG010000118.1	2423077	micro	158	AccGen	s55	northern goshawk
+CAKNBG010000119.1	55251	micro	159	AccGen	s310	northern goshawk
+CAKNBG010000120.1	2953620	micro	160	AccGen	s50	northern goshawk
+CAKNBG010000121.1	26883	micro	161	AccGen	s462	northern goshawk
+CAKNBG010000122.1	21874	micro	162	AccGen	s493	northern goshawk
+CAKNBG010000123.1	29723	micro	163	AccGen	s443	northern goshawk
+CAKNBG010000124.1	22636	micro	164	AccGen	s489	northern goshawk
+CAKNBG010000125.1	31565	micro	165	AccGen	s428	northern goshawk
+CAKNBG010000126.1	97002	micro	166	AccGen	s231	northern goshawk
+CAKNBG010000127.1	29645	micro	167	AccGen	s444	northern goshawk
+CAKNBG010000128.1	15313	micro	168	AccGen	s525	northern goshawk
+CAKNBG010000129.1	49092	micro	169	AccGen	s334	northern goshawk
+CAKNBG010000130.1	93963	micro	170	AccGen	s235	northern goshawk
+CAKNBG010000131.1	56046	micro	171	AccGen	s309	northern goshawk
+CAKNBG010000132.1	380000	micro	172	AccGen	s147	northern goshawk
+CAKNBG010000133.1	9941	micro	173	AccGen	s542	northern goshawk
+CAKNBG010000134.1	35994	micro	174	AccGen	s399	northern goshawk
+CAKNBG010000135.1	18593	micro	175	AccGen	s510	northern goshawk
+CAKNBG010000136.1	829537	micro	176	AccGen	s102	northern goshawk
+CAKNBG010000137.1	2635000	micro	177	AccGen	s53	northern goshawk
+CAKNBG010000138.1	105259	micro	178	AccGen	s225	northern goshawk
+CAKNBG010000139.1	399000	micro	179	AccGen	s142	northern goshawk
+CAKNBG010000140.1	282000	micro	180	AccGen	s166	northern goshawk
+CAKNBG010000141.1	423000	micro	181	AccGen	s136	northern goshawk
+CAKNBG010000142.1	13949	micro	182	AccGen	s532	northern goshawk
+CAKNBG010000143.1	227000	micro	183	AccGen	s180	northern goshawk
+CAKNBG010000144.1	2000	micro	184	AccGen	s546	northern goshawk
+CAKNBG010000145.1	529000	micro	185	AccGen	s121	northern goshawk
+CAKNBG010000146.1	28176	micro	186	AccGen	s456	northern goshawk
+CAKNBG010000147.1	67000	micro	187	AccGen	s285	northern goshawk
+CAKNBG010000148.1	21207	micro	188	AccGen	s500	northern goshawk
+CAKNBG010000149.1	528000	micro	189	AccGen	s122	northern goshawk
+CAKNBG010000150.1	31357	micro	190	AccGen	s431	northern goshawk
+CAKNBG010000151.1	52259	micro	191	AccGen	s322	northern goshawk
+CAKNBG010000152.1	106295	micro	192	AccGen	s224	northern goshawk
+CAKNBG010000153.1	79000	micro	193	AccGen	s264	northern goshawk
+CAKNBG010000154.1	26553	micro	194	AccGen	s465	northern goshawk
+CAKNBG010000155.1	83414	micro	195	AccGen	s255	northern goshawk
+CAKNBG010000156.1	221000	micro	196	AccGen	s181	northern goshawk
+CAKNBG010000157.1	904145	micro	197	AccGen	s98	northern goshawk
+CAKNBG010000158.1	14988	micro	198	AccGen	s528	northern goshawk
+CAKNBG010000159.1	57616	micro	199	AccGen	s307	northern goshawk
+CAKNBG010000160.1	34601	micro	200	AccGen	s408	northern goshawk
+CAKNBG010000161.1	32726	micro	201	AccGen	s416	northern goshawk
+CAKNBG010000162.1	1191919	micro	202	AccGen	s75	northern goshawk
+CAKNBG010000163.1	15183	micro	203	AccGen	s526	northern goshawk
+CAKNBG010000164.1	70187	micro	204	AccGen	s277	northern goshawk
+CAKNBG010000165.1	20745	micro	205	AccGen	s505	northern goshawk
+CAKNBG010000166.1	32237	micro	206	AccGen	s423	northern goshawk
+CAKNBG010000167.1	83826	micro	207	AccGen	s253	northern goshawk
+CAKNBG010000168.1	41848	micro	208	AccGen	s370	northern goshawk
+CAKNBG010000169.1	77560	micro	209	AccGen	s265	northern goshawk
+CAKNBG010000170.1	31041	micro	210	AccGen	s435	northern goshawk
+CAKNBG010000171.1	48150	micro	211	AccGen	s337	northern goshawk
+CAKNBG010000172.1	51460	micro	212	AccGen	s327	northern goshawk
+CAKNBG010000173.1	193000	micro	213	AccGen	s185	northern goshawk
+CAKNBG010000174.1	39885	micro	214	AccGen	s377	northern goshawk
+CAKNBG010000175.1	42479	micro	215	AccGen	s366	northern goshawk
+CAKNBG010000176.1	788000	micro	216	AccGen	s106	northern goshawk
+CAKNBG010000177.1	52342	micro	217	AccGen	s320	northern goshawk
+CAKNBG010000178.1	1970000	micro	218	AccGen	s57	northern goshawk
+CAKNBG010000179.1	178347	micro	219	AccGen	s189	northern goshawk
+CAKNBG010000180.1	48188	micro	220	AccGen	s336	northern goshawk
+CAKNBG010000181.1	46510	micro	221	AccGen	s348	northern goshawk
+CAKNBG010000182.1	1575066	micro	222	AccGen	s65	northern goshawk
+CAKNBG010000183.1	29401	micro	223	AccGen	s446	northern goshawk
+CAKNBG010000184.1	3048000	micro	224	AccGen	s49	northern goshawk
+CAKNBG010000185.1	41000	micro	225	AccGen	s374	northern goshawk
+CAKNBG010000186.1	11961	micro	226	AccGen	s539	northern goshawk
+CAKNBG010000187.1	14688	micro	227	AccGen	s530	northern goshawk
+CAKNBG010000188.1	3000	micro	228	AccGen	s545	northern goshawk
+CAKNBG010000189.1	62177	micro	229	AccGen	s296	northern goshawk
+CAKNBG010000190.1	185789	micro	230	AccGen	s187	northern goshawk
+CAKNBG010000191.1	41171	micro	231	AccGen	s373	northern goshawk
+CAKNBG010000192.1	22000	micro	232	AccGen	s492	northern goshawk
+CAKNBG010000193.1	26245	micro	233	AccGen	s467	northern goshawk
+CAKNBG010000194.1	975000	micro	234	AccGen	s92	northern goshawk
+CAKNBG010000195.1	15000	micro	235	AccGen	s527	northern goshawk
+CAKNBG010000196.1	494000	micro	236	AccGen	s126	northern goshawk
+CAKNBG010000197.1	40692	micro	237	AccGen	s375	northern goshawk
+CAKNBG010000198.1	15699	micro	238	AccGen	s523	northern goshawk
+CAKNBG010000199.1	47270	micro	239	AccGen	s343	northern goshawk
+CAKNBG010000200.1	111000	micro	240	AccGen	s220	northern goshawk
+CAKNBG010000201.1	1021000	micro	241	AccGen	s89	northern goshawk
+CAKNBG010000202.1	47873	micro	242	AccGen	s340	northern goshawk
+CAKNBG010000203.1	142000	micro	243	AccGen	s204	northern goshawk
+CAKNBG010000204.1	20932	micro	244	AccGen	s502	northern goshawk
+CAKNBG010000205.1	18000	micro	245	AccGen	s516	northern goshawk
+CAKNBG010000206.1	38622	micro	246	AccGen	s391	northern goshawk
+CAKNBG010000207.1	248731	micro	247	AccGen	s173	northern goshawk
+CAKNBG010000208.1	947000	micro	248	AccGen	s96	northern goshawk
+CAKNBG010000209.1	25808	micro	249	AccGen	s471	northern goshawk
+CAKNBG010000210.1	82000	micro	250	AccGen	s258	northern goshawk
+CAKNBG010000211.1	39402	micro	251	AccGen	s379	northern goshawk
+CAKNBG010000212.1	82007	micro	252	AccGen	s257	northern goshawk
+CAKNBG010000213.1	25175	micro	253	AccGen	s473	northern goshawk
+CAKNBG010000214.1	2000	micro	254	AccGen	s547	northern goshawk
+CAKNBG010000215.1	320000	micro	255	AccGen	s156	northern goshawk
+CAKNBG010000216.1	305000	micro	256	AccGen	s158	northern goshawk
+CAKNBG010000217.1	43816	micro	257	AccGen	s362	northern goshawk
+CAKNBG010000218.1	89000	micro	258	AccGen	s244	northern goshawk
+CAKNBG010000219.1	29000	micro	259	AccGen	s448	northern goshawk
+CAKNBG010000220.1	21604	micro	260	AccGen	s497	northern goshawk
+CAKNBG010000221.1	65586	micro	261	AccGen	s288	northern goshawk
+CAKNBG010000222.1	24917	micro	262	AccGen	s477	northern goshawk
+CAKNBG010000223.1	43974	micro	263	AccGen	s361	northern goshawk
+CAKNBG010000224.1	38294	micro	264	AccGen	s392	northern goshawk
+CAKNBG010000225.1	19615	micro	265	AccGen	s509	northern goshawk
+CAKNBG010000226.1	21004	micro	266	AccGen	s501	northern goshawk
+CAKNBG010000227.1	5090	micro	267	AccGen	s543	northern goshawk
+CAKNBG010000228.1	35368	micro	268	AccGen	s404	northern goshawk
+CAKNBG010000229.1	61931	micro	269	AccGen	s297	northern goshawk
+CAKNBG010000230.1	60000	micro	270	AccGen	s301	northern goshawk
+CAKNBG010000231.1	29830	micro	271	AccGen	s441	northern goshawk
+CAKNBG010000232.1	386997	micro	272	AccGen	s143	northern goshawk
+CAKNBG010000233.1	409000	micro	273	AccGen	s139	northern goshawk
+CAKNBG010000234.1	4336000	micro	274	AccGen	s44	northern goshawk
+CAKNBG010000235.1	13800	micro	275	AccGen	s534	northern goshawk
+CAKNBG010000236.1	27000	micro	276	AccGen	s461	northern goshawk
+CAKNBG010000237.1	854709	micro	277	AccGen	s100	northern goshawk
+CAKNBG010000238.1	85000	micro	278	AccGen	s250	northern goshawk
+CAKNBG010000239.1	639000	micro	279	AccGen	s113	northern goshawk
+CAKNBG010000240.1	22341	micro	280	AccGen	s490	northern goshawk
+CAKNBG010000241.1	52000	micro	281	AccGen	s323	northern goshawk
+CAKNBG010000242.1	31470	micro	282	AccGen	s429	northern goshawk
+CAKNBG010000243.1	15776	micro	283	AccGen	s522	northern goshawk
+CAKNBG010000244.1	771000	micro	284	AccGen	s109	northern goshawk
+CAKNBG010000245.1	144000	micro	285	AccGen	s203	northern goshawk
+CAKNBG010000246.1	192210	micro	286	AccGen	s186	northern goshawk
+CAKNBG010000247.1	45233	micro	287	AccGen	s357	northern goshawk
+CAKNBG010000248.1	175328	micro	288	AccGen	s190	northern goshawk
+CAKNBG010000249.1	18016	micro	289	AccGen	s515	northern goshawk
+CAKNBG010000250.1	95122	micro	290	AccGen	s233	northern goshawk
+CAKNBG010000251.1	262821	micro	291	AccGen	s171	northern goshawk
+CAKNBG010000252.1	1055000	micro	292	AccGen	s85	northern goshawk
+CAKNBG010000253.1	42034	micro	293	AccGen	s368	northern goshawk
+CAKNBG010000254.1	385082	micro	294	AccGen	s146	northern goshawk
+CAKNBG010000255.1	21626	micro	295	AccGen	s496	northern goshawk
+CAKNBG010000256.1	52345	micro	296	AccGen	s319	northern goshawk
+CAKNBG010000257.1	414816	micro	297	AccGen	s138	northern goshawk
+CAKNBG010000258.1	241666	micro	298	AccGen	s175	northern goshawk
+CAKNBG010000259.1	299748	micro	299	AccGen	s160	northern goshawk
+CAKNBG010000260.1	53000	micro	300	AccGen	s315	northern goshawk
+CAKNBG010000261.1	462000	micro	301	AccGen	s131	northern goshawk
+CAKNBG010000262.1	173980	micro	302	AccGen	s191	northern goshawk
+CAKNBG010000263.1	23392	micro	303	AccGen	s483	northern goshawk
+CAKNBG010000264.1	957000	micro	304	AccGen	s94	northern goshawk
+CAKNBG010000265.1	41232	micro	305	AccGen	s372	northern goshawk
+CAKNBG010000266.1	25017	micro	306	AccGen	s475	northern goshawk
+CAKNBG010000267.1	548258	micro	307	AccGen	s117	northern goshawk
+CAKNBG010000268.1	1143023	micro	308	AccGen	s79	northern goshawk
+CAKNBG010000269.1	35000	micro	309	AccGen	s406	northern goshawk
+CAKNBG010000270.1	165000	micro	310	AccGen	s196	northern goshawk
+CAKNBG010000271.1	63820	micro	311	AccGen	s293	northern goshawk
+CAKNBG010000272.1	65000	micro	312	AccGen	s290	northern goshawk
+CAKNBG010000273.1	122306	micro	313	AccGen	s213	northern goshawk
+CAKNBG010000274.1	954877	micro	314	AccGen	s95	northern goshawk
+CAKNBG010000275.1	30575	micro	315	AccGen	s438	northern goshawk
+CAKNBG010000276.1	49220	micro	316	AccGen	s333	northern goshawk
+CAKNBG010000277.1	480000	micro	317	AccGen	s128	northern goshawk
+CAKNBG010000278.1	1538000	micro	318	AccGen	s67	northern goshawk
+CAKNBG010000279.1	97570	micro	319	AccGen	s230	northern goshawk
+CAKNBG010000280.1	32709	micro	320	AccGen	s417	northern goshawk
+CAKNBG010000281.1	15590	micro	321	AccGen	s524	northern goshawk
+CAKNBG010000282.1	39449	micro	322	AccGen	s378	northern goshawk
+CAKNBG010000283.1	249000	micro	323	AccGen	s172	northern goshawk
+CAKNBG010000284.1	1627000	micro	324	AccGen	s63	northern goshawk
+CAKNBG010000285.1	35147	micro	325	AccGen	s405	northern goshawk
+CAKNBG010000286.1	1133833	micro	326	AccGen	s80	northern goshawk
+CAKNBG010000287.1	24605	micro	327	AccGen	s478	northern goshawk
+CAKNBG010000288.1	774155	micro	328	AccGen	s108	northern goshawk
+CAKNBG010000289.1	30301	micro	329	AccGen	s439	northern goshawk
+CAKNBG010000290.1	66882	micro	330	AccGen	s286	northern goshawk
+CAKNBG010000291.1	128000	micro	331	AccGen	s212	northern goshawk
+CAKNBG010000292.1	26000	micro	332	AccGen	s469	northern goshawk
+CAKNBG010000293.1	201000	micro	333	AccGen	s184	northern goshawk
+CAKNBG010000294.1	293755	micro	334	AccGen	s162	northern goshawk
+CAKNBG010000295.1	35661	micro	335	AccGen	s401	northern goshawk
+CAKNBG010000296.1	880429	micro	336	AccGen	s99	northern goshawk
+CAKNBG010000297.1	3214000	micro	337	AccGen	s48	northern goshawk
+CAKNBG010000298.1	39389	micro	338	AccGen	s380	northern goshawk
+CAKNBG010000299.1	77330	micro	339	AccGen	s266	northern goshawk
+CAKNBG010000300.1	28841	micro	340	AccGen	s451	northern goshawk
+CAKNBG010000301.1	1029000	micro	341	AccGen	s88	northern goshawk
+CAKNBG010000302.1	39238	micro	342	AccGen	s383	northern goshawk
+CAKNBG010000303.1	45600	micro	343	AccGen	s353	northern goshawk
+CAKNBG010000304.1	74498	micro	344	AccGen	s272	northern goshawk
+CAKNBG010000305.1	5973000	micro	345	AccGen	s43	northern goshawk
+CAKNBG010000306.1	1181000	micro	346	AccGen	s76	northern goshawk
+CAKNBG010000307.1	42319	micro	347	AccGen	s367	northern goshawk
+CAKNBG010000308.1	70421	micro	348	AccGen	s276	northern goshawk
+CAKNBG010000309.1	13429	micro	349	AccGen	s536	northern goshawk
+CAKNBG010000310.1	91830	micro	350	AccGen	s239	northern goshawk
+CAKNBG010000311.1	66677	micro	351	AccGen	s287	northern goshawk
+CAKNBG010000312.1	163078	micro	352	AccGen	s197	northern goshawk
+CAKNBG010000313.1	34344	micro	353	AccGen	s409	northern goshawk
+CAKNBG010000314.1	271127	micro	354	AccGen	s168	northern goshawk
+CAKNBG010000315.1	44212	micro	355	AccGen	s359	northern goshawk
+CAKNBG010000316.1	68624	micro	356	AccGen	s279	northern goshawk
+CAKNBG010000317.1	25984	micro	357	AccGen	s470	northern goshawk
+CAKNBG010000318.1	74947	micro	358	AccGen	s271	northern goshawk
+CAKNBG010000319.1	91000	micro	359	AccGen	s240	northern goshawk
+CAKNBG010000320.1	76859	micro	360	AccGen	s268	northern goshawk
+CAKNBG010000321.1	75107	micro	361	AccGen	s270	northern goshawk
+CAKNBG010000322.1	46991	micro	362	AccGen	s345	northern goshawk
+CAKNBG010000323.1	168729	micro	363	AccGen	s193	northern goshawk
+CAKNBG010000324.1	165000	micro	364	AccGen	s195	northern goshawk
+CAKNBG010000325.1	28786	micro	365	AccGen	s453	northern goshawk
+CAKNBG010000326.1	21723	micro	366	AccGen	s495	northern goshawk
+CAKNBG010000327.1	1811622	micro	367	AccGen	s60	northern goshawk
+CAKNBG010000328.1	30032	micro	368	AccGen	s440	northern goshawk
+CAKNBG010000329.1	1054804	micro	369	AccGen	s86	northern goshawk
+CAKNBG010000330.1	20861	micro	370	AccGen	s503	northern goshawk
+CAKNBG010000331.1	38086	micro	371	AccGen	s393	northern goshawk
+CAKNBG010000332.1	68629	micro	372	AccGen	s278	northern goshawk
+CAKNBG010000333.1	16335	micro	373	AccGen	s521	northern goshawk
+CAKNBG010000334.1	322000	micro	374	AccGen	s155	northern goshawk
+CAKNBG010000335.1	42846	micro	375	AccGen	s365	northern goshawk
+CAKNBG010000336.1	61916	micro	376	AccGen	s298	northern goshawk
+CAKNBG010000337.1	237283	micro	377	AccGen	s176	northern goshawk
+CAKNBG010000338.1	27273	micro	378	AccGen	s460	northern goshawk
+CAKNBG010000339.1	1589000	micro	379	AccGen	s64	northern goshawk
+CAKNBG010000340.1	79515	micro	380	AccGen	s263	northern goshawk
+CAKNBG010000341.1	29772	micro	381	AccGen	s442	northern goshawk
+CAKNBG010000342.1	89268	micro	382	AccGen	s242	northern goshawk
+CAKNBG010000343.1	39298	micro	383	AccGen	s382	northern goshawk
+CAKNBG010000344.1	46247	micro	384	AccGen	s349	northern goshawk
+CAKNBG010000345.1	40242	micro	385	AccGen	s376	northern goshawk
+CAKNBG010000346.1	26237	micro	386	AccGen	s468	northern goshawk
+CAKNBG010000347.1	109000	micro	387	AccGen	s223	northern goshawk
+CAKNBG010000348.1	59578	micro	388	AccGen	s302	northern goshawk
+CAKNBG010000349.1	141738	micro	389	AccGen	s205	northern goshawk
+CAKNBG010000350.1	45262	micro	390	AccGen	s356	northern goshawk
+CAKNBG010000351.1	355694	micro	391	AccGen	s153	northern goshawk
+CAKNBG010000352.1	45350	micro	392	AccGen	s355	northern goshawk
+CAKNBG010000353.1	91000	micro	393	AccGen	s241	northern goshawk
+CAKNBG010000354.1	171540	micro	394	AccGen	s192	northern goshawk
+CAKNBG010000355.1	24442	micro	395	AccGen	s479	northern goshawk
+CAKNBG010000356.1	23375	micro	396	AccGen	s485	northern goshawk
+CAKNBG010000357.1	185239	micro	397	AccGen	s188	northern goshawk
+CAKNBG010000358.1	84862	micro	398	AccGen	s251	northern goshawk
+CAKNBG010000359.1	29407	micro	399	AccGen	s445	northern goshawk
+CAKNBG010000360.1	24045	micro	400	AccGen	s481	northern goshawk
+CAKNBG010000361.1	30735	micro	401	AccGen	s437	northern goshawk
+CAKNBG010000362.1	23710	micro	402	AccGen	s482	northern goshawk
+CAKNBG010000363.1	911000	micro	403	AccGen	s97	northern goshawk
+CAKNBG010000364.1	50775	micro	404	AccGen	s328	northern goshawk
+CAKNBG010000365.1	18502	micro	405	AccGen	s511	northern goshawk
+CAKNBG010000366.1	34144	micro	406	AccGen	s410	northern goshawk
+CAKNBG010000367.1	1499000	micro	407	AccGen	s68	northern goshawk
+CAKNBG010000368.1	618000	micro	408	AccGen	s115	northern goshawk
+CAKNBG010000369.1	99965	micro	409	AccGen	s228	northern goshawk
+CAKNBG010000370.1	47000	micro	410	AccGen	s344	northern goshawk
+CAKNBG010000371.1	63396	micro	411	AccGen	s294	northern goshawk
+CAKNBG010000372.1	439486	micro	412	AccGen	s132	northern goshawk
+CAKNBG010000373.1	47999	micro	413	AccGen	s338	northern goshawk
+CAKNBG010000374.1	31448	micro	414	AccGen	s430	northern goshawk
+CAKNBG010000375.1	26639	micro	415	AccGen	s464	northern goshawk
+CAKNBG010000376.1	81000	micro	416	AccGen	s260	northern goshawk
+CAKNBG010000377.1	27945	micro	417	AccGen	s457	northern goshawk
+CAKNBG010000378.1	58000	micro	418	AccGen	s305	northern goshawk
+CAKNBG010000379.1	31278	micro	419	AccGen	s432	northern goshawk
+CAKNBG010000380.1	21293	micro	420	AccGen	s499	northern goshawk
+CAKNBG010000381.1	1156000	micro	421	AccGen	s77	northern goshawk
+CAKNBG010000382.1	37821	micro	422	AccGen	s394	northern goshawk
+CAKNBG010000383.1	21772	micro	423	AccGen	s494	northern goshawk
+CAKNBG010000384.1	62979	micro	424	AccGen	s295	northern goshawk
+CAKNBG010000385.1	20843	micro	425	AccGen	s504	northern goshawk
+CAKNBG010000386.1	140000	micro	426	AccGen	s206	northern goshawk
+CAKNBG010000387.1	46668	micro	427	AccGen	s347	northern goshawk
+CAKNBG010000388.1	50000	micro	428	AccGen	s329	northern goshawk
+CAKNBG010000389.1	80951	micro	429	AccGen	s261	northern goshawk
+CAKNBG010000390.1	1000	micro	430	AccGen	s549	northern goshawk
+CAKNBG010000391.1	1542000	micro	431	AccGen	s66	northern goshawk
+CAKNBG010000392.1	25025	micro	432	AccGen	s474	northern goshawk
+CAKNBG010000393.1	32000	micro	433	AccGen	s424	northern goshawk
+CAKNBG010000394.1	85000	micro	434	AccGen	s249	northern goshawk
+CAKNBG010000395.1	57707	micro	435	AccGen	s306	northern goshawk
+CAKNBG010000396.1	39000	micro	436	AccGen	s385	northern goshawk
+CAKNBG010000397.1	25317	micro	437	AccGen	s472	northern goshawk
+CAKNBG010000398.1	83043	micro	438	AccGen	s256	northern goshawk
+CAKNBG010000399.1	98000	micro	439	AccGen	s229	northern goshawk
+CAKNBG010000400.1	1265000	micro	440	AccGen	s73	northern goshawk
+CAKNBG010000401.1	581000	micro	441	AccGen	s116	northern goshawk
+CAKNBG010000402.1	49852	micro	442	AccGen	s330	northern goshawk
+CAKNBG010000403.1	18412	micro	443	AccGen	s512	northern goshawk
+CAKNBG010000404.1	52000	micro	444	AccGen	s324	northern goshawk
+CAKNBG010000405.1	439000	micro	445	AccGen	s134	northern goshawk
+CAKNBG010000406.1	26445	micro	446	AccGen	s466	northern goshawk
+CAKNBG010000407.1	52311	micro	447	AccGen	s321	northern goshawk
+CAKNBG010000408.1	52000	micro	448	AccGen	s325	northern goshawk
+CAKNBG010000409.1	84239	micro	449	AccGen	s252	northern goshawk
+CAKNBG010000410.1	39378	micro	450	AccGen	s381	northern goshawk
+CAKNBG010000411.1	403197	micro	451	AccGen	s140	northern goshawk
+CAKNBG010000412.1	34000	micro	452	AccGen	s413	northern goshawk
+CAKNBG010000413.1	65297	micro	453	AccGen	s289	northern goshawk
+CAKNBG010000414.1	968203	micro	454	AccGen	s93	northern goshawk
+OV839400.1	16558	micro	455	AccGen	mt	northern goshawk
+scaffold_2	62412279	macro	1	TYTALha	s2	Barn owl - hifiasm+BN+HiC
+scaffold_26	23224967	macro	2	TYTALha	s26	Barn owl - hifiasm+BN+HiC
+scaffold_3	61336999	macro	3	TYTALha	s3	Barn owl - hifiasm+BN+HiC
+scaffold_8	43250226	macro	4	TYTALha	s8	Barn owl - hifiasm+BN+HiC
+scaffold_16	29914985	macro	5	TYTALha	s16	Barn owl - hifiasm+BN+HiC
+scaffold_10	42129403	macro	6	TYTALha	s10	Barn owl - hifiasm+BN+HiC
+scaffold_29	18764458	macro	7	TYTALha	s29	Barn owl - hifiasm+BN+HiC
+scaffold_19	28841000	macro	8	TYTALha	s19	Barn owl - hifiasm+BN+HiC
+scaffold_14	33290000	macro	9	TYTALha	s14	Barn owl - hifiasm+BN+HiC
+scaffold_9	43181000	macro	10	TYTALha	s9	Barn owl - hifiasm+BN+HiC
+scaffold_12	36854183	macro	11	TYTALha	s12	Barn owl - hifiasm+BN+HiC
+scaffold_6	46633728	macro	12	TYTALha	s6	Barn owl - hifiasm+BN+HiC
+scaffold_44	3795200	macro	13	TYTALha	s44	Barn owl - hifiasm+BN+HiC
+scaffold_18	29316131	macro	14	TYTALha	s18	Barn owl - hifiasm+BN+HiC
+scaffold_24	24612667	macro	15	TYTALha	s24	Barn owl - hifiasm+BN+HiC
+scaffold_15	31522048	macro	16	TYTALha	s15	Barn owl - hifiasm+BN+HiC
+scaffold_4	56733954	macro	17	TYTALha	s4	Barn owl - hifiasm+BN+HiC
+scaffold_23	25047664	macro	18	TYTALha	s23	Barn owl - hifiasm+BN+HiC
+scaffold_13	36139077	macro	19	TYTALha	s13	Barn owl - hifiasm+BN+HiC
+scaffold_32	15174846	macro	20	TYTALha	s32	Barn owl - hifiasm+BN+HiC
+scaffold_5	48685228	macro	21	TYTALha	s5	Barn owl - hifiasm+BN+HiC
+scaffold_7	44384056	macro	22	TYTALha	s7	Barn owl - hifiasm+BN+HiC
+scaffold_11	39438748	macro	23	TYTALha	s11	Barn owl - hifiasm+BN+HiC
+scaffold_1	93402517	macro	24	TYTALha	s1	Barn owl - hifiasm+BN+HiC
+scaffold_17	29840565	micro	25	TYTALha	s17	Barn owl - hifiasm+BN+HiC
+scaffold_22	25222944	micro	26	TYTALha	s22	Barn owl - hifiasm+BN+HiC
+scaffold_20	28187939	micro	27	TYTALha	s20	Barn owl - hifiasm+BN+HiC
+scaffold_21	25876295	micro	28	TYTALha	s21	Barn owl - hifiasm+BN+HiC
+scaffold_25	23930748	micro	29	TYTALha	s25	Barn owl - hifiasm+BN+HiC
+scaffold_27	22690930	micro	30	TYTALha	s27	Barn owl - hifiasm+BN+HiC
+scaffold_30	18159758	micro	31	TYTALha	s30	Barn owl - hifiasm+BN+HiC
+scaffold_36	13630717	micro	32	TYTALha	s36	Barn owl - hifiasm+BN+HiC
+scaffold_34	14674617	micro	33	TYTALha	s34	Barn owl - hifiasm+BN+HiC
+scaffold_35	13738890	micro	34	TYTALha	s35	Barn owl - hifiasm+BN+HiC
+scaffold_31	18134166	micro	35	TYTALha	s31	Barn owl - hifiasm+BN+HiC
+scaffold_28	19948568	micro	36	TYTALha	s28	Barn owl - hifiasm+BN+HiC
+scaffold_38	8546967	micro	37	TYTALha	s38	Barn owl - hifiasm+BN+HiC
+scaffold_33	14751088	micro	38	TYTALha	s33	Barn owl - hifiasm+BN+HiC
+scaffold_37	11406000	micro	39	TYTALha	s37	Barn owl - hifiasm+BN+HiC
+scaffold_41	6628000	micro	40	TYTALha	s41	Barn owl - hifiasm+BN+HiC
+scaffold_40	7937340	micro	41	TYTALha	s40	Barn owl - hifiasm+BN+HiC
+scaffold_39	8005784	micro	42	TYTALha	s39	Barn owl - hifiasm+BN+HiC
+scaffold_42	6089740	micro	43	TYTALha	s42	Barn owl - hifiasm+BN+HiC
+scaffold_43	3818000	micro	44	TYTALha	s43	Barn owl - hifiasm+BN+HiC
+scaffold_45	2946915	micro	45	TYTALha	s45	Barn owl - hifiasm+BN+HiC
+scaffold_46	2005169	micro	46	TYTALha	s46	Barn owl - hifiasm+BN+HiC
+scaffold_47	1769746	micro	47	TYTALha	s47	Barn owl - hifiasm+BN+HiC
+scaffold_48	1495000	micro	48	TYTALha	s48	Barn owl - hifiasm+BN+HiC
+scaffold_49	1379119	micro	49	TYTALha	s49	Barn owl - hifiasm+BN+HiC
+scaffold_50	1194000	micro	50	TYTALha	s50	Barn owl - hifiasm+BN+HiC
+scaffold_51	1163000	micro	51	TYTALha	s51	Barn owl - hifiasm+BN+HiC
+scaffold_52	1119000	micro	52	TYTALha	s52	Barn owl - hifiasm+BN+HiC
+scaffold_53	1036299	micro	53	TYTALha	s53	Barn owl - hifiasm+BN+HiC
+scaffold_54	999000	micro	54	TYTALha	s54	Barn owl - hifiasm+BN+HiC
+scaffold_55	980882	micro	55	TYTALha	s55	Barn owl - hifiasm+BN+HiC
+scaffold_56	958000	micro	56	TYTALha	s56	Barn owl - hifiasm+BN+HiC
+scaffold_57	831901	micro	57	TYTALha	s57	Barn owl - hifiasm+BN+HiC
+scaffold_58	705000	micro	58	TYTALha	s58	Barn owl - hifiasm+BN+HiC
+scaffold_59	695638	micro	59	TYTALha	s59	Barn owl - hifiasm+BN+HiC
+scaffold_60	603000	micro	60	TYTALha	s60	Barn owl - hifiasm+BN+HiC
+scaffold_61	577000	micro	61	TYTALha	s61	Barn owl - hifiasm+BN+HiC
+scaffold_62	487161	micro	62	TYTALha	s62	Barn owl - hifiasm+BN+HiC
+scaffold_63	415000	micro	63	TYTALha	s63	Barn owl - hifiasm+BN+HiC
+scaffold_64	403205	micro	64	TYTALha	s64	Barn owl - hifiasm+BN+HiC
+scaffold_65	345000	micro	65	TYTALha	s65	Barn owl - hifiasm+BN+HiC
+scaffold_66	341229	micro	66	TYTALha	s66	Barn owl - hifiasm+BN+HiC
+scaffold_67	302600	micro	67	TYTALha	s67	Barn owl - hifiasm+BN+HiC
+scaffold_68	293605	micro	68	TYTALha	s68	Barn owl - hifiasm+BN+HiC
+scaffold_69	290841	micro	69	TYTALha	s69	Barn owl - hifiasm+BN+HiC
+scaffold_70	263425	micro	70	TYTALha	s70	Barn owl - hifiasm+BN+HiC
+scaffold_71	245000	micro	71	TYTALha	s71	Barn owl - hifiasm+BN+HiC
+scaffold_72	232616	micro	72	TYTALha	s72	Barn owl - hifiasm+BN+HiC
+scaffold_73	225000	micro	73	TYTALha	s73	Barn owl - hifiasm+BN+HiC
+scaffold_74	215000	micro	74	TYTALha	s74	Barn owl - hifiasm+BN+HiC
+scaffold_75	200000	micro	75	TYTALha	s75	Barn owl - hifiasm+BN+HiC
+scaffold_76	198247	micro	76	TYTALha	s76	Barn owl - hifiasm+BN+HiC
+scaffold_77	194000	micro	77	TYTALha	s77	Barn owl - hifiasm+BN+HiC
+scaffold_78	178481	micro	78	TYTALha	s78	Barn owl - hifiasm+BN+HiC
+scaffold_79	164041	micro	79	TYTALha	s79	Barn owl - hifiasm+BN+HiC
+scaffold_80	163926	micro	80	TYTALha	s80	Barn owl - hifiasm+BN+HiC
+scaffold_81	160000	micro	81	TYTALha	s81	Barn owl - hifiasm+BN+HiC
+scaffold_82	155082	micro	82	TYTALha	s82	Barn owl - hifiasm+BN+HiC
+scaffold_83	153000	micro	83	TYTALha	s83	Barn owl - hifiasm+BN+HiC
+scaffold_84	139832	micro	84	TYTALha	s84	Barn owl - hifiasm+BN+HiC
+scaffold_85	137141	micro	85	TYTALha	s85	Barn owl - hifiasm+BN+HiC
+scaffold_86	131000	micro	86	TYTALha	s86	Barn owl - hifiasm+BN+HiC
+scaffold_87	131000	micro	87	TYTALha	s87	Barn owl - hifiasm+BN+HiC
+scaffold_88	113569	micro	88	TYTALha	s88	Barn owl - hifiasm+BN+HiC
+scaffold_89	98181	micro	89	TYTALha	s89	Barn owl - hifiasm+BN+HiC
+scaffold_90	98000	micro	90	TYTALha	s90	Barn owl - hifiasm+BN+HiC
+scaffold_91	98000	micro	91	TYTALha	s91	Barn owl - hifiasm+BN+HiC
+scaffold_92	75986	micro	92	TYTALha	s92	Barn owl - hifiasm+BN+HiC
+scaffold_93	63119	micro	93	TYTALha	s93	Barn owl - hifiasm+BN+HiC
+scaffold_94	57000	micro	94	TYTALha	s94	Barn owl - hifiasm+BN+HiC
+scaffold_95	15000	micro	95	TYTALha	s95	Barn owl - hifiasm+BN+HiC

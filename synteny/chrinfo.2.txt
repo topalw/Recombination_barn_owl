@@ -1,0 +1,91 @@
+seqname	seqrole	assignedmol	assignedlocationtype	genbankacc	relation	refseqacc	asmunit	seqlength	ucscname	speciescode	cname	krank	offset	seqid	A	C	G	T	gc	chrname	chrtype
+1	assembled-molecule	1	Chromosome	CM000093.5	=	NC_006088.5	Primary Assembly	197608386	chr1	CHICK	Chicken	1	0	NC_006088.5	58646229	39691580	39915735	58844090	40.38978723	chr1	macro
+2	assembled-molecule	2	Chromosome	CM000094.5	=	NC_006089.5	Primary Assembly	149682049	chr2	CHICK	Chicken	2	197608386	NC_006089.5	44758704	29942628	29824563	44652344	40.06428243	chr2	macro
+3	assembled-molecule	3	Chromosome	CM000095.5	=	NC_006090.5	Primary Assembly	110838418	chr3	CHICK	Chicken	3	347290435	NC_006090.5	32895797	22073319	22231083	33136799	40.15371344	chr3	macro
+4	assembled-molecule	4	Chromosome	CM000096.5	=	NC_006091.5	Primary Assembly	91315245	chr4	CHICK	Chicken	4	458128853	NC_006091.5	27081580	18280643	18325550	27126572	40.30882236	chr4	macro
+5	assembled-molecule	5	Chromosome	CM000097.5	=	NC_006092.5	Primary Assembly	59809098	chr5	CHICK	Chicken	5	549444098	NC_006092.5	17473794	12280702	12202245	17351447	41.28088857	chr5	macro
+6	assembled-molecule	6	Chromosome	CM000098.5	=	NC_006093.5	Primary Assembly	36374701	chr6	CHICK	Chicken	6	609253196	NC_006093.5	10333949	7537567	7590674	10409301	42.17343795	chr6	macro
+7	assembled-molecule	7	Chromosome	CM000099.5	=	NC_006094.5	Primary Assembly	36742308	chr7	CHICK	Chicken	7	645627897	NC_006094.5	10599311	7541791	7513165	10587641	41.54018602	chr7	macro
+8	assembled-molecule	8	Chromosome	CM000100.5	=	NC_006095.5	Primary Assembly	30219446	chr8	CHICK	Chicken	8	682370205	NC_006095.5	8643486	6318039	6226931	8528690	42.21458548	chr8	macro
+9	assembled-molecule	9	Chromosome	CM000101.5	=	NC_006096.5	Primary Assembly	24153086	chr9	CHICK	Chicken	10	712589651	NC_006096.5	6755617	5152338	5078297	6666324	43.25378766	chr9	micro
+10	assembled-molecule	10	Chromosome	CM000102.5	=	NC_006097.5	Primary Assembly	21119840	chr10	CHICK	Chicken	11	736742737	NC_006097.5	5765721	4476702	4528601	5847216	43.67639042	chr10	micro
+11	assembled-molecule	11	Chromosome	CM000103.5	=	NC_006098.5	Primary Assembly	20200042	chr11	CHICK	Chicken	12	757862577	NC_006098.5	5572702	4174956	4235719	5715965	42.69520779	chr11	micro
+12	assembled-molecule	12	Chromosome	CM000104.5	=	NC_006099.5	Primary Assembly	20387278	chr12	CHICK	Chicken	13	778062619	NC_006099.5	5726982	4457935	4454661	5746400	43.71924663	chr12	micro
+13	assembled-molecule	13	Chromosome	CM000105.5	=	NC_006100.5	Primary Assembly	19166714	chr13	CHICK	Chicken	14	798449897	NC_006100.5	5132673	4225725	4196350	5109166	45.12491324	chr13	micro
+14	assembled-molecule	14	Chromosome	CM000106.5	=	NC_006101.5	Primary Assembly	16219308	chr14	CHICK	Chicken	15	817616611	NC_006101.5	4295163	3594042	3587093	4241510	45.68789109	chr14	micro
+15	assembled-molecule	15	Chromosome	CM000107.5	=	NC_006102.5	Primary Assembly	13062184	chr15	CHICK	Chicken	16	833835919	NC_006102.5	3536030	2984063	2991198	3549193	45.75068581	chr15	micro
+16	assembled-molecule	16	Chromosome	CM000108.5	=	NC_006103.5	Primary Assembly	2844601	chr16	CHICK	Chicken	17	846898103	NC_006103.5	517502	640924	631558	552297	54.32661581	chr16	micro
+17	assembled-molecule	17	Chromosome	CM000109.5	=	NC_006104.5	Primary Assembly	10762512	chr17	CHICK	Chicken	18	849742704	NC_006104.5	2646364	2451077	2479066	2685905	48.04078223	chr17	micro
+18	assembled-molecule	18	Chromosome	CM000110.5	=	NC_006105.5	Primary Assembly	11373140	chr18	CHICK	Chicken	19	860505216	NC_006105.5	2987782	2679814	2705796	2998048	47.36084436	chr18	micro
+19	assembled-molecule	19	Chromosome	CM000111.5	=	NC_006106.5	Primary Assembly	10323212	chr19	CHICK	Chicken	20	871878356	NC_006106.5	2711327	2465760	2435025	2710000	47.47851021	chr19	micro
+20	assembled-molecule	20	Chromosome	CM000112.5	=	NC_006107.5	Primary Assembly	13897287	chr20	CHICK	Chicken	21	882201568	NC_006107.5	3713594	3200879	3224453	3758361	46.2344341	chr20	micro
+21	assembled-molecule	21	Chromosome	CM000113.5	=	NC_006108.5	Primary Assembly	6844979	chr21	CHICK	Chicken	22	896098855	NC_006108.5	1812645	1663902	1618900	1749532	47.95927058	chr21	micro
+22	assembled-molecule	22	Chromosome	CM000114.5	=	NC_006109.5	Primary Assembly	5459462	chr22	CHICK	Chicken	23	902943834	NC_006109.5	1270385	1237925	1209874	1240368	49.36519774	chr22	micro
+23	assembled-molecule	23	Chromosome	CM000115.5	=	NC_006110.5	Primary Assembly	6149580	chr23	CHICK	Chicken	24	908403296	NC_006110.5	1498776	1573608	1573056	1503040	51.17791714	chr23	micro
+24	assembled-molecule	24	Chromosome	CM000116.5	=	NC_006111.5	Primary Assembly	6491222	chr24	CHICK	Chicken	25	914552876	NC_006111.5	1687289	1631419	1583697	1588517	49.53250093	chr24	micro
+25	assembled-molecule	25	Chromosome	CM000124.5	=	NC_006112.4	Primary Assembly	3980610	chr25	CHICK	Chicken	26	921044098	NC_006112.4	742407	995497	980457	758389	56.83336449	chr25	micro
+26	assembled-molecule	26	Chromosome	CM000117.5	=	NC_006113.5	Primary Assembly	6055710	chr26	CHICK	Chicken	27	925024708	NC_006113.5	1320614	1462583	1469265	1302848	52.77559668	chr26	micro
+27	assembled-molecule	27	Chromosome	CM000118.5	=	NC_006114.5	Primary Assembly	8080432	chr27	CHICK	Chicken	28	931080418	NC_006114.5	2002532	1936074	2124310	2013306	50.27578489	chr27	micro
+28	assembled-molecule	28	Chromosome	CM000119.5	=	NC_006115.5	Primary Assembly	5116882	chr28	CHICK	Chicken	29	939160850	NC_006115.5	1202151	1352257	1357210	1205064	52.95359375	chr28	micro
+30	assembled-molecule	30	Chromosome	CM003637.2	=	NC_028739.2	Primary Assembly	1818525	chr30	CHICK	Chicken	30	944277732	NC_028739.2	366010	542665	522876	383834	58.69504265	chr30	micro
+31	assembled-molecule	31	Chromosome	CM003638.2	=	NC_028740.2	Primary Assembly	6153034	chr31	CHICK	Chicken	31	946096257	NC_028740.2	1468862	1601939	1612197	1463036	52.29609859	chr31	micro
+32	assembled-molecule	32	Chromosome	CM000120.4	=	NC_006119.4	Primary Assembly	725831	chr32	CHICK	Chicken	32	952249291	NC_006119.4	133392	219204	229889	142826	61.91730168	chr32	micro
+33	assembled-molecule	33	Chromosome	CM000123.5	=	NC_008465.4	Primary Assembly	7821666	chr33	CHICK	Chicken	33	952975122	NC_008465.4	1803126	2110004	2106146	1795750	53.94927669	chr33	micro
+W	assembled-molecule	W	Chromosome	CM000121.5	=	NC_006126.5	Primary Assembly	6813114	chrW	CHICK	Chicken	34	960796788	NC_006126.5	1794707	1493714	1494851	1788305	45.47713585	chrW	macro
+Z	assembled-molecule	Z	Chromosome	CM000122.5	=	NC_006127.5	Primary Assembly	82529921	chrZ	CHICK	Chicken	9	967609902	NC_006127.5	24281363	16807664	16804388	24178989	40.95414581	chrZ	macro
+scaffold_2_ctg1	assembled-molecule	1	Chromosome	LR606181.1	<>	na	Primary Assembly	85456622	na	AQUCH	Golden eagle	1	0	LR606181.1	25518158	17123661	17120182	25529731	40.14907682	chr1	macro
+Super_Scaffold_1	assembled-molecule	2	Chromosome	LR606182.1	<>	na	Primary Assembly	83001952	na	AQUCH	Golden eagle	2	85456622	LR606182.1	24373550	17004355	17024824	24422604	41.085472	chr2	macro
+Super_Scaffold_3	assembled-molecule	3	Chromosome	LR606183.1	<>	na	Primary Assembly	79382107	na	AQUCH	Golden eagle	3	168458574	LR606183.1	23111502	16567970	16528131	23029894	41.76823127	chr3	macro
+scaffold_4_ctg1	assembled-molecule	4	Chromosome	LR606184.1	<>	na	Primary Assembly	77266225	na	AQUCH	Golden eagle	4	247840681	LR606184.1	22966659	15519165	15587572	23051501	40.33293814	chr4	macro
+scaffold_5_ctg1	assembled-molecule	5	Chromosome	LR606185.1	<>	na	Primary Assembly	76621501	na	AQUCH	Golden eagle	5	325106906	LR606185.1	21931273	16174854	16328346	22137808	42.44773641	chr5	macro
+Super_Scaffold_6	assembled-molecule	6	Chromosome	LR606186.1	<>	na	Primary Assembly	54402963	na	AQUCH	Golden eagle	6	401728407	LR606186.1	15711146	11473193	11471967	15746557	42.17638325	chr6	macro
+scaffold_7_ctg1	assembled-molecule	7	Chromosome	LR606187.1	<>	na	Primary Assembly	47779391	na	AQUCH	Golden eagle	7	456131370	LR606187.1	14016940	9750108	9860740	14151503	41.04466096	chr7	macro
+scaffold_8_ctg1	assembled-molecule	8	Chromosome	LR606188.1	<>	na	Primary Assembly	46934974	na	AQUCH	Golden eagle	8	503910761	LR606188.1	13102210	10131846	10203763	13209171	43.59468639	chr8	macro
+scaffold_9_ctg1	assembled-molecule	9	Chromosome	LR606189.1	<>	na	Primary Assembly	45241448	na	AQUCH	Golden eagle	9	550845735	LR606189.1	12559123	9854051	9716822	12366982	43.98247674	chr9	macro
+scaffold_11_ctg1	assembled-molecule	10	Chromosome	LR606190.1	<>	na	Primary Assembly	43949808	na	AQUCH	Golden eagle	10	596087183	LR606190.1	12354215	9497279	9595210	12493425	43.45114462	chr10	macro
+scaffold_12_ctg1	assembled-molecule	11	Chromosome	LR606191.1	<>	na	Primary Assembly	43755789	na	AQUCH	Golden eagle	11	640036991	LR606191.1	12485785	9057869	9026663	12451739	42.03548989	chr11	macro
+scaffold_13_ctg1	assembled-molecule	12	Chromosome	LR606192.1	<>	na	Primary Assembly	43481500	na	AQUCH	Golden eagle	12	683792780	LR606192.1	12305641	9401625	9426364	12347795	43.30122345	chr12	macro
+scaffold_14_ctg1	assembled-molecule	13	Chromosome	LR606193.1	<>	na	Primary Assembly	41790845	na	AQUCH	Golden eagle	14	727274280	LR606193.1	12018453	8804010	8860663	12107469	42.26949389	chr13	micro
+scaffold_15_ctg1	assembled-molecule	14	Chromosome	LR606194.1	<>	na	Primary Assembly	34337559	na	AQUCH	Golden eagle	15	769065125	LR606194.1	10454654	6714619	6731115	10436646	39.15811133	chr14	micro
+Super_Scaffold_4	assembled-molecule	15	Chromosome	LR606195.1	<>	na	Primary Assembly	30976502	na	AQUCH	Golden eagle	16	803402684	LR606195.1	8826930	6557616	6540551	8776723	42.66250991	chr15	micro
+Super_Scaffold_5	assembled-molecule	16	Chromosome	LR606196.1	<>	na	Primary Assembly	30610376	na	AQUCH	Golden eagle	17	834379186	LR606196.1	8487065	6639372	6667599	8555948	43.8450676	chr16	micro
+scaffold_16_ctg1	assembled-molecule	17	Chromosome	LR606197.1	<>	na	Primary Assembly	29699254	na	AQUCH	Golden eagle	18	864989562	LR606197.1	8489962	6306601	6353052	8549539	42.62630848	chr17	micro
+scaffold_17_ctg1	assembled-molecule	18	Chromosome	LR606198.1	<>	na	Primary Assembly	28555659	na	AQUCH	Golden eagle	19	894688816	LR606198.1	8462530	5732701	5795683	8564745	40.37162651	chr18	micro
+scaffold_1_ctg1	assembled-molecule	19	Chromosome	LR606199.1	<>	na	Primary Assembly	27976474	na	AQUCH	Golden eagle	20	923244475	LR606199.1	8154519	5878673	5849619	8092979	41.92300557	chr19	micro
+scaffold_20_ctg1	assembled-molecule	20	Chromosome	LR606200.1	<>	na	Primary Assembly	25309643	na	AQUCH	Golden eagle	21	951220949	LR606200.1	7166008	5415506	5368196	7131823	42.99458889	chr20	micro
+scaffold_21_ctg1	assembled-molecule	21	Chromosome	LR606201.1	<>	na	Primary Assembly	24756580	na	AQUCH	Golden eagle	22	976530592	LR606201.1	7050972	5340737	5333397	7031374	43.11652545	chr21	micro
+scaffold_22_ctg1	assembled-molecule	22	Chromosome	LR606202.1	<>	na	Primary Assembly	22514005	na	AQUCH	Golden eagle	23	1001287172	LR606202.1	6277334	4999345	4981758	6255568	44.33286303	chr22	micro
+scaffold_24_ctg1	assembled-molecule	23	Chromosome	LR606203.1	<>	na	Primary Assembly	21012167	na	AQUCH	Golden eagle	24	1023801177	LR606203.1	6130631	4262021	4266912	6140619	41.00412482	chr23	micro
+Super_Scaffold_2	assembled-molecule	24	Chromosome	LR606204.1	<>	na	Primary Assembly	20993271	na	AQUCH	Golden eagle	25	1044813344	LR606204.1	5423223	5065576	5067835	5435637	48.27210453	chr24	micro
+scaffold_25_ctg1	assembled-molecule	25	Chromosome	LR606205.1	<>	na	Primary Assembly	19844373	na	AQUCH	Golden eagle	26	1065806615	LR606205.1	5569275	4421924	4374249	5478925	44.3257794	chr25	micro
+scaffold_27_ctg1	assembled-molecule	26	Chromosome	LR606206.1	<>	na	Primary Assembly	17717355	na	AQUCH	Golden eagle	27	1085650988	LR606206.1	5276696	3607367	3576715	5220214	40.63166818	chr26	micro
+Super_Scaffold_7	assembled-molecule	Z	Chromosome	LR606180.1	<>	na	Primary Assembly	88216475	na	AQUCH	Golden eagle	13	1103368343	LR606180.1	25873596	17662377	17682035	25855275	40.59156929	chrZ	macro
+chr1	assembled-molecule	1	Chromosome	CM023912.1	<>	na	Primary Assembly	117486409	na	CORMO	Jackdaw	1	0	CM023912.1	35092025	23537385	23581161	35231410	40.12070096	chr1	macro
+chr1A	assembled-molecule	1A	Chromosome	CM023939.1	<>	na	Primary Assembly	73777161	na	CORMO	Jackdaw	2	935285904	CM023939.1	21873696	15034106	14988393	21827064	40.72323905	chr1A	macro
+chr2	assembled-molecule	2	Chromosome	CM023913.1	<>	na	Primary Assembly	154487646	na	CORMO	Jackdaw	3	117486409	CM023913.1	46307896	30780840	30787188	46290666	39.93603802	chr2	macro
+chr3	assembled-molecule	3	Chromosome	CM023914.1	<>	na	Primary Assembly	110910713	na	CORMO	Jackdaw	4	271974055	CM023914.1	33036242	22455728	22413180	32988855	40.46107632	chr3	macro
+chr4A	assembled-molecule	4A	Chromosome	CM023940.1	<>	na	Primary Assembly	20605299	na	CORMO	Jackdaw	5	1009063065	CM023940.1	5745590	4587480	4550773	5720957	44.35011745	chr4A	macro
+chr4	assembled-molecule	4	Chromosome	CM023915.1	<>	na	Primary Assembly	73157438	na	CORMO	Jackdaw	6	382884768	CM023915.1	21866269	14581172	14673144	22008792	40.00350776	chr4	macro
+chr5	assembled-molecule	5	Chromosome	CM023916.1	<>	na	Primary Assembly	64157287	na	CORMO	Jackdaw	7	456042206	CM023916.1	18593314	13273274	13274063	18640286	41.62268265	chr5	macro
+chr6	assembled-molecule	6	Chromosome	CM023917.1	<>	na	Primary Assembly	36532927	na	CORMO	Jackdaw	8	520199493	CM023917.1	10497307	7733864	7774130	10527626	42.44936082	chr6	macro
+chr7	assembled-molecule	7	Chromosome	CM023918.1	<>	na	Primary Assembly	38277055	na	CORMO	Jackdaw	9	556732420	CM023918.1	11158373	8015582	7988255	11086724	41.84126282	chr7	macro
+chr8	assembled-molecule	8	Chromosome	CM023919.1	<>	na	Primary Assembly	32060782	na	CORMO	Jackdaw	10	595009475	CM023919.1	9111678	6825380	6827172	9125307	42.81201072	chr8	macro
+chrZ	assembled-molecule	Z	Chromosome	CM023938.1	<>	na	Primary Assembly	79982351	na	CORMO	Jackdaw	11	855303553	CM023938.1	23543654	16214607	16130044	23406986	40.79012838	chrZ	macro
+chr9	assembled-molecule	9	Chromosome	CM023920.1	<>	na	Primary Assembly	26026359	na	CORMO	Jackdaw	12	627070257	CM023920.1	7298803	5613643	5704777	7409136	43.48829585	chr9	micro
+chr10	assembled-molecule	10	Chromosome	CM023921.1	<>	na	Primary Assembly	20701202	na	CORMO	Jackdaw	13	653096616	CM023921.1	5819119	4534421	4535671	5810993	43.81643775	chr10	micro
+chr11	assembled-molecule	11	Chromosome	CM023922.1	<>	na	Primary Assembly	20977607	na	CORMO	Jackdaw	14	673797818	CM023922.1	5971597	4528505	4517745	5959760	43.12336483	chr11	micro
+chr12	assembled-molecule	12	Chromosome	CM023923.1	<>	na	Primary Assembly	21032122	na	CORMO	Jackdaw	15	694775425	CM023923.1	5858733	4675771	4657323	5840295	44.37542726	chr12	micro
+chr13	assembled-molecule	13	Chromosome	CM023924.1	<>	na	Primary Assembly	19121564	na	CORMO	Jackdaw	16	715807547	CM023924.1	5215785	4378398	4343698	5181319	45.61956567	chr13	micro
+chr14	assembled-molecule	14	Chromosome	CM023925.1	<>	na	Primary Assembly	16609512	na	CORMO	Jackdaw	17	734929111	CM023925.1	4503135	3811388	3805282	4489707	45.85727744	chr14	micro
+chr15	assembled-molecule	15	Chromosome	CM023926.1	<>	na	Primary Assembly	11237182	na	CORMO	Jackdaw	18	751538623	CM023926.1	3047028	2554749	2575449	3055302	45.67269274	chr15	micro
+chr17	assembled-molecule	17	Chromosome	CM023927.1	<>	na	Primary Assembly	11032243	na	CORMO	Jackdaw	19	762775805	CM023927.1	2824546	2717263	2696043	2794391	49.06804536	chr17	micro
+chr18	assembled-molecule	18	Chromosome	CM023928.1	<>	na	Primary Assembly	11176533	na	CORMO	Jackdaw	20	773808048	CM023928.1	2860143	2702379	2727503	2880286	48.6099447	chr18	micro
+chr19	assembled-molecule	19	Chromosome	CM023929.1	<>	na	Primary Assembly	11217504	na	CORMO	Jackdaw	21	784984581	CM023929.1	2928145	2704141	2679527	2905691	47.99345737	chr19	micro
+chr20	assembled-molecule	20	Chromosome	CM023930.1	<>	na	Primary Assembly	14997001	na	CORMO	Jackdaw	22	796202085	CM023930.1	3952682	3511695	3540230	3990897	47.02692887	chr20	micro
+chr21	assembled-molecule	21	Chromosome	CM023931.1	<>	na	Primary Assembly	6847630	na	CORMO	Jackdaw	23	811199086	CM023931.1	1783009	1669699	1643954	1750968	48.39123901	chr21	micro
+chr22	assembled-molecule	22	Chromosome	CM023932.1	<>	na	Primary Assembly	4839898	na	CORMO	Jackdaw	24	818046716	CM023932.1	1155893	1254664	1257921	1170921	51.91936023	chr22	micro
+chr23	assembled-molecule	23	Chromosome	CM023933.1	<>	na	Primary Assembly	8585400	na	CORMO	Jackdaw	25	822886614	CM023933.1	1969130	2165514	2180600	1979990	52.39290417	chr23	micro
+chr24	assembled-molecule	24	Chromosome	CM023934.1	<>	na	Primary Assembly	6907201	na	CORMO	Jackdaw	26	831472014	CM023934.1	1720572	1762887	1738639	1682147	50.71555253	chr24	micro
+chr26	assembled-molecule	26	Chromosome	CM023935.1	<>	na	Primary Assembly	6615938	na	CORMO	Jackdaw	27	838379215	CM023935.1	1560775	1765913	1752402	1535351	53.19141859	chr26	micro
+chr27	assembled-molecule	27	Chromosome	CM023936.1	<>	na	Primary Assembly	4573168	na	CORMO	Jackdaw	28	844995153	CM023936.1	1057234	1232231	1223830	1059873	53.70589928	chr27	micro
+chr28	assembled-molecule	28	Chromosome	CM023937.1	<>	na	Primary Assembly	5735232	na	CORMO	Jackdaw	29	849568321	CM023937.1	1238571	1447534	1435022	1225117	53.91740444	chr28	micro

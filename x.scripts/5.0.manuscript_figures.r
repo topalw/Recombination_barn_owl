@@ -201,7 +201,7 @@ layout(matrix(c(1,5,
   lines(p$fit~lnew$len,lwd=2,col='black')
   lines(y=p$fit-1.96*p$se.fit,x=lnew$len,lty=2,lwd=2,col='black')
   lines(y=p$fit+1.96*p$se.fit,x=lnew$len,lty=2,lwd=2,col='black')
-  mtext('A',3,at=0,cex=2)
+  mtext('a',3,at=0,cex=2)
   # legend 
   crp <- viridis::mako(nrow(lms),alpha=1,direction=-1)
   for(i in seq(1,39,3)){
@@ -223,7 +223,7 @@ layout(matrix(c(1,5,
   mtext('Male genetic length (cM)',1,line=2.5,cex=mtext.size)
   mtext('Female genetic length (cM)',2,line=2.5,cex=mtext.size)
   abline(0,1,lty=2,lwd=2)
-  mtext('B',3,at=16,cex=2)
+  mtext('b',3,at=16,cex=2)
   # legend 
   for(i in seq(1,39,3)){
     points(81,21+i/4,pch=20,cex=3,col=crp[i])
@@ -245,7 +245,7 @@ layout(matrix(c(1,5,
   lines(x=femalex,y=femaley/sum(femaley),col=femalecolor,lwd=4,lty=1)
   mtext('Density (x 1e-3)',2,2.5,cex=mtext.size)
   mtext('Distance from LG end (% of LG length)',1,2.5,cex=mtext.size)
-  mtext('C',3,at=-.02,cex=2)
+  mtext('c',3,at=-.02,cex=2)
   legend(x=0.32,y=.004,lty=c(1,1),col=c(malecolor,femalecolor),lwd=4,
          legend=c('Male','Female'),cex=1.5,bty='n')
   # test significance 
@@ -275,7 +275,7 @@ layout(matrix(c(1,5,
   abline(v=0,lwd=2)
   legend('topleft', pch=c(15,15), pt.cex=c(2,2), col=c(malecolor,femalecolor),
          legend=c('Male > Female','Female > Male'), cex=1.5, bty='n')
-  mtext('D',3,at=-.6,cex=2)
+  mtext('d',3,at=-.6,cex=2)
   axis(4,at=seq(3,155,4), labels=round(lms$len[order(lms$len)],0),
        cex.axis=1,las=2,adj=1)
   mtext('Physical Length (Mb)',4,2.5,cex=mtext.size)
@@ -337,7 +337,7 @@ dev.off()
     axis(2,at=seq(0,3,1),labels=round(expm1(seq(0,3,1)),1),las=2,cex.axis=1.2)
     mtext('pyrho (log(x+1))',1,2.4,cex=1.2)
     mtext('LepMap3 (log(x+1))',2,2.8,cex=1.2)
-    mtext('A',3,at=0,cex=2)
+    mtext('a',3,at=0,cex=2)
   }
   {
     # PLOT 2 
@@ -353,7 +353,7 @@ dev.off()
     axis(2,at=seq(0,25,10),labels=seq(0,25,10),cex.axis=axis.size,las=2)
     mtext('cM/Mb',2,2.5,cex = label.size)
     mtext('LG 36',3,0,cex = label.size)
-    mtext('B',3,at=1,cex=2)
+    mtext('b',3,at=1,cex=2)
     #
     plot(d10$CH_cM[d10$ss=='Super-Scaffold_39']~
            d10$start[d10$ss=='Super-Scaffold_39'],type='l',
@@ -418,7 +418,7 @@ dev.off()
     mtext('cumulative recombination',1,2.6,cex = label.size)
     axis(2,at=seq(0,1,.2),labels=seq(0,1,.20),cex.axis=axis.size,las=2)
     mtext('cumulative sequence',2,2.6,cex = label.size)
-    mtext('C',3,at=0,cex=2)
+    mtext('c',3,at=0,cex=2)
   }
   {
     # PLOT 4 & 5 GINIS 
@@ -455,14 +455,14 @@ dev.off()
     mtext('Gini Coefficient',2,2.6,cex = label.size)
     axis(1,at=c(0,25e6,50e6,65e6),labels=c(0,25,50,65),cex.axis=axis.size)
     mtext('Length (Mb)',1,2.6,cex = label.size)
-    mtext('D',3,cex=2,at=.39)
+    mtext('d',3,cex=2,at=.39)
     plot(y=ss10$gini,x=ss10$pi,pch=pch1,cex=cex1,axes=F,xlab='',
          ylab='',ylim=c(.3,.75),xlim=c(0.0013,0.0027),col=col1)
     axis(2,at=seq(0.3,.7,.1),labels = seq(0.3,.7,.1),cex.axis=axis.size,las=2)
     abline(h=0.6,lty=2)
     axis(1,at=c(0.0015,0.002,0.0025,0.0027),labels=c(1.5,2,2.5,2.7),cex.axis=axis.size)
     mtext('pi (x1000)',1,2.6,cex = label.size)
-    mtext('E',3,at=1.5e-3,cex=2)
+    mtext('e',3,at=1.5e-3,cex=2)
   }
   if(plotit){
   dev.off()
@@ -533,7 +533,7 @@ for(i in 1:length(hot1)){
   legend('topleft',lty=c(1,3),col=elcol,legend=c('TSS/TES','CGIs'),lwd=4,bty='n',
          cex=1.2)
   abline(v=41,lwd=1,lty=1)
-  mtext('A',3,at=1,cex=2)
+  mtext('a',3,at=1,cex=2)
   # LOCAL HOTSPOTS
   plot(colMeans(hotmat,na.rm=T),axes=F,xlab='',ylab='',xlim=c(1,80),
        ylim=c(0,8),col=viocol[1],pch=16,cex=2,type='b',main='local hotspots')
@@ -544,7 +544,7 @@ for(i in 1:length(hot1)){
   mtext('RRR80',2, 2.5,cex=mtext.size)
   abline(h=5)
   abline(v=41,lty=2,lwd=2)
-  mtext('B',3,at=1,cex=2)
+  mtext('b',3,at=1,cex=2)
   # GLOBAL HOTSPOTS
   hist(log(d1$CH_cM/mean(d1$CH_cM)),101,xlab='',ylab='',xlim=c(-5,5),
        axes=F,main='global hotspots',col=viocol[1],border = NA) -> h
@@ -555,7 +555,7 @@ for(i in 1:length(hot1)){
   mtext('RRR (log)',1,2.5,cex=mtext.size)
   axis(2,at=seq(0,3e4,1e4),labels=seq(0,30,10),cex.axis=axis.size,las=2)
   mtext('Counts (x1000)',2,2.5,cex=mtext.size)
-  mtext('C',3,at=-5,cex=2)
+  mtext('c',3,at=-5,cex=2)
   # Example chr 
   tmp1 <- d1[hot1,]
   tmp2 <- d1[hot10,]
@@ -575,7 +575,7 @@ for(i in 1:length(hot1)){
          x=tmp2$start[tmp2$ss=='Super-Scaffold_39'], col=add.alpha(viocol[3],.6),
          cex=1.3)
   abline(h=10,col=viocol[3],lwd=2)
-  mtext('D',3,at=0,cex=2)
+  mtext('d',3,at=0,cex=2)
   
   # VIOLIN PLOTS
   vioplot::vioplot(d1$dist,d1$dist[hot1],d1$dist[hot10],col=viocol,
@@ -587,7 +587,7 @@ for(i in 1:length(hot1)){
   mtext('Distance from LG end (%)',2,2.5,cex=1.1)
   wilcox.test(d1$dist,d1$dist[hot1])
   #wilcox.test(d1$dist,d1$dist[hot5])
-  mtext('E',3,at=.4,cex=2)
+  mtext('e',3,at=.4,cex=2)
   ###
   vioplot::vioplot(d1$gc*100,100*d1$gc[hot1],100*d1$gc[hot10],col=viocol,main='',
                    ylim=c(20,88), axes=FALSE, xaxt='n',yaxt='n')
@@ -679,7 +679,7 @@ for(i in 1:length(hot1)){
   
   # 1 empty to fill with map 
   plot(0,pch='',xlab='',axes=F,ylab='')
-  mtext('A',3,cex=2,adj=-.1)
+  mtext('a',3,cex=2,adj=-.1)
   
   ## 2 Example LG32 
   {
@@ -744,7 +744,7 @@ for(i in 1:length(hot1)){
     text('CH',x=5.1e6,y=90)
     text('CH13',x=5.1e6,y=130,cex=.8)
     text('CH13_2',x=5.1e6,y=170,cex=.8)
-    mtext('B',3,-2.2,cex=2,adj=-.1)
+    mtext('b',3,-2.2,cex=2,adj=-.1)
   }
   
   ## 3 Corrplot at 2 scales 
@@ -767,7 +767,7 @@ for(i in 1:length(hot1)){
              diag=F, tl.cex = 1.7, number.cex = 1.5,
              tl.col=popcol[c(5,4,3,2,1)], tl.srt=45,na.label = ' ', tl.pos = 'd')
     #mtext('Correlation',4,-2.2,cex=mtext.size)
-    mtext('C',3,cex=2,adj=0.05)
+    mtext('c',3,cex=2,adj=0.05)
   }
   
   ## 4. Venn diagram
@@ -788,7 +788,7 @@ for(i in 1:length(hot1)){
     grid.draw(venn)
     popViewport()
     plot(0,pch='',xlab='',axes=F,ylab='')
-    mtext('D',3,cex=2,adj=0.05)
+    mtext('d',3,cex=2,adj=0.05)
     par(mar=c(5.1, 4.1, 4.1, 2.1))
     
   }
