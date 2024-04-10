@@ -1,4 +1,4 @@
-# Chapter_A
+# The recombination landscape of the barn owl, from families to populations 
 
 This is a directory that contains key scripts for the publication of "".
 
@@ -28,6 +28,10 @@ If thats not raw enought, fastq data can be found in NCBI under xxx.
 ## 2.metadata 
 
 Files here detail sample information and data used for the a couple of supplementary tables (S1 & S2). 
+
+## synteny 
+
+Files to create the synteny plot of Chicken-Barnowl-Chicken. 
 
 ## x.scripts 
 
