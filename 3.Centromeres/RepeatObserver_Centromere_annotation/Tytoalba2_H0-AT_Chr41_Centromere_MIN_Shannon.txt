@@ -1,0 +1,6 @@
+Tytoalba2_H0-AT_Chr41_cent25 157501 4.3e+07 Tytoalba2_H0-AT Chr41
+Tytoalba2_H0-AT_Chr41_cent100 17501 4.3e+07 Tytoalba2_H0-AT Chr41
+Tytoalba2_H0-AT_Chr41_cent250 107501 4.3e+07 Tytoalba2_H0-AT Chr41
+Tytoalba2_H0-AT_Chr41_cent500 22501 4.3e+07 Tytoalba2_H0-AT Chr41
+Tytoalba2_H0-AT_Chr41_cent1000 57501 4.3e+07 Tytoalba2_H0-AT Chr41
+Tytoalba2_H0-AT_Chr41_280_centwind 1400000 4.3e+07 Tytoalba2_H0-AT Chr41

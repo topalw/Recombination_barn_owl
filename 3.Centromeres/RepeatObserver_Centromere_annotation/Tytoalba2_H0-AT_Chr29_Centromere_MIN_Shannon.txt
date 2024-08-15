@@ -1,0 +1,6 @@
+Tytoalba2_H0-AT_Chr29_cent25 802501 15500000 Tytoalba2_H0-AT Chr29
+Tytoalba2_H0-AT_Chr29_cent100 967501 15500000 Tytoalba2_H0-AT Chr29
+Tytoalba2_H0-AT_Chr29_cent250 962501 15500000 Tytoalba2_H0-AT Chr29
+Tytoalba2_H0-AT_Chr29_cent500 127501 15500000 Tytoalba2_H0-AT Chr29
+Tytoalba2_H0-AT_Chr29_cent1000 112501 15500000 Tytoalba2_H0-AT Chr29
+Tytoalba2_H0-AT_Chr29_94_centwind 14100000 15500000 Tytoalba2_H0-AT Chr29
