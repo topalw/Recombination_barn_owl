@@ -1,6 +1,6 @@
 # The recombination landscape of the barn owl, from families to populations 
 
-This is a directory that contains key scripts for the publication of "".
+This is a directory that contains key scripts for the publication of "https://doi.org/10.1093/genetics/iyae190".
 
 The initial division is in data in `1.data`, metadata in `2.metadata` and scripts in `x.scripts`. 
 
@@ -19,7 +19,7 @@ If something is amiss let me know.
 
 ## 1.data
 
-Folder found in xxx as a dryad repository. More details on the structure can be found there.
+Folder found in [this link](https://zenodo.org/records/13982583) as a zenodo repository. More details on the structure can be found there.
 
 The data in the folder contain raw results of LepMap3, pyrho and smc++ along with windowed stats of the assembly etc. 
 
