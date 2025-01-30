@@ -23,7 +23,8 @@ Folder found in [this link](https://zenodo.org/records/13982583) as a zenodo rep
 
 The data in the folder contain raw results of LepMap3, pyrho and smc++ along with windowed stats of the assembly etc. 
 
-If thats not raw enought, fastq data can be found in NCBI under xxx. 
+If thats not raw enought, fastq data can be found in NCBI. Here is the data availability from the manuscript: 
+"All sample information is found in Supplementary File 2. Sequence data used in the study from previous publications are available on NCBI under BioProject codes PRJNA700797, PRJNA727915, PRJNA727977, PRJNA774943, and PRJNA925445. Sequence data generated for this study are available on NCBI under BioProject code PRJNA1172395." 
 
 ## 2.metadata 
 
